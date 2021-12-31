@@ -13,4 +13,9 @@
 - design system that:
     - reliable
     - maintainable
+        - testable
+        - can be changed easily
     - scalable
+        - read, write, scalable system
+        - 90 -95 percentile
+        - 
