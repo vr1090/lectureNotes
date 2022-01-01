@@ -1,5 +1,5 @@
 # Data Intensive apps
-## intro
+## 1. intro
 - speed of change
 - complexity:
     - speed
@@ -19,7 +19,7 @@
         - read, write, scalable system
         - 90 -95 percentile
 
-## data model
+## 2. data model
 - to realistics... just right ... to abstract
 - CS is an art of abstraction
 - Relational model: entity relationship
@@ -35,7 +35,7 @@
     - Neo4j, Sparql
 
 
-## storage and retrieval
+## 3. storage and retrieval
 - Phone book, index and searching
 - storage system for?
 - column oriented ... better query performance for aggregate
@@ -49,10 +49,12 @@
     - Bloom filters ... analyzing the content of set
     - B -trees ... ini page based. mostly in OLTP
 
-## agile code evolution
+## 4. agile code evolution
 - rolling update
 - backward compatible, code read old data
 - forward compatible, old code can read new data
 - encoding --> something --> decoding --> real
 - thrif ... dari facebook
 - protobuf .. gogle
+
+## 5. Data replication
