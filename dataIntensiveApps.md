@@ -107,4 +107,17 @@
 - scale up to the data, partitioning mechanism
 
 ## Transaction
+- ACID:
+    - atomic: all or nothing
+    - consistency --> foreign key kejaga
+    - siolation --> most important, serialibiliy, mechanism tell me if there is a problem
+    - durabily -> confirm, beneran di simpen
+- dirty read and write ... not partially commited data
+- these all concurrent issue
+- do not take data no commited
+- no lost update, no override
+- premise of that transaction is already false
+- serialbility --> actual serialization... 1 thread, all those gonna happen in serial
+- two phase locking -> lock semua, sampe traksaksi selesai
+- snapshot isolation --> cancel write, kalau premisenya engga benar.
 
