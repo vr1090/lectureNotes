@@ -58,3 +58,39 @@
 - protobuf .. gogle
 
 ## 5. Data replication
+- database di replicate di beberapa machine
+- bridge, go down, work with other machine
+- failure:
+    - machine failure
+    - latency
+    - scale to millions of user
+    - offline or network failure
+- replication single:
+    - single leader: write sendiri, terus lanjut ke replica1 and replica2
+    - master slave, replication. copy all data, to the replicas
+    - should we wait? syncronous and asyncronous
+    -  replication lag, check biar ga left behind
+    - what happens when leader goes down? detect a leader goes down
+    - snapshot all the data, and choose a new leader
+    - WAL write ahead log
+- multi leader:
+    - multiple leader who can take the writes
+    - there are several datacenter
+    - how about conflict?
+- No reader:
+    - semua bisa read and write
+    - application yg handling read and write ke semua replicas
+    - amazon dynamo, voldermort, cassandra
+    - resiliance, conflict resolution become even harder
+    - Read after write consistency
+    - algorithm, last writes wins
+    - eventual consistency
+- convergence of data
+- application owner have responsibily for distributed system
+- how this things work, data actually consistent.
+
+## Data Partioning
+- sama aja kayak data sharding, data bucketing
+- multiple machine with partition, this user, this machine will take care of it
+- Stop di menit
+
