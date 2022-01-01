@@ -121,3 +121,13 @@
 - two phase locking -> lock semua, sampe traksaksi selesai
 - snapshot isolation --> cancel write, kalau premisenya engga benar.
 
+## distributed system problem
+- network is not reliable
+- lots of queue: network, VM, etc
+- fault detecttion with time out
+- shared infra
+- congestion happen
+- ureliable clock
+- process stop, GC running
+
+

@@ -9,4 +9,7 @@
 - natural number set
 - predicate is a proposition, whose truth is depends on value of variable
 - get the idea, of what is true
+- false proof
+- Z for integer
+- 
 
