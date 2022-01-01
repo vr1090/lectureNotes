@@ -92,5 +92,19 @@
 ## Data Partioning
 - sama aja kayak data sharding, data bucketing
 - multiple machine with partition, this user, this machine will take care of it
-- Stop di menit
+- scale up to multiple machine
+- hot spot .. to much beban di satu machine
+- key based partition
+- second re-index, how changes changes.
+- multiple partition, global index impact
+- when to do rebalancing, is important as well
+- eouting tier, service discevory, my data is actually live here, 
+- leader partition in the database
+- user helix, zoo keeper, configuration management
+- embed routing in the client
+- routing info in node?, and then the node know where the data in the user
+- data bus, facilitate the movement
+- scale up to the data, partitioning mechanism
+
+## Transaction
 
