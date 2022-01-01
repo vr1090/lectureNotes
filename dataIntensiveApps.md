@@ -51,3 +51,8 @@
 
 ## agile code evolution
 - rolling update
+- backward compatible, code read old data
+- forward compatible, old code can read new data
+- encoding --> something --> decoding --> real
+- thrif ... dari facebook
+- protobuf .. gogle
