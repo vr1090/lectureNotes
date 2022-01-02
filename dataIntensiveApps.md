@@ -130,4 +130,17 @@
 - ureliable clock
 - process stop, GC running
 
+## consitency
+- read your own write
+- linearlibity
+- zookeeper for all consistency stuff
+- two phase commit:
+    - ada prepare
+    - request write data
+    - prepare
+    - send data
+    - kalau misal yg bisa prepare engga bales2, revert back
+- lamport time stamp, semua transaksi timestamp terakhir di ambil
+- misal ada request yg timestamp rendah, request client buat retry balik
+
 
