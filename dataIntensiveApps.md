@@ -156,3 +156,16 @@ hadoop ecosystem:
     - hbase
     - spark
 
+## Stream processing
+near realtime processing
+example:
+- credit card fraud
+- analystics and trends
+- anomaly detection
+
+stream system architecture:
+producer --> broker --> consumer
+brocker --> durabiliy for those event coming in
+alert. notive, etc
+ 
+
