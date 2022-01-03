@@ -143,4 +143,16 @@
 - lamport time stamp, semua transaksi timestamp terakhir di ambil
 - misal ada request yg timestamp rendah, request client buat retry balik
 
+## batch processing
+inspired by unix a lot
+chaining mapper and reducer.
+hadoop ecosystem:
+- zookeeper
+- hdfs
+- yarn: cluster resource management
+- mapReduce
+- diatas semua itu:
+    - pig
+    - hbase
+    - spark
 
