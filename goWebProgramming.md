@@ -46,5 +46,13 @@ folder :
  - pkg
    - hadler
 
+base.layout.tmpl
+{{define "base"}}
+    {{block "nama" .}}
+    {{end}}
+{{end}}
+
+{{template "nama"}}
+{{define "block"}}
 
 
