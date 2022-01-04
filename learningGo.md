@@ -97,7 +97,68 @@ string function, just use strings
 var nilMap map[int]string
 ```
 
+map in go is hash map
+slice with key converted using hash algorithm
 
+map as a set
+
+```
+var keyset = map[int]bool
+var x = []int{1,2,3,4,5,6}
+
+for _,key := range x {
+    keyset[key] = true
+}
+
+
+```
+
+### struct
+
+related data to group together.
+
+```
+type Person struct{
+
+}
+```
+struct literal can be assigned as well
+```
+ var x =Person{}
+```
+
+anonymous struct, define the struct first then the data
+
+```
+var x = struct{
+    name string
+}{
+    "something"
+}
+
+x.name // will return something
+```
+
+### function
+
+variadic parameter:
+- must be the last one
+- starts with ...
+
+```
+func version(apalah ...int)
+```
+func as a type
+func ... parameter ... return value
+
+type function
+
+```
+type ofFunction func(int,int) string
+```
+
+closure ... the ability of internal function, to access value from
+outer.
 
 
 
