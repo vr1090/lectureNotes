@@ -60,3 +60,22 @@ var (
 `:=` is not legal out side of a function
 
 const is being evaluated when on compile time
+
+
+## Composite type
+### array
+```
+var x [3]int
+var x = [3]int{1,2,3}
+var x = [...]{1,2,3}
+```
+
+size of an array, is part of the type of the array.
+array is backing store of slices.
+
+### slice
+
+
+
+
+
