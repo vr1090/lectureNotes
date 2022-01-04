@@ -21,3 +21,42 @@ go run command create a temp binary
 go build --> create a binary in current executing folder
 go install --> get the dependencies from the source code
 go install --> facade for a command line tools
+
+## basic data type
+
+integer:
+- 0o, 0b, etc
+- int and uint
+- version 8, 16,32,64
+- byte --> unit8
+- int can be 64 bit or 32 bit. depends on processor type
+
+rune:
+- represents by single character
+
+bool:
+- true and false
+
+strings:
+- operator ==, +=. >=, <= >
+
+GO does not have type promotion. you need to explicity convert that.
+
+convert boolean can be done using conversion.
+
+declare multiple variable:
+```
+var x,y, z int = 10,20,30
+```
+
+declaration list:
+```
+var (
+    x int = 100
+    y int = 200
+)
+```
+
+`:=` is not legal out side of a function
+
+const is being evaluated when on compile time
