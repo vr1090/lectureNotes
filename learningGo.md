@@ -75,6 +75,28 @@ array is backing store of slices.
 
 ### slice
 
+sequence of value
+```
+var x = []int{1,2,3}
+len(nil) == 0
+x = append(x, 1,2,3,4,5,6,7)
+x =make([]int, 5, 10) // create a slice, with capacity 10 and length of 5
+
+```
+slicing offset .. [start: end], when not define will start from 0 and len(slice)
+
+```
+copy( destination, source)
+```
+
+string function, just use strings
+
+### map
+
+```
+var nilMap map[int]string
+```
+
 
 
 
