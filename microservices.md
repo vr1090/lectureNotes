@@ -48,3 +48,7 @@
 - service : a stable routing endpoint
 - the service to route call from and to the pod
 - deploy pod that map to a service
+- replica set ... desired state of the pod, ( how many, where to each etc)
+- managing pod and replicaset -> deployment
+- openShift, ada multitenancy
+- 
