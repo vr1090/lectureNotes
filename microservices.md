@@ -40,7 +40,8 @@
 - agregates:collection of item, treated like one
 
 ### kubernetes and container orchestration
-- docker swarm, apache mesos
+- docker swarm, apache mesos, nomad
+- parent: borg and omega
 - how and when container platform are run
 - kubernetes control plane, pod and node
 - side car proxy, such as envoy
