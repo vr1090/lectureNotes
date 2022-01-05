@@ -1,0 +1,50 @@
+# building microservices
+
+## 8. deployment
+- one database per microservices
+- environment always change
+- principles:
+    - isolation execution
+    - automation
+    - infra as a code
+    - zero downtime deployment ( user or other services)
+- lower cost, faster provisioning
+- blue green deployment mechanism
+- desired state management: kubernetes
+- nomad: mirip kubernetes, tapi ga perlu container
+- gitops: infras as code, chef and puppet
+- deployment:
+    - physical machine
+    - VM
+    - container
+    - PAAS
+    - FAAS
+- VM:
+    - think like a sockdrawer
+    - what should we do, when we keep add partitioning?
+    - type 2 virtualization: VM run on an OS
+    - type 1 virtualization: VM run directly on hardware
+    - autoscaling group in GCP and others
+- Container:
+    - LXC
+    - container can have several OS, but using same kernel ![container](microservices_container.png)
+    - virtual isolation
+    - windows nano server
+    - docker: image
+    - kubernetes : managing lots of container accross lots of machine
+- PAAS:
+    - use a framework, they can provide lots ofr services for you
+- FAAS:
+    - serverless .. not means you dont use server, you are not managing one.
+    - cuma memory yg bisa di mainin pakai FAAS.
+- agregates:collection of item, treated like one
+
+### kubernetes and container orchestration
+- docker swarm, apache mesos
+- how and when container platform are run
+- kubernetes control plane, pod and node
+- side car proxy, such as envoy
+- pod : smallest deployable in kubernetes
+- service : a stable routing endpoint
+- the service to route call from and to the pod
+- deploy pod that map to a service

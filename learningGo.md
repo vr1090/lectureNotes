@@ -139,7 +139,7 @@ var x = struct{
 x.name // will return something
 ```
 
-### function
+## function
 
 variadic parameter:
 - must be the last one
@@ -159,6 +159,12 @@ type ofFunction func(int,int) string
 
 closure ... the ability of internal function, to access value from
 outer.
+
+defer is a last in first out
+
+## pointer
+
+pointer arimetic are not allowed in go
 
 
 
