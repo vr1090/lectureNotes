@@ -53,6 +53,7 @@
 - managing pod and replicaset -> deployment
 - openShift, ada multitenancy
 - katacoda has a good kubernetes tutorial
+- CRD: common resource, extends core kubernetes API
 
 ### deployment
 - feature toggle, canary release, parallel runs
