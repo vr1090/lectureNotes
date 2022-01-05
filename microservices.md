@@ -51,4 +51,20 @@
 - replica set ... desired state of the pod, ( how many, where to each etc)
 - managing pod and replicaset -> deployment
 - openShift, ada multitenancy
-- 
+- katacoda has a good kubernetes tutorial
+
+### deployment
+- feature toggle, canary release, parallel runs
+- deployment -> install to environment, release -> make some part expose to user.
+- Blue green deployment:
+    - Blue is the live
+    - Green is the new system
+    - run in pararel
+    - when green is ok, switch the request to green
+- Canary release
+    - small subset of user see the new feature
+    - if all is ok, release for all
+- Pararell run
+    - two version at the same time
+    - two request to compare
+    - only use one of the result returned
