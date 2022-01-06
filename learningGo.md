@@ -165,6 +165,11 @@ defer is a last in first out
 ## pointer
 
 pointer arimetic are not allowed in go
+- indirection is transparent in go
+- type assertion
+- slices and map are array
+
+
 
 
 
