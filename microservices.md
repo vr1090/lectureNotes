@@ -95,3 +95,33 @@
     - preventive
     - detective -> alerting when attack happen, firewall, IDS
     - responsive -> helps 
+- OWASP model:
+    - identify
+    - protect
+    - detect
+    - respond
+    - recover
+
+- seperate backup, ocasionally restoring them
+- implicit trust ... when already inside the network, we trust the request
+- zero trust: thinking that you are working on hostile environment
+- level of data:
+    - public
+    - private
+    - secret
+- client identity -> sharing secret, or request is being signed
+-  vault, mutual TLS
+- HMAC, hash based message, kirim hash bareng message
+- salted password hashing
+- person authenticated .. principal
+- MFA ... multi factor authentication
+- yubikey
+- JWT passing from one microservice to others
+- down stream ... server, backend etc
+- deputy problem, using ou own credential to access unauthorized data
+
+
+
+## Resilency
+- the ability to recover from dificulties
+- robust .. can work on severay known exception
