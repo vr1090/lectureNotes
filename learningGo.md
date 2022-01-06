@@ -180,7 +180,21 @@ pointer arimetic are not allowed in go
 - delete(m, key)
 - test element is there : value,ok = map[key]
 - fallthrough
-- 
+
+
+## method
+- method is function of an instance of object
+- type aliasing, to define method on type we don't own
+- method can be associated with:
+    - named type
+    - pointer type
+
+## interface
+```
+type error interface{
+    error() string
+}
+```
 
 
 
