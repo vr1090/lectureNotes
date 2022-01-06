@@ -70,3 +70,28 @@
     - two version at the same time
     - two request to compare
     - only use one of the result returned
+
+
+## from monitoring to observability
+
+- Aggregation of information: metric and logs
+- observability ... understand the state of program, from external output
+- seeing as a system
+- monitoring .. something you do, to monitor the system
+- before anything else, setup a log agregation tools
+- corelation id
+- clock skew --> NTP
+- kibana is  SSPL now.
+- log agregation
+- metric agregation
+- system tracing
+
+## Security
+- consious incompetent
+- think as designing house, if you back door open, what for?
+- castle principle of depth
+- least priviledge
+- security control:
+    - preventive
+    - detective -> alerting when attack happen, firewall, IDS
+    - responsive -> helps 
