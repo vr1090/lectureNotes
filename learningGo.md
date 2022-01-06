@@ -169,7 +169,18 @@ pointer arimetic are not allowed in go
 - type assertion
 - slices and map are array
 
+## slices
+- making slices make([]int, 3)
+- variabel... -> chnage variabel, into variadic array
+-  range ... slices for index, value
+- range ... map.. for key , value
 
+## maps
+- same as dictionary or hashes
+- delete(m, key)
+- test element is there : value,ok = map[key]
+- fallthrough
+- 
 
 
 
