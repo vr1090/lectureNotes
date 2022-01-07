@@ -195,6 +195,10 @@ type error interface{
     error() string
 }
 ```
+switch type can be only used for interface
+
+## coroutine
+- share memory by communicating
 
 
 
