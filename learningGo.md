@@ -168,6 +168,9 @@ pointer arimetic are not allowed in go
 - indirection is transparent in go
 - type assertion
 - slices and map are array
+- pointer are sign of mutability
+- mutability much harder to enforce contract
+- 
 
 ## slices
 - making slices make([]int, 3)
