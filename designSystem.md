@@ -10,3 +10,8 @@ algorithm:
 rate limiting type:
 - hard rate limiting : strict rule enforced
 - soft rate limiting : request can exceed the threshold
+
+
+# Consistent hashing
+
+- general idea : hash(key) % N, with N as number of server
