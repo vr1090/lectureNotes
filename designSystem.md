@@ -15,3 +15,4 @@ rate limiting type:
 # Consistent hashing
 
 - general idea : hash(key) % N, with N as number of server
+- circle, with server and key across the circle

@@ -6,3 +6,6 @@ list of lecture notes
 - [Data intensive apps](dataIntensiveApps.md)
 - [Docker notes](docker.md)
 - [coroutines](coroutine.md)
+- [android window](masteringWindow.md)
+- [kubernetes](kubernetes.md)
+- [big query](bigquery.md)
