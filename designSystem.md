@@ -51,4 +51,26 @@ rate limiting type:
     - example, cloudflare
     - when user request, cloudflare will check, if it has is own
     - if not, put on cdn, and send to user
-    
+# cache
+    - something u put in memory
+    - faster load
+    - cache strategy
+        - cache aside : get data from storage, and then cache it
+        - read trough : when apps does not have access to storage, always using cache api
+        - write throuh : write data to cache, cache will update the storage
+        - write behind: same with write through, but will wait for timeout or more write, and then flush the storage
+    - eviction policies:
+        - when cache is too big
+        - which element should be removed?
+        - LRU .. least recently used
+        - LFU ... least frequently used
+    - Redis
+        - in memory key value store
+        - key is string
+        - value is list string or hash
+        - TTL time to live, when we put key to redis
+        - redis persistence, can store data in hardisk
+            - say, the process crashed
+            - after restart, the state will be restored
+
+
