@@ -73,4 +73,28 @@ rate limiting type:
             - say, the process crashed
             - after restart, the state will be restored
 
+# message queue
+- there 2 type .. message based, pub and sub
+- rabbit mq , AMQP
+
+## rabitMQ
+- distribute load 
+- message topic
+- exchange:
+    - direct
+    - fan out
+    - topic exchange .. round robin
+
+## kafka
+- event straming platfomr
+- producer and consumer
+- will delete after certain times exceeds
+- kafka topics most likely sharded
+- kafka partition, topic will be partitioned
+- need to make sure, number of subscriber 
+- number partition ... maximum number of consumer
+- consumer group .. topic will delivered to consumer group, but only one will be ack it
+- the order is always preserved
+- 
+
 
