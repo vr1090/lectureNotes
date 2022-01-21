@@ -95,6 +95,40 @@ rate limiting type:
 - number partition ... maximum number of consumer
 - consumer group .. topic will delivered to consumer group, but only one will be ack it
 - the order is always preserved
+
+
+## TCP
+- most of all using TCP
+- Pro:
+    - reliable
+    - error checked
+    - ordered
+- cons:
+    - kind of slow
+- payload broken into pieces: packets
+- when send, sender start a timer
+- the timer exceed, resend again
+- receiver can request if there are missing packet
+- checksum attached to packet
+
+## UDP
+- no ack
+- no checksum
+- fast
+- can be out of order and corupted
+- good for: metric, video streaming, gaming
+
+## HTTP
+- text with link
+- HTTP method is verb
+- PATCH is for partial update
+- PUT is for update data
+- status code:
+    - 2xx --> sucess, 200 ok, 201 created
+    - 4xx --> client error, 401, 403, 404. unauthorized, forbidden, not found
+    - 3xx -> redirection, 301 moved permanently
+    - 1xx --> proceed
+- PUT is idempotent
 - 
 
 
