@@ -129,6 +129,31 @@ rate limiting type:
     - 3xx -> redirection, 301 moved permanently
     - 1xx --> proceed
 - PUT is idempotent
-- 
+
+## web socket
+- connect to server first
+- after that 2 way communication
+- real time message delivery
+- load balancer might have trouble
+- more efficient than polling
+
+## long pooling
+- open connection
+- no reply yet
+- close the message when we finished
+
+## GRPC
+- IDL, interface definition language
+- RPC remote procedure call
+- it is calling service outside, as if its from local
+- protobuf as idl
+- can not be used for browser
+
+## GraphQL
+- release by facebook
+- hadles overfetching and underfetching
+- in REST can request for a field
+- Query and mutation
+- libraries are not mature enough, pnly javascript and typescript
 
 

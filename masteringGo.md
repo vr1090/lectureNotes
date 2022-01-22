@@ -14,3 +14,5 @@ func main(){
 ```
 - lowercase letter is private in golang
 - external package use full internet path
+- go build ... create and compile executing apps
+- 
