@@ -30,3 +30,9 @@ func main(){
 - log/syslog --> send message to syslog server
 - log.Fatal --> reporting bad situation, then exit
 - log.Panic --> get as much as possible information
+
+
+# basic datatype
+- go treats error as a value
+- fmt.Errorf() simplfy error creation
+- datatype .. numeric and non numeric
