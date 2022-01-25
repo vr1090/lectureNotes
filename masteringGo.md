@@ -36,3 +36,13 @@ func main(){
 - go treats error as a value
 - fmt.Errorf() simplfy error creation
 - datatype .. numeric and non numeric
+- numeric: 8,16,32,64
+- automatically assign with zero value
+- non numeric: string, date, times, rune
+- go string is collection of bytes
+- go has unicode support ... rune
+- rune is represent as int32 value, but can not be compared
+- rune can use single '$'
+- string(int), unicode code point
+- strconv.Itoa -> comvert to number, as in string
+g
