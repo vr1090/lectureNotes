@@ -19,4 +19,17 @@
 - immuntablity written
 - double spend problem
 - extreme amount wasted of duplicate works
+
+# NFT
+- blockchain as generic database, handling exchange of value
+- strict uniqness, like a book copy
+- you have one, I have one, but two are different
+- a unique serial number, which can not be sudivided 
+- token ..a small packet of data, which have a payload
+- most of the claim functionality are broken
+- what token represent are abitrary
+- beeple sell nft of all his works
+- what are you actually sold?
+- sacarce is the token itself, not the stuff
+
  
