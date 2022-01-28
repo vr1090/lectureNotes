@@ -45,4 +45,20 @@ func main(){
 - rune can use single '$'
 - string(int), unicode code point
 - strconv.Itoa -> comvert to number, as in string
-g
+- unicode package, IsPrint method
+- string :
+    - equalfold --> check case insensitive, check two strings
+    - Index .. check if second parameter can be found
+    - Replace(source, found, change, -1)
+        - -1 means it did not care about repeat
+- time:
+    - time.Time , precision in nanosecond plus it have location data
+    - go does not have implicit data type conversion
+    - time.Unix() --> got time in epoch
+    - time.Parse() --> perlu layout, value string
+        - return time.Time
+    - Time: day, month, year
+    - time.LoadLocation() .. buat set location dari itu
+    - iota , declaring sequence of related value
+    - array need to declaring size or else use [...]
+    
