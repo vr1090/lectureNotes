@@ -61,4 +61,5 @@ func main(){
     - time.LoadLocation() .. buat set location dari itu
     - iota , declaring sequence of related value
     - array need to declaring size or else use [...]
-    
+    - go makes a copy when you pass an array
+    - 
