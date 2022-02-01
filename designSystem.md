@@ -156,4 +156,14 @@ rate limiting type:
 - Query and mutation
 - libraries are not mature enough, pnly javascript and typescript
 
+## process
+- each has its own memory
+- interprocess communication:
+    - file
+    - socket
+    - pipe
+        - standard output, to standard input
+        - pipe connect the tube
+    - signal
+
 
