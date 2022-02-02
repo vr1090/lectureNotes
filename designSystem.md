@@ -161,9 +161,74 @@ rate limiting type:
 - interprocess communication:
     - file
     - socket
+        - connect, and listen
+        - unix domain socket
     - pipe
         - standard output, to standard input
         - pipe connect the tube
     - signal
+        - kill -9
+
+## thread
+- lightweight process
+- every thread has its stack
+- spawning thread is slow
+- OS limits number of thread
+- each thread consume memory
+- thread pool
+    - remember like a cook, in a kitchen
+
+## database indexes
+- alpahbetical list of important topics
+- full table scan, search row by row
+- tree lookup O( log n)
+- B-tree , is not a binary tree
+- B tree , value in leaves, and nodes hold the ranges.
+
+## database sharding
+- data is separated
+- how?
+    - tenant based... based on geo position
+        - sometimes it is un-even
+    - hash based sharding
+    - entity locator, when apps try to find something, it questions the location for the data
+    - consistent hashing
+        - using range
+        - add new shard in the middle, so the data can be balanced out
+
+## partitioning
+    - sharding is seperate small database
+    - partitioning is separate small table
+    - everything is a file
+    - small table, faster query
+    - partition by range of date
+    - maintence hell
+
+## CAP theorem
+- When network partioning occurs, data can not be consitent or avaliable at the same time
+- pick two is wrong
+- consitency or avaliability
+- mostly for noSQL database
+- pick consitency .. database in read only mode
+- pick avaliable, the data will be updated on both database, but lose the consistency
+- conflict resolution:
+    - majority based : the data that have bigger supporter will win
+- summary:
+    - mostly about NOsql
+    - mostly about writes
+- consistency -> all service sees the same data,but can not write
+- avaliabiliy -> all service can write, but there is possible the data is different between database
+
+## ACID
+- acid is all about transaction
+- begin start the transaction, commit end the transaction
+- atomic .. all statement is either success or fail
+- consistent .. the integrity is correct, example unique id or name
+    - all validation is executed
+- durability:
+    - evrthing is saved to disk
+- isolation .. before the transaction finished, the other user can not see the result of the transaction
+- trade of : memory, CPU, IO
+
 
 
