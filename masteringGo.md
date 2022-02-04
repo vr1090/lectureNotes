@@ -76,6 +76,17 @@ func main(){
 
 ## Pointer
 - go has support for pointer, but not pointer aritmathic
-- 
+- a pointer, is a memory address of a variable
+- the format and memory address. will be different between machine
+- nil can be used as absence of value
+- nil is zero value of a pointer
+    - point to nowhere
+- new initialize a pointer
+
+## generating random numbers
+- generating random number is hard for computer
+- math/rand
+- rand.Seed --> used for initialize the package
+- crypto/rand --> generating secure cryptographic random number
 
     
