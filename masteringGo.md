@@ -60,6 +60,22 @@ func main(){
     - Time: day, month, year
     - time.LoadLocation() .. buat set location dari itu
     - iota , declaring sequence of related value
-    - array need to declaring size or else use [...]
-    - go makes a copy when you pass an array
-    - 
+- array need to declaring size or else use [...]
+- go makes a copy when you pass an array
+- expanding slice .. use ...
+- use somekind of slice ...
+- slice[a:b:c], c is the capacity
+- byte slice and string slice are the same
+- formatted, %s, byte slice as string
+- slice has backing underlying array
+-  when capacity changed, the underlying array also changed
+- copy, move data from source to destination
+- sorting slice .. sort package
+- sorting sort.Interface .. for creating your own sorting
+
+
+## Pointer
+- go has support for pointer, but not pointer aritmathic
+- 
+
+    
