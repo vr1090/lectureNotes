@@ -6,4 +6,7 @@
 
 
 # deklension
-- small changes in the 
+- small changes in the artikel and adjective
+
+## words feb 5
+- der dosenoffner --> can opener

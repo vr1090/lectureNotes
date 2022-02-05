@@ -89,4 +89,7 @@ func main(){
 - rand.Seed --> used for initialize the package
 - crypto/rand --> generating secure cryptographic random number
 
+## maps
+
+
     
