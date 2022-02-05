@@ -31,4 +31,6 @@ property: value
 - RGBA .. (255,255,255, 0-1 float)
 - background-repeat: repeat-x repeat-y no-repeat
 - background-attachment: bisa fixed or scroll
+- border : style, width, color
+    - style: 
 
