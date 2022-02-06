@@ -25,3 +25,15 @@
 
 # image card
 - composable function start with upper case
+- Painter buat akses image di resource
+    - painterResource()
+- common buat passing modifier
+- empty modifier , Modifier
+- shape, RoundedCornerShape(dp)
+- Card composable
+- Stack content: Box composable
+- Image composable
+- TextStyle() --> buat modify style text
+- setContent .. is always the entry point for composable
+- background as gradient
+- Brush. verticalGradient
