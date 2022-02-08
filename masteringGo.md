@@ -90,6 +90,13 @@ func main(){
 - crypto/rand --> generating secure cryptographic random number
 
 ## maps
+- should check if map is nil, when passing to function
+- map will throw panic if access nil value
+```
+package main
+import "fmt"
 
-
+func main(){
     
+}
+```
