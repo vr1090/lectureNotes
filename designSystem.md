@@ -230,5 +230,11 @@ rate limiting type:
 - isolation .. before the transaction finished, the other user can not see the result of the transaction
 - trade of : memory, CPU, IO
 
+## web session management
+- cookies, transfers di http headers
+- session ID, di simpen di server
+- layer 7 load balancer, sticky session
+- key value store
+
 
 
