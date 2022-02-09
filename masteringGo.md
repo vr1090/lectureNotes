@@ -97,6 +97,18 @@ package main
 import "fmt"
 
 func main(){
-    
+
 }
 ```
+- range balikan K,V
+
+## struct
+- ini tipe baru
+```
+type Entry struct{
+    name string
+    address string
+}
+```
+- akses dot notation
+- struct literal .. -> Entry{name:"inu"}

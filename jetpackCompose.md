@@ -37,3 +37,14 @@
 - setContent .. is always the entry point for composable
 - background as gradient
 - Brush. verticalGradient
+
+# text styling
+- properties di text:
+    - text, color, fontSize
+    - fontStyle, textDecoration
+- google font
+- resource folder, font
+- FontFamily( Font(R.font.font))
+- withStyle(){
+    
+}
