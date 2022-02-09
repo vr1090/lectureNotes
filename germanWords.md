@@ -5,4 +5,6 @@
 - die fiedel ... fiddle
 - anbrullen .. to yell at
 -  panisch .. panickly
-
+- der ozean .. the ocean
+- kroatien ... kroasia
+- das ding .. the thing
