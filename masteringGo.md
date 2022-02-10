@@ -112,3 +112,6 @@ type Entry struct{
 ```
 - akses dot notation
 - struct literal .. -> Entry{name:"inu"}
+- type identity of struct, urutan field ngaruh
+- new function, return a pointer
+- 
