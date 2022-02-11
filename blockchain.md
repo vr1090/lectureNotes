@@ -1,0 +1,12 @@
+# what is bockchain
+- binary, list kumpulan transaksi
+- ledger .. value excahning hand
+- adding block ... mine the block
+- hashing function .. input and output
+- SHA 256
+    - secure hashing algorithm
+    - selalu 256
+    - ga bisa di tebak sha 256
+- selesai check number, dapet 2 bitcoin
+- hasil hash, di append di last blockchain
+- umpama ada yg edit block chain lama, semua hash bakalan rusak.
