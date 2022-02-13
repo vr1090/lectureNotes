@@ -10,3 +10,10 @@
 
 ## words feb 5
 - der dosenoffner --> can opener
+
+## words feb 13
+- der lieblingsfilm .. pilem kesukaan
+-  der trick .. trik
+- das paar ... pasangan
+- sich umziehen ... ganti baju
+

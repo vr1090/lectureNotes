@@ -46,5 +46,20 @@
 - resource folder, font
 - FontFamily( Font(R.font.font))
 - withStyle(){
-    
+
 }
+
+# snackbar
+- scaffoldState
+- set textlink with a state
+- scaffoldstate.snackbarHostState
+- rememberCoroutineScope
+
+
+# constraintSet
+- Constraintset
+    - createRefFor
+- constraint( ref)
+    - top.linkTop(parent)
+- modifier
+    - layoutId(string)

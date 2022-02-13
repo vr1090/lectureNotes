@@ -28,3 +28,14 @@ Dockerfile
 
 ==== docker ====
 docker login
+
+different tag
+push command different for each repository
+
+in general:
+- login first
+- reigirtyDOmain/imageName:tag
+- kenapa kalo pull engga gini?
+- docker tag .. ini buat kasih alamat registry
+- docker push
+
