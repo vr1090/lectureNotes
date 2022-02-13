@@ -63,3 +63,4 @@
     - top.linkTop(parent)
 - modifier
     - layoutId(string)
+- createHorizontalChain()
