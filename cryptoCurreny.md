@@ -5,3 +5,8 @@
     - raft
 - fork:
     - two contradict, poses as valid value
+- Byzantine fault tolerant (BFT)
+-  crypto to authenticate message and decision
+- algorand ... pos, how much they stake
+- ecdsa, elliptic curve
+- utxo , undpend ransaction
