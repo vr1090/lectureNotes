@@ -114,4 +114,32 @@ type Entry struct{
 - struct literal .. -> Entry{name:"inu"}
 - type identity of struct, urutan field ngaruh
 - new function, return a pointer
-- 
+- zero value of its data type
+
+## regular expression
+- pattern matching .. teknik buat nyari string dalam string
+- regular expression .. text yg nentuin pattern
+    - finite automaton
+- recognizer .. ambil x dan tentuin kalau ini adalah sentence
+- regexp package
+- backtick in go?
+    - raw string literal, content anything
+```
+re := regexp.MustCompile(pattern)
+re.Match()
+```
+
+## CSV
+- io.Reader , io.Write
+
+## reflection
+- reflect package
+- reflect.TypeOf
+- reflect.ValueOf
+
+## interface
+- satified implicitly
+- empty interface ... ```interface{}``` satisfied by all datatype
+- want to share common behavior
+- composition .. embed other interface ... as if it is the one
+- sort.Interface
