@@ -10,3 +10,18 @@
 - algorand ... pos, how much they stake
 - ecdsa, elliptic curve
 - utxo , undpend ransaction
+- unspent transaction output
+
+# who track transaction
+- everyone!!
+- append only ledger
+- blockchain explorer
+- include hash of previous block
+- send transaction to miner
+- miners got:
+    - reward and fees
+- coinbase ... yg kumpulin reward and fees
+- 51% attack
+- merke tree
+    - internal tree are hash of their children
+    

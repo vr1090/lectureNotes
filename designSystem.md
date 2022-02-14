@@ -236,5 +236,13 @@ rate limiting type:
 - layer 7 load balancer, sticky session
 - key value store
 
+## design marketplace
+- when supply and demand, we called it a marketplace
+- make an asumption of your user
+- create a usecase of what is happening
+- spike .. : 2, 4, 10
+- sharding, pecah database
+- 
+
 
 
