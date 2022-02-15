@@ -17,3 +17,9 @@
 - das paar ... pasangan
 - sich umziehen ... ganti baju
 
+## words feb 15
+- entfernt .. jauh .. distance
+- die lieferung  ... pengiriman .. delivery
+- treffen ... ketemuan
+- verlassen .. pergi
+
