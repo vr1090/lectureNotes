@@ -143,3 +143,11 @@ re.Match()
 - want to share common behavior
 - composition .. embed other interface ... as if it is the one
 - sort.Interface
+
+## module and function
+- all code in go is in apckage
+- package with version is a module
+- executable only in main package
+- ```tree go```
+- anonymous function
+- lambda
