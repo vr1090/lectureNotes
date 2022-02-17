@@ -23,3 +23,11 @@
 - treffen ... ketemuan
 - verlassen .. pergi
 
+## word feb 17
+- der schaden , kerusakan
+- andererseits .. on the other hand, dari sisi lain
+
+## word 18 feb
+- das vorlesen ... reading aloud
+
+

@@ -242,7 +242,25 @@ rate limiting type:
 - create a usecase of what is happening
 - spike .. : 2, 4, 10
 - sharding, pecah database
-- 
+
+
+## location
+- sharding?
+- location based on shape
+- locator service, hexagon and physical shards
+
+## taxis around you
+- driver change location every 5 seconds
+- display some limited of them
+- geospatial query, postgresql
+- creating index services
+
+## rider request, matching service
+- driver location service
+- fetch number of driver
+- sequential:
+    - coba satu2
+    - slow for the user
 
 
 
