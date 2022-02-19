@@ -29,5 +29,9 @@
 
 ## word 18 feb
 - das vorlesen ... reading aloud
+- sich an.schnall.en ... pasang sabuk
+- das stockwerk ... the level
+- die waffel .. the waffle
+- die hitze ... the heat
 
 

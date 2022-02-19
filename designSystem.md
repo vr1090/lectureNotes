@@ -262,5 +262,13 @@ rate limiting type:
     - coba satu2
     - slow for the user
 
+## design chat system
+- put message
+- create index on namaTable(column, column)
+- scaling reads:
+    - web socket
+- same hash means same shard
+- new message store in queue, then to dabatabse
+
 
 
