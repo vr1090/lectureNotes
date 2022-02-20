@@ -270,5 +270,28 @@ rate limiting type:
 - same hash means same shard
 - new message store in queue, then to dabatabse
 
+## design web crawler
+- url -> fetch content -> store -> fetch url
+- where should I finish?
+    - is it just for one website?
+    - or something else?
+- should I use queu
+    - yes, for url and for store content
+- fetch content .. we need headless browser
+    - browser architecture:
+        - UI
+        - Renderer
+        - js intepreter
+        - networking
+- scrub web, at determine time
+- key value store, example redis
+- politeness
+    - dont crawl the same web to much
+    - each web need different time
+- another box for prioritizer
+- frequncy .. content change ... increase the time
+    - until the next check
+- frequency ... content not changed 
+    - half the time
 
 
