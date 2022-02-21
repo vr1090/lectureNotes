@@ -64,3 +64,12 @@
 - modifier
     - layoutId(string)
 - createHorizontalChain()
+
+# lazyColumn
+```
+    LazyColumn{
+        items(list){
+            
+        }
+    }
+```
