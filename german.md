@@ -38,11 +38,17 @@
 - fordern .. to require ... meminta
 - der fussboden .. lantai
 
-# word 20 feb
+## word 20 feb
 - sich ent.wick.len .. mengembang
 - stumm .. mute .. diam
 - die schwie.rig.keit ... kesusahan
 - die leh.re ... teaching .. pengajaran
+
+##  word 21 feb
+- die scheidung ... the divorce
+- der Be.wohn.er .. penghuni
+- das spielzeug .. mainan
+- der auf.zug .. lift
 
 
 
