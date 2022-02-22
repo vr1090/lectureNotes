@@ -69,7 +69,17 @@
 ```
     LazyColumn{
         items(list){
-            
+
         }
     }
 ```
+
+# side effect
+- everything that escape the scope of function
+- sideEffect ... di panggil kalau caomposable berhasil
+
+# animation
+- animateDpasState ... ini bakalan interpolasi nilai
+    - di set modifier
+- animationSpec .. buat spesifikasi animation
+
