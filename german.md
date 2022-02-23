@@ -50,6 +50,22 @@
 - das spielzeug .. mainan
 - der auf.zug .. lift
 
+## word 22 feb
+- uben ... berlatih
+- ver.ur.teil.en ... mengutuk
+- das waschmittel ... deterjen
+- ge.nie.ssen ... to enjoy, menikmati
+- stempeln ... stempel
+
+## word 23 feb
+- das klo ... toilet
+- das handy ... handphone
+- ofter .. lebih sering
+- meinen ... pendapat
+- versch.rie.ben ... meresepkan .. to prescripe
+- die aussicht ... the view .. pemandangan
+-  
+
 
 
 
