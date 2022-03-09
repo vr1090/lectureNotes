@@ -157,5 +157,10 @@
 </node>
 </node>
 </node>
+<node CREATED="1646825743684" ID="ID_1980900154" MODIFIED="1646825748319" POSITION="right" TEXT="reverse bit">
+<node CREATED="1646825748598" ID="ID_809195420" MODIFIED="1646825759888" TEXT="how to check when overflow?"/>
+<node CREATED="1646839958871" ID="ID_826246121" MODIFIED="1646839962451" TEXT="math.fmod"/>
+<node CREATED="1646840872466" ID="ID_723155245" MODIFIED="1646840879725" TEXT="handle -1 di python rada hell"/>
+</node>
 </node>
 </map>
