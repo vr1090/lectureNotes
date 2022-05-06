@@ -82,6 +82,39 @@
 </node>
 <node CREATED="1651832960852" ID="ID_776366098" MODIFIED="1651832965806" POSITION="right" TEXT="counting semaphore">
 <node CREATED="1651832966133" ID="ID_455488660" MODIFIED="1651832971704" TEXT="buffered channel"/>
+<node CREATED="1651833182573" ID="ID_973350325" MODIFIED="1651833190088" TEXT="&lt;- tick"/>
+</node>
+<node CREATED="1651833355838" ID="ID_434701408" MODIFIED="1651833364553" POSITION="left" TEXT="select with no cases, will wait forever"/>
+<node CREATED="1651845249028" ID="ID_197745948" MODIFIED="1651845304042" POSITION="right" TEXT="select">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      select {
+    </p>
+    <p>
+      &#160;&#160;&#160;case &lt;-channel:
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;
+    </p>
+    <p>
+      &#160;&#160;&#160;case &lt;- channel :
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      }
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1651845918297" ID="ID_1446652527" MODIFIED="1651845921974" POSITION="left" TEXT="single variable">
+<node CREATED="1651845922486" ID="ID_1509710165" MODIFIED="1651845939008" TEXT="tutupin, buat diakses sama satu goroutine"/>
 </node>
 </node>
 </map>
