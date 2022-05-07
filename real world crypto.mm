@@ -8,5 +8,53 @@
 <node CREATED="1651913582360" ID="ID_910964901" MODIFIED="1651913586157" TEXT="man in the middle"/>
 </node>
 </node>
+<node CREATED="1651913764578" ID="ID_633512182" MODIFIED="1651913768642" POSITION="left" TEXT="web public key">
+<node CREATED="1651913768844" ID="ID_1826643652" MODIFIED="1651913779670" TEXT="signing thousand of public key"/>
+</node>
+<node CREATED="1651914110559" ID="ID_1170781128" MODIFIED="1651914188176" POSITION="right" TEXT="secure transport">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      SSL dibuat buat web
+    </p>
+    <p>
+      TLS paling baru, TLS 1.3
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1651915133299" ID="ID_495962841" MODIFIED="1651915144552" TEXT="ssl is broken"/>
+<node CREATED="1651915213318" ID="ID_512611289" MODIFIED="1651915328550" TEXT="client and sever">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      client initiate the connection
+    </p>
+    <p>
+      server yg nunggu di kontak
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      client butuh info: FQDN sama port
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      create a session
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 </map>
