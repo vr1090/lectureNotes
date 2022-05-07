@@ -110,8 +110,7 @@
       }
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1651845918297" ID="ID_1446652527" MODIFIED="1651845921974" POSITION="left" TEXT="single variable">
 <node CREATED="1651845922486" ID="ID_1509710165" MODIFIED="1651845939008" TEXT="tutupin, buat diakses sama satu goroutine"/>
@@ -126,9 +125,28 @@
       package, need to be mutex
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1651855831422" ID="ID_608755117" MODIFIED="1651855843520" TEXT="deadlock, livelock, starvation"/>
+</node>
+<node CREATED="1651933720736" ID="ID_1771746173" MODIFIED="1651933807990" POSITION="left" TEXT="package">
+<node CREATED="1651933723252" ID="ID_784007007" MODIFIED="1651933728068" TEXT="manage large project"/>
+<node CREATED="1651933808374" ID="ID_308776835" MODIFIED="1651933812011" TEXT="import path"/>
+</node>
+<node CREATED="1651934636489" ID="ID_1088890874" MODIFIED="1651934697292" POSITION="right" TEXT="go tools">
+<node CREATED="1651934639173" ID="ID_1940142561" MODIFIED="1651934645290" TEXT="its a swiss army knife"/>
+<node CREATED="1651934697301" ID="ID_1471647681" MODIFIED="1651934699362" TEXT="download">
+<node CREATED="1651934699581" ID="ID_1258828458" MODIFIED="1651934705578" TEXT="where to get it from the internet"/>
+</node>
+<node CREATED="1651934733154" ID="ID_829097318" MODIFIED="1651934737662" TEXT="the tripple ...">
+<node CREATED="1651934737938" ID="ID_1987317704" MODIFIED="1651934743878" TEXT="buat ambil banyak"/>
+</node>
+<node CREATED="1651934788525" ID="ID_1568193529" MODIFIED="1651934790567" TEXT="go get">
+<node CREATED="1651934790780" ID="ID_1248889482" MODIFIED="1651934794904" TEXT="ini ambil dari github"/>
+<node CREATED="1651934796356" ID="ID_934113985" MODIFIED="1651934800319" TEXT="bitbucket etc"/>
+</node>
+</node>
+<node CREATED="1651934950931" ID="ID_1069379316" MODIFIED="1651934953161" POSITION="left" TEXT="go build">
+<node CREATED="1651934953383" ID="ID_262920464" MODIFIED="1651934960693" TEXT="invoking the linker kalao main"/>
 </node>
 </node>
 </map>
