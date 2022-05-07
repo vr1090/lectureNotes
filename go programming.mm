@@ -116,5 +116,19 @@
 <node CREATED="1651845918297" ID="ID_1446652527" MODIFIED="1651845921974" POSITION="left" TEXT="single variable">
 <node CREATED="1651845922486" ID="ID_1509710165" MODIFIED="1651845939008" TEXT="tutupin, buat diakses sama satu goroutine"/>
 </node>
+<node CREATED="1651855824967" ID="ID_171864692" MODIFIED="1651855964957" POSITION="right" TEXT="single variable">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      package, need to be mutex
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1651855831422" ID="ID_608755117" MODIFIED="1651855843520" TEXT="deadlock, livelock, starvation"/>
+</node>
 </node>
 </map>

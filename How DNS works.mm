@@ -34,7 +34,18 @@
 <node CREATED="1651855019402" ID="ID_1804669474" MODIFIED="1651855021205" POSITION="right" TEXT="cname">
 <node CREATED="1651855021442" ID="ID_287389978" MODIFIED="1651855026569" TEXT="ganti address dengan nama"/>
 </node>
-<node CREATED="1651855340223" ID="ID_557810616" MODIFIED="1651855342089" POSITION="left" TEXT="mx">
+<node CREATED="1651855340223" ID="ID_557810616" MODIFIED="1651855474216" POSITION="left" TEXT="mx">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      spkif, dkip
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1651855342330" ID="ID_1246775858" MODIFIED="1651855349849" TEXT="mail server for a domain"/>
 </node>
 </node>
