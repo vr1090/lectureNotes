@@ -17,8 +17,7 @@
       dari local .. di forward ke port komputer sana
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1652012878171" ID="ID_76053602" MODIFIED="1652012888755" POSITION="left" TEXT="dynamic">
 <richcontent TYPE="NOTE"><html>
@@ -31,6 +30,18 @@
     </p>
     <p>
       socks proxy
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1652013144125" ID="ID_1900851211" MODIFIED="1652013166328" POSITION="right" TEXT="reverse">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ssh -R port:komputer yg dituju
     </p>
   </body>
 </html>
