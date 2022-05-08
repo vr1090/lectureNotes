@@ -8,8 +8,23 @@
 <node CREATED="1651913582360" ID="ID_910964901" MODIFIED="1651913586157" TEXT="man in the middle"/>
 </node>
 </node>
-<node CREATED="1651913764578" ID="ID_633512182" MODIFIED="1651913768642" POSITION="left" TEXT="web public key">
+<node CREATED="1651913764578" ID="ID_633512182" MODIFIED="1651916670553" POSITION="left" TEXT="web public key">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      konek, tunjukin semua certificate, dari awal sampe ke atas
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1651913768844" ID="ID_1826643652" MODIFIED="1651913779670" TEXT="signing thousand of public key"/>
+<node CREATED="1651916297711" ID="ID_962301412" MODIFIED="1651916305284" TEXT="CA signed the public key"/>
+<node CREATED="1651916308996" ID="ID_1161043866" MODIFIED="1651916312336" TEXT="lets encrypt"/>
+<node CREATED="1651916670561" ID="ID_562993309" MODIFIED="1651916677128" TEXT="pem itu base64"/>
+<node CREATED="1651917378735" ID="ID_144349490" MODIFIED="1651917384188" TEXT="kirim ssl certificate"/>
 </node>
 <node CREATED="1651914110559" ID="ID_1170781128" MODIFIED="1651914188176" POSITION="right" TEXT="secure transport">
 <richcontent TYPE="NOTE"><html>
@@ -54,6 +69,26 @@
   </body>
 </html>
 </richcontent>
+</node>
+<node CREATED="1651915500011" ID="ID_622069090" MODIFIED="1651915769506" TEXT="handshake and post handshake">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      handshake:<br />- client kirim configurasi<br />- server balikin dengan konfigurasi yg dikasih client<br />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1651915949294" ID="ID_982892187" MODIFIED="1651915961659" TEXT="encrpt ke last handshake"/>
+</node>
+<node CREATED="1651916882741" FOLDED="true" ID="ID_1664530698" MODIFIED="1651917375977" POSITION="left" TEXT="psk">
+<node CREATED="1651916884595" ID="ID_733391868" MODIFIED="1651916887725" TEXT="pre shared key"/>
+<node CREATED="1651916992945" ID="ID_1207247623" MODIFIED="1651916996302" TEXT="nonce value">
+<node CREATED="1651916996524" ID="ID_1944653076" MODIFIED="1651917004469" TEXT="session will be killed"/>
 </node>
 </node>
 </node>
