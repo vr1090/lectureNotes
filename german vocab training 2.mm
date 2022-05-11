@@ -27,5 +27,30 @@
 <node CREATED="1647855377559" ID="ID_1961866214" MODIFIED="1647855421682" POSITION="left" TEXT="der spielplatz">
 <node CREATED="1647855461700" ID="ID_145919055" MODIFIED="1647855464563" TEXT="playground"/>
 </node>
+<node CREATED="1652140348502" ID="ID_926791691" MODIFIED="1652140608012" POSITION="right" TEXT="mei 10">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ver.tre.ten ... mewakili
+    </p>
+    <p>
+      holen ... ambil
+    </p>
+    <p>
+      ho.len .. ambil
+    </p>
+    <p>
+      aus.wah.len ... to select .. memilih
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </map>
