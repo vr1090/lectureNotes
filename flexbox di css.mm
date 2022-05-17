@@ -143,7 +143,7 @@
   </body>
 </html>
 </richcontent>
-<node CREATED="1652690328410" ID="ID_744216709" MODIFIED="1652690423769" TEXT="justify-content">
+<node CREATED="1652690328410" ID="ID_744216709" MODIFIED="1652690543785" TEXT="justify-content">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -151,6 +151,18 @@
   <body>
     <p>
       ini buat main axis
+    </p>
+    <p>
+      defaultnya flex-start
+    </p>
+    <p>
+      bisa:
+    </p>
+    <p>
+      flex-end
+    </p>
+    <p>
+      center
     </p>
   </body>
 </html>
