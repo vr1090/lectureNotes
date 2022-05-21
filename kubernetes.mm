@@ -14,8 +14,7 @@
       high avaliability , aka no downtime
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1652885128600" ID="ID_1787676997" MODIFIED="1652948127869" POSITION="left" TEXT="master slave">
 <richcontent TYPE="NOTE"><html>
@@ -36,8 +35,7 @@
       scheduler..
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1652948127845" ID="ID_673574802" MODIFIED="1652948130596" TEXT="api server"/>
 <node CREATED="1652948130831" ID="ID_1071568532" MODIFIED="1652948252065" TEXT="scheduler">
 <richcontent TYPE="NOTE"><html>
@@ -55,8 +53,7 @@
       di node ... di handle lagi sama kublet
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1652948262441" ID="ID_406675728" MODIFIED="1652948354473" TEXT="controller manager">
 <richcontent TYPE="NOTE"><html>
@@ -68,8 +65,7 @@
       detect the change state in cluster
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1652948354462" ID="ID_1325632535" MODIFIED="1652948356848" TEXT="etcd">
 <node CREATED="1652948357087" ID="ID_539754285" MODIFIED="1652948360598" TEXT="culster brain"/>
@@ -119,8 +115,87 @@
       
     </p>
   </body>
+</html></richcontent>
+</node>
+<node CREATED="1653055462663" ID="ID_1220019825" MODIFIED="1653055929367" POSITION="left" TEXT="kubectl basic command">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      kubectl create -h&#160;&#160;... buat cek help
+    </p>
+    <p>
+      creating deployment .. instead of pods
+    </p>
+    <p>
+      kubectl create deployment nginx --image=nginx
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1653055933442" ID="ID_853087753" MODIFIED="1653056031992" TEXT="replicaset">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      managing replica in a pod
+    </p>
+    <p>
+      deployment manages replicaset
+    </p>
+    <p>
+      replicaset manages pod
+    </p>
+    <p>
+      pod manage container
+    </p>
+  </body>
 </html>
 </richcontent>
 </node>
+<node CREATED="1653056914619" ID="ID_1061115960" MODIFIED="1653056992025" TEXT="logs">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      kubectl logs namaPod
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1653057006912" ID="ID_298853226" MODIFIED="1653057500805" TEXT="exec">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      kubectl exec -it namaPos -- bin/bash
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      kubectl apply -f file deployment
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      specification ... spec for deplyment, spec for pod
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1653097419304" ID="ID_1847068983" MODIFIED="1653097424314" POSITION="right" TEXT="yaml configuration"/>
 </node>
 </map>
