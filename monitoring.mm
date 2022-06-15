@@ -31,7 +31,7 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1654356418177" ID="ID_68719153" MODIFIED="1654356427285" POSITION="left" TEXT="kms">
+<node CREATED="1654356418177" ID="ID_68719153" MODIFIED="1654358362909" POSITION="left" TEXT="kms">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -39,6 +39,15 @@
   <body>
     <p>
       key using aes
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      key identity di simpen di data
+    </p>
+    <p>
+      key baru bisa di gnerate, key lama dipakai buat decrypt aja
     </p>
   </body>
 </html>

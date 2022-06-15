@@ -49,6 +49,55 @@
       
     </p>
   </body>
+</html></richcontent>
+</node>
+<node CREATED="1654358410560" ID="ID_174115336" MODIFIED="1654358655352" POSITION="left" TEXT="june 4 2022">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      der fussgaenger ... pejalan kaki
+    </p>
+    <p>
+      die gefahr ... bahaya
+    </p>
+    <p>
+      ver.mu.ten .. to suspect .. mencurigai
+    </p>
+    <p>
+      das stab.sau.gen ... sedot2an
+    </p>
+    <p>
+      das ben.zin ... bensin ..
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1654473523509" ID="ID_1556619072" MODIFIED="1654473735241" POSITION="right" TEXT="june 6, 2022">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      aus.druck.en ... to print
+    </p>
+    <p>
+      ver.schre.i.ben ... bikin resep ... komit ke sesuatu
+    </p>
+    <p>
+      der ein.tri.tt ... akses masuk
+    </p>
+    <p>
+      um.fasst ... contains
+    </p>
+    <p>
+      
+    </p>
+  </body>
 </html>
 </richcontent>
 </node>
