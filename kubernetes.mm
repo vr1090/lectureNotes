@@ -117,7 +117,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1653055462663" ID="ID_1220019825" MODIFIED="1653055929367" POSITION="left" TEXT="kubectl basic command">
+<node CREATED="1653055462663" ID="ID_1220019825" MODIFIED="1655299258917" POSITION="left" TEXT="kubectl basic command">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -131,6 +131,9 @@
     </p>
     <p>
       kubectl create deployment nginx --image=nginx
+    </p>
+    <p>
+      template has its own metadata and spec
     </p>
   </body>
 </html>
@@ -154,8 +157,7 @@
       pod manage container
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1653056914619" ID="ID_1061115960" MODIFIED="1653056992025" TEXT="logs">
 <richcontent TYPE="NOTE"><html>
@@ -167,8 +169,7 @@
       kubectl logs namaPod
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1653057006912" ID="ID_298853226" MODIFIED="1653057500805" TEXT="exec">
 <richcontent TYPE="NOTE"><html>
@@ -192,10 +193,34 @@
       specification ... spec for deplyment, spec for pod
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1653097419304" ID="ID_1847068983" MODIFIED="1653097424314" POSITION="right" TEXT="yaml configuration"/>
+<node CREATED="1655299320625" ID="ID_65206366" MODIFIED="1655300079214" POSITION="left" TEXT="connecting">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      label, key value pair
+    </p>
+    <p>
+      connecting using label and selector
+    </p>
+    <p>
+      kubectl describe service namaService
+    </p>
+    <p>
+      kubectl get pod namaPod -o yaml
+    </p>
+    <p>
+      service jadi dns entry
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </map>
