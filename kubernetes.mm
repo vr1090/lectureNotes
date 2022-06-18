@@ -222,7 +222,7 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1655303906096" ID="ID_744852848" MODIFIED="1655591447186" POSITION="right" TEXT="example">
+<node CREATED="1655303906096" ID="ID_744852848" MODIFIED="1655592179182" POSITION="right" TEXT="example">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -272,6 +272,21 @@
     </p>
     <p>
       config map ... buat naro url for the DB
+    </p>
+    <p>
+      configmap perlu ada di cluster dulu, sebelum bisa di reference
+    </p>
+    <p>
+      configmapKeyRef
+    </p>
+    <p>
+      secretKeyRef
+    </p>
+    <p>
+      external service ... type: LoadBalancer
+    </p>
+    <p>
+      
     </p>
     <p>
       
