@@ -222,5 +222,69 @@
 </html>
 </richcontent>
 </node>
+<node CREATED="1655303906096" ID="ID_744852848" MODIFIED="1655591447186" POSITION="right" TEXT="example">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      mongoDB and mongoExpress
+    </p>
+    <p>
+      configMap ... buat simpen URL
+    </p>
+    <p>
+      secret buat simpen username sama pass
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      internal service
+    </p>
+    <p>
+      external service
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      kubectl get all, buat liat yg ada di kubernetes apa aja
+    </p>
+    <p>
+      create secret, base64 diubahnya
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      kubectl apply -f filenya
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      multiple document in 1 file is possible
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      config map ... buat naro url for the DB
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </map>
