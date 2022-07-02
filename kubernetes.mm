@@ -222,7 +222,7 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1655303906096" ID="ID_744852848" MODIFIED="1655592179182" POSITION="right" TEXT="example">
+<node CREATED="1655303906096" ID="ID_744852848" MODIFIED="1655592307825" POSITION="right" TEXT="example">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -286,7 +286,10 @@
       external service ... type: LoadBalancer
     </p>
     <p>
-      
+      nodePort ... port buat di expose keluar
+    </p>
+    <p>
+      range ... 30k - 32K
     </p>
     <p>
       
@@ -296,6 +299,31 @@
     </p>
     <p>
       
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1655593037099" ID="ID_1548593651" MODIFIED="1655904624126" POSITION="left" TEXT="namespaces">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      organize resource in namespace
+    </p>
+    <p>
+      database namespace , resource namaspace
+    </p>
+    <p>
+      access and resource limit of namespace
+    </p>
+    <p>
+      limit cpu, ram and others
     </p>
   </body>
 </html>
