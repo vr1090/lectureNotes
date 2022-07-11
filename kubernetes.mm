@@ -16,7 +16,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1652885128600" ID="ID_1787676997" MODIFIED="1652948127869" POSITION="left" TEXT="master slave">
+<node CREATED="1652885128600" FOLDED="true" ID="ID_1787676997" MODIFIED="1656947157795" POSITION="left" TEXT="master slave">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -35,7 +35,8 @@
       scheduler..
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1652948127845" ID="ID_673574802" MODIFIED="1652948130596" TEXT="api server"/>
 <node CREATED="1652948130831" ID="ID_1071568532" MODIFIED="1652948252065" TEXT="scheduler">
 <richcontent TYPE="NOTE"><html>
@@ -117,7 +118,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1653055462663" ID="ID_1220019825" MODIFIED="1655299258917" POSITION="left" TEXT="kubectl basic command">
+<node CREATED="1653055462663" FOLDED="true" ID="ID_1220019825" MODIFIED="1656947159403" POSITION="left" TEXT="kubectl basic command">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -324,6 +325,22 @@
     </p>
     <p>
       limit cpu, ram and others
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1656947163273" ID="ID_1699833450" MODIFIED="1656947177952" POSITION="right" TEXT="docker">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      docker start -a
+    </p>
+    <p>
+      -a buat attach
     </p>
   </body>
 </html>

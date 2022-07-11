@@ -207,5 +207,45 @@
 </html>
 </richcontent>
 </node>
+<node CREATED="1656859443999" ID="ID_951699226" MODIFIED="1656861511870" POSITION="left" TEXT="pyhton for running apps">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      subprocess module
+    </p>
+    <p>
+      subprocess.run()
+    </p>
+    <p>
+      minta parameter ... check
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      global name variabel
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      __name__ == &quot;apalah&quot;
+    </p>
+    <p>
+      main
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      argparse
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </map>
