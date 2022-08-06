@@ -217,6 +217,17 @@ flow bisa di taro diatas try catch
 - kotlinx.coroutine.flow.Flow
 - liveData.asFlow()
 - collect
+- flowOn ... ini kasih dispatcher
+- lifecycle runtime ktx
+- repeatOnLifecycle
+- flow builder:
+  - flow{}
+  - flowOf{}
+  - asFlow()
+- terminal operator
+  - mostly sih collect
+  - emit
+  
 
 
 
