@@ -19,3 +19,13 @@
             - kubelet .. ini yg api server
     - how many copies you want, or replica?
     - scheduler --> kubelet --> container
+    - load balanced accross the service
+    - cluster can be scaled up and down
+
+# first step with docker
+- hello world
+
+    docker run busybox echo "hello world"
+- app was downloaded and executed at single command.
+
+
