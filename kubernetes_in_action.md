@@ -34,4 +34,14 @@
 - layer created on each command in dockerfile
 - `docker run --name namaApalah -p 80:80 -d kubia`
 - `docker inspect kubia-container`
+- -i stdin tetep dibuka, -t buat pseudo terminal
+- re-tag to docker hub container.
+- create additional images
+- docker login ... buat login ke docker hub
+- `gcloud container clusters create kubia --min-node 3`
+- `kubectl describe node --id`
+- regular service, tipe clusterIP
+- loadbalancer service, ini yg bisa di ekspose keluar
+- minikube service namaService --url
+ 
 
