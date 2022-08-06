@@ -32,5 +32,6 @@
 - `docker build -t kubia .`
 - images is composed of multiple layer
 - layer created on each command in dockerfile
-- 
+- `docker run --name namaApalah -p 80:80 -d kubia`
+- `docker inspect kubia-container`
 
