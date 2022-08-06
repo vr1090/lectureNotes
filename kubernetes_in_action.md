@@ -3,4 +3,15 @@
 - apps run on their own process
 - lots of instance in the server
 - OCI, open container initialization
-- 
+- kubernetes
+    - borg
+    - as if those nodes as single computer
+    - app descriptor
+    - arsitektur
+        - master
+            - api server
+            - scheduler
+            - etcd
+            - controller manager:
+                - ini yg ngawasin nodes.
+        - node , worker node
