@@ -11,7 +11,7 @@
         - master
             - api server
             - scheduler
-            - etcd
+            - etcd... cluster configuration
             - controller manager:
                 - ini yg ngawasin nodes.
         - node , worker node
