@@ -43,5 +43,7 @@
 - regular service, tipe clusterIP
 - loadbalancer service, ini yg bisa di ekspose keluar
 - minikube service namaService --url
- 
+- replication controller create the pod
+- kubectl scale rc kubia --replicas=3
+- manages, exposed, or used by pods
 
