@@ -27,5 +27,10 @@
 
     docker run busybox echo "hello world"
 - app was downloaded and executed at single command.
-
+- some command baked into the image itself.
+- latest tag ... kalau engga ada : setelah.
+- `docker build -t kubia .`
+- images is composed of multiple layer
+- layer created on each command in dockerfile
+- 
 
