@@ -227,7 +227,8 @@ flow bisa di taro diatas try catch
 - terminal operator
   - mostly sih collect
   - emit
-  
+  - retryWhen { attempt , caused -> }
+
 
 
 

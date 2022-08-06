@@ -12,4 +12,7 @@ alpine ... a small and compaact as possible
 Travis, test the code, then deploy to AWS  
 travis.yml file  
 
-    ini code
+## travis
+
+- npm run test, running forever
+- 
