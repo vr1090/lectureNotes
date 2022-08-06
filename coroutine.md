@@ -209,10 +209,14 @@ inside coroutine
 suspend continuation
 
 
-=== flow ===
+=== flow ===  
 flowOf
 flowOn
-flow bisa di taro diatas try catch
+flow bisa di taro diatas try catch  
+
+- kotlinx.coroutine.flow.Flow
+- liveData.asFlow()
+- collect
 
 
 

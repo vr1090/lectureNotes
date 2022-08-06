@@ -14,8 +14,8 @@ PII --> personal identification information
 
 chapter2 : SQL
 ==================
-project_id. dataset.table
-aliasis column name with as
+project_id. dataset.table  
+aliasis column name with as  
 where bisa pake kurung buka kurung tutup
 select * except(colum1, column2)
 where nya group by .. having
