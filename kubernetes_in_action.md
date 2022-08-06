@@ -15,3 +15,7 @@
             - controller manager:
                 - ini yg ngawasin nodes.
         - node , worker node
+            - docker
+            - kubelet .. ini yg api server
+    - how many copies you want, or replica?
+    - scheduler --> kubelet --> container
