@@ -52,5 +52,6 @@
 - yaml
 - namespace ... non overlapping groups
 - `kubectl get ns` , buat dapetin namespace
-- 
+- `kubectl delete all --all` delete all
+
 
