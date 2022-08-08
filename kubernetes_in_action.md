@@ -47,3 +47,10 @@
 - kubectl scale rc kubia --replicas=3
 - manages, exposed, or used by pods
 
+# PODS
+- basic building block around k8s
+- yaml
+- namespace ... non overlapping groups
+- `kubectl get ns` , buat dapetin namespace
+- 
+
