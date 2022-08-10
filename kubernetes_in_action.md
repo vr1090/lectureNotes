@@ -78,4 +78,5 @@
 - Daemonset ... each pod on each node
     - new node ada, daemonset deploy new node
     - panggilannya ds
+- Job, completions and parallelism
 
