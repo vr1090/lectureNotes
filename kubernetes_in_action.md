@@ -79,4 +79,6 @@
     - new node ada, daemonset deploy new node
     - panggilannya ds
 - Job, completions and parallelism
+- cronJob
+- job are not on exact time, you need to set a deadline
 
