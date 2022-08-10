@@ -54,4 +54,20 @@
 - `kubectl get ns` , buat dapetin namespace
 - `kubectl delete all --all` delete all
 
+# replication and other controller
+- create pods trough replication or deployment
+- signaling that pods is troublesome.
+- check apps health from outside.
+- livenessProbe , ini dibagian spec.container
+- kubectl logs myPod --previous, buat lihat prev
+- kill .. 128+ x, x itu sig yg dikirim
+- initialDelaysSeconds ... buat tunggu liveness probe
+- replicaController manage multiple copies
+- replica
+    - selector
+    - count
+    - template
+- failing out of scope
+- `kubectl label pop namaPod key=value --overwrite`
+- `kubectl edit rc kubia`
 
