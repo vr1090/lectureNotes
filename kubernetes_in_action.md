@@ -70,4 +70,12 @@
 - failing out of scope
 - `kubectl label pop namaPod key=value --overwrite`
 - `kubectl edit rc kubia`
+- `kubectl scale rc kuba --replicas=10`
+- replication controller, like a pointer
+- replicationController eventually will be deprecated
+- replicaSet, ini bakalan jadi pengganti replication controller
+- replicaset, selectionnya lebih bagus
+- Daemonset ... each pod on each node
+    - new node ada, daemonset deploy new node
+    - panggilannya ds
 
