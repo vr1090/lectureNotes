@@ -8,3 +8,9 @@
 - /etc/host ... buat daftarin hostname sama ip-nya
 - etc/resolv.conf setting up dns
 - netstat replaced by `ss`
+- networkmanager for persistent networking
+
+# Systemd
+- manager of everthing
+- systemd managing units
+- units bisa dipanggil di /etc/systemd/system
