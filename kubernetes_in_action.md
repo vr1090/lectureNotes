@@ -82,3 +82,12 @@
 - cronJob
 - job are not on exact time, you need to set a deadline
 
+# Service
+- need to remember, pods are ephemeral
+- service, chat with other service
+- load balancing accross all backing port
+- bikin service, kubectl expose
+- kubectl exec , buat kirim command ke salah satu pod.
+- double dash -- artinya ini command buat pod.
+
+
