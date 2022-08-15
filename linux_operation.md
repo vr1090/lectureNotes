@@ -14,3 +14,4 @@
 - manager of everthing
 - systemd managing units
 - units bisa dipanggil di /etc/systemd/system
+- target, kumpulan dari service
