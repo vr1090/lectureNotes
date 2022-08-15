@@ -89,5 +89,9 @@
 - bikin service, kubectl expose
 - kubectl exec , buat kirim command ke salah satu pod.
 - double dash -- artinya ini command buat pod.
+- spec: sessionAffinity ... clientIP
+    - bakalan terus pake pod yg sama
+- ada pod DNS di dalam kubernetes
+- service endpoint
 
 
