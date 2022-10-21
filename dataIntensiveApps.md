@@ -25,6 +25,18 @@
 - Relational model: entity relationship
 - document model
 - Graph based model
+- id has no meaning to human
+- many to one
+    - many people living in one area
+    - many people in one industry
+- entities
+    - school?
+- difference document model and relational
+    - foreign key and document reference
+- plus side of document model:
+    - following the dtaa structure in code
+- plus side of relational:
+    - better performance for join..
 - data storage and data retrieval
 - data storage and data reteival, 
 - need to design based on best use cases
