@@ -17,3 +17,15 @@
     - targets
     - rptocols or ports
 - CIDR .. masking .. the network being masked
+- ```gsutil ls ```
+- naming are in zone only, DNS resolution
+- GW itu gateway
+- Default route:
+    - Internal VPC subnet
+    - to the internet
+- Destination IP range:
+    - network yg pengen di konek
+    - specify VPN tunnel
+    - tunnelc2e
+- AS: autonomous Systems,
+    - id network, unique
