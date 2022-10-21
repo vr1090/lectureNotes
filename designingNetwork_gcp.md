@@ -33,3 +33,11 @@
     - BGP IP
     - BGP Peer IP
     - Peer ASN
+- cloud NAT:
+    - kasih akses internet buat private ip
+    - gateway for VM, SNAT, source NAT
+    - NAT nemplok di VPC
+    - cloud NAT, embed with cloud router
+    - need cloud router
+    
+
