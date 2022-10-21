@@ -20,31 +20,33 @@
         - 90 -95 percentile
 
 ## 2. data model
-- to realistics... just right ... to abstract
-- CS is an art of abstraction
-- Relational model: entity relationship
-- document model
-- Graph based model
-- id has no meaning to human
-- many to one
-    - many people living in one area
-    - many people in one industry
-- entities
-    - school?
-- difference document model and relational
-    - foreign key and document reference
-- plus side of document model:
-    - following the dtaa structure in code
-- plus side of relational:
-    - better performance for join..
-- data storage and data retrieval
-- data storage and data reteival, 
-- need to design based on best use cases
-- SQL good for batch, transaction based
-- NOSQL for flexible scheme
-    - high write troughput
-- Graph database .. for highly connected data
-    - Neo4j, Sparql
+- limit of my language, limits my world
+- how do you build sofware?
+    - look at the real world
+    - put info into your apps
+    - how to store?
+    - how to optimize bytes?
+- Relational vs Ddocument model
+    - Relational .. fx codd model, data processing in 70's
+    - NOSQL very large databaset, very large throughput
+    - frustaion on restrictness
+- Object relational missmatch
+    - OOP
+    - impedance missmatch
+    - how to manage on to many relationship?
+- Schema flexibility:
+    - Schema on Read
+    - Schema on Write
+- Data locality
+- Convergence in relational and document model
+- Query language for data:
+    - Declarative vs imperative
+    - Ordering matters
+    - map reduce:
+        - map as collect
+        - reduce as fold
+- Graph like database
+    - Many to many
 
 
 ## 3. storage and retrieval
