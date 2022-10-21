@@ -29,3 +29,7 @@
     - tunnelc2e
 - AS: autonomous Systems,
     - id network, unique
+- Cloud router:
+    - BGP IP
+    - BGP Peer IP
+    - Peer ASN
