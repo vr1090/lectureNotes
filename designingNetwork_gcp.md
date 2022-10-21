@@ -5,4 +5,15 @@
     - SSH
     - RDP
     - ICMP
+    - allow internal
 - you should go with costum mode
+- flow logs on
+- priavte google access is on
+- cloud router, set to regional
+- ```gcloud compute networks create my-vpc-network --subnet-mode=custom --bgp-routing-mode=global --description="this is my vpc"```
+- firewall rule, to govern the traffic
+- fileds
+    - direction
+    - targets
+    - rptocols or ports
+- CIDR .. masking .. the network being masked
