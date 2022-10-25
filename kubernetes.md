@@ -57,3 +57,7 @@
 - buat debug aja
 - yg normal pake services and ingress
 - kubectl port-formward fwngind 8080:980
+
+## security context
+- ada di spec
+- 
