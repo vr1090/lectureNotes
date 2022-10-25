@@ -56,3 +56,4 @@
 - access pod in local computer
 - buat debug aja
 - yg normal pake services and ingress
+- kubectl port-formward fwngind 8080:980
