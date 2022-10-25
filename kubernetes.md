@@ -21,3 +21,8 @@
 - user workload and admin 
 - manage everthing, keep it together...
 - kubectl create ns secret
+- default namespace ... is set as default
+- kubectl config view ...
+    - context .. minikube
+    - namespace: default
+    
