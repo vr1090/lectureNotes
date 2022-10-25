@@ -25,4 +25,34 @@
 - kubectl config view ...
     - context .. minikube
     - namespace: default
-    
+- declarative way .. 
+    - add di metadata:
+        namespace: secret
+- kubectl explain pod.metadata
+- yaml itu case sensitive
+- kubectl create -f busyboix-ns.yaml
+
+## advance pod
+- kubectl describe, explain resources in k8s
+- describe ambil data dari etcd
+- etcd balikin json, describe convert itu ke yaml
+- kubectl exec -it nginx-xxx --sh
+- kubectl explain pod.spec 
+- /proc
+    - number itu pid
+    - 1/cmdline
+
+## logging
+- kubectl logs
+- failing apps
+    - kubectl get pods, check status of your apps
+    - kubectl describe pod .. get more info about pod
+    - kubectl logs
+    - crashloopbackoff .... error exit code 1
+    - kubectl run mydb --image=mariadb --env MYSQL_ROOT_PASSWORD=password
+
+## port forwarding
+- buat akses pod
+- access pod in local computer
+- buat debug aja
+- yg normal pake services and ingress
