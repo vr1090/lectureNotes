@@ -39,5 +39,17 @@
     - NAT nemplok di VPC
     - cloud NAT, embed with cloud router
     - need cloud router
+
+
+    ## Setup VPN
+    - routing option:
+        - Dynamic routing
+        - Route based VPN
+        - Policy based routing
+            - Local IP and Remote IP ranges are defined as part of tunnel creationg process.
+    - reserve public static IP address
+        - reserve external IP address
+    - 
     
+
 

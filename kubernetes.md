@@ -13,4 +13,11 @@
 ## install mini kubernetes
 - kubectl for managing cluster
 - minikube ... is a small kubernetes deployment
-- 
+
+## namespace
+- organize resources
+- api server, provide api access
+- default, kube-system, kubernetes-dashboard
+- user workload and admin 
+- manage everthing, keep it together...
+- kubectl create ns secret
