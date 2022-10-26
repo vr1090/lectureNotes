@@ -15,3 +15,12 @@
 - systemd managing units
 - units bisa dipanggil di /etc/systemd/system
 - target, kumpulan dari service
+
+
+# ssh
+- `sudo apt install openssh-server`
+- `sudo systemctl status sshd`
+- `sudo systemctl `
+- `/etc/ssh/sshd_config`
+- key based auth is more secure
+- 
