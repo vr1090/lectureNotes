@@ -108,8 +108,11 @@ CMD ["npm","start"]
 - docker login, each registry has different style
 - docker tag kuard gcr.io/kuar-demo/kuard-amd64:blue
 - docker push gcr.io/kuar-demo/kuard-amd64:blue
-
-
+- cri ,,, container runtime interface
+- docker run -d --name kuard \ publish 8080:8080 gcr.io/kuar-demo/kuard-amd64:blue
+- --memory 
+- --memory-swap
+- kubernetes proxy, must be set for each node
 
 
 
