@@ -101,6 +101,14 @@ CMD ["npm","start"]
     - USER nobody:nobody
     - COPY --from=build /go/bin/kuard /kuard
     - CMD ["/kuard"]
+- registry ..
+    - public
+    - private
+        - need authenticate
+- docker login, each registry has different style
+- docker tag kuard gcr.io/kuar-demo/kuard-amd64:blue
+- docker push gcr.io/kuar-demo/kuard-amd64:blue
+
 
 
 
