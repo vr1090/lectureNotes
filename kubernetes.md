@@ -68,3 +68,14 @@
 - grep -B 5 ... buat 5 baris keatas
 - kubectl create job mynewjob --image=busybox --dry-run=client -o yaml > mynewJOb.yaml
 - 
+
+## why
+- immutability
+    - infra does not change after created.
+- declarative configuration
+- online self healing system
+- shared re-usable lib and tools
+- declarative configuration, infrastructure as code.
+- source control as source of truth.
+- ingress, a front end, multiple API can be combined
+
