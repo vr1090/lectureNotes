@@ -61,3 +61,10 @@
 ## security context
 - ada di spec
 - 
+
+## job
+- template.spec
+- pod are manage by jobs
+- grep -B 5 ... buat 5 baris keatas
+- kubectl create job mynewjob --image=busybox --dry-run=client -o yaml > mynewJOb.yaml
+- 
