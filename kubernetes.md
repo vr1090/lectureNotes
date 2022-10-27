@@ -78,4 +78,30 @@
 - declarative configuration, infrastructure as code.
 - source control as source of truth.
 - ingress, a front end, multiple API can be combined
+- sending declarative config to the new cluster.
+- persistentvolume, persistent volume claim.
+
+## container
+- docker image format
+- overlay filesystem
+- image is a specification that points to other files
+- sample Dockerfile
+```
+FROM node:16
+WORKDIR /usr/src/app
+COPY package*.json ./
+RUN npm install
+RUN npm install express
+COPY . .
+CMD ["npm","start"]
+```
+- multistage build
+    - FROM golang as build
+    - FROM alpine
+    - USER nobody:nobody
+    - COPY --from=build /go/bin/kuard /kuard
+    - CMD ["/kuard"]
+
+
+
 
