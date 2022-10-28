@@ -69,6 +69,19 @@
 - add overhead, especially in writing
 - key, byte offset
 - not update, keep updating, compaction
+- data are append only
+- on disk hash map, perform well?
+- range query are quite hard for hash table like structure
+- SSTable
+    - sorted string table
+    - hash map, but sorted by key
+    - balanced tree data structure, memtable
+    - bloom filter: check if data is contains in aset, minimize read
+- B-tree
+    - most used index structure
+    - fixed size blocks
+    - number reference to child page, branching factors
+    - WAL .. write ahead log, append, kalo crash mulai dari WAL
 
 ## 4. agile code evolution
 - rolling update
