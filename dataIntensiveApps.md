@@ -97,6 +97,14 @@
     - b tree
         - page .. 4 kb, disk block
     - lsm write troughput
+    - index:
+        - clustered index
+        - contatenated index
+            - data jadi satu value, terus sorting the value
+        - finite state transducer
+    - access pattern:
+        - OLTP, row based
+        - OLAP, history events that happened over time
 
 
 
