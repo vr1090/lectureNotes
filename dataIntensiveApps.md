@@ -55,6 +55,9 @@
 - column oriented ... better query performance for aggregate
 - OLTP are row based
 - Column for read intensive
+- range query gimana?
+- compaction, merge sort
+- bloom filter .. cek key yg engga ada.
 - index, simple : hash based
     - but .. how about agregate? crash? concurrency?
 - storage:
@@ -82,6 +85,16 @@
     - fixed size blocks
     - number reference to child page, branching factors
     - WAL .. write ahead log, append, kalo crash mulai dari WAL
+- Column
+    - Fact table
+    - need to take lots of rows
+    - store the column, together
+    - bottleneck from disk to memory
+- discussion
+    - bloom filter,
+    - hash function, cari tahu key exist ada apa engga
+    - false positive .. belum tentu ada
+    
 
 ## 4. agile code evolution
 - rolling update
