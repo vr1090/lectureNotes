@@ -65,6 +65,10 @@
 - give data and store it, ask for the data, return back the data
 - big difference in storage
 - find the value of particular key, the index
+- index as additional structure
+- add overhead, especially in writing
+- key, byte offset
+- not update, keep updating, compaction
 
 ## 4. agile code evolution
 - rolling update
