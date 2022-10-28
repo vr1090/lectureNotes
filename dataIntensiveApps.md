@@ -94,7 +94,11 @@
     - bloom filter,
     - hash function, cari tahu key exist ada apa engga
     - false positive .. belum tentu ada
-    
+    - b tree
+        - page .. 4 kb, disk block
+    - lsm write troughput
+
+
 
 ## 4. agile code evolution
 - rolling update
