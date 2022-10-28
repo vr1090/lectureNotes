@@ -62,6 +62,9 @@
     - SSString ... sorted string table.. lucene
     - Bloom filters ... analyzing the content of set
     - B -trees ... ini page based. mostly in OLTP
+- give data and store it, ask for the data, return back the data
+- big difference in storage
+- find the value of particular key, the index
 
 ## 4. agile code evolution
 - rolling update
