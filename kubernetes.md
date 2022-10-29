@@ -113,6 +113,16 @@ CMD ["npm","start"]
 - --memory 
 - --memory-swap
 - kubernetes proxy, must be set for each node
+- limit default threshold, default is not having limitation
+- milicore .. 1000 milicore
+- can not be scheduled ... pending status
+- kubectl set resourcess 
+- zero downtime deployment
+- pod dont have update mechanism
+- OOM killed
+- kubectl describe is your friend
+
+
 
 
 
