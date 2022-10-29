@@ -124,6 +124,9 @@ CMD ["npm","start"]
 - if pod managed by deployment, delete the deployment first not the pod
 
 
+## managing deployment
+- 
+
 
 
 
