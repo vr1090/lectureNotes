@@ -136,6 +136,27 @@ CMD ["npm","start"]
 - pod template label:app=myweb
 - deployment --> replicaset --> pods
 - kubectl get all
+- replication configuration
+- scalability in deployment
+    - deployment create replicaset
+- do not managed replicaset 
+- kubectl scale deployment my-deployment --replicase=4
+- kubectl api-version 
+- kubectl get all
+- kubectl edit deployment.redis
+- kubectl get all --selector app=redis
+
+## deployment updates
+- a new replicaset created
+    - old replicaset is deleted
+        - can be keep it
+- updateStrategy
+    - rolling update
+    - replace
+        - stop all
+        - start new 
+
+
 
 
 
