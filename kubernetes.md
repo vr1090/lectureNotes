@@ -125,7 +125,18 @@ CMD ["npm","start"]
 
 
 ## managing deployment
-- 
+- how you really want to run applications
+- scalability and reliability
+    - scale .. number of apps
+    - update strategy ... zero downtime
+- protect pods
+- kubectl create deploy myWeb --image=nginx --replicas=3
+- kubectl describe
+- selector, set at pod level
+- pod template label:app=myweb
+- deployment --> replicaset --> pods
+- kubectl get all
+
 
 
 
