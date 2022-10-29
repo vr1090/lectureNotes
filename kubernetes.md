@@ -121,6 +121,8 @@ CMD ["npm","start"]
 - pod dont have update mechanism
 - OOM killed
 - kubectl describe is your friend
+- if pod managed by deployment, delete the deployment first not the pod
+
 
 
 
