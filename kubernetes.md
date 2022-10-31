@@ -154,7 +154,9 @@ CMD ["npm","start"]
     - rolling update
     - replace
         - stop all
-        - start new 
+        - start new
+- old replica set still there
+
 
 
 
