@@ -18,3 +18,10 @@
         - trust each other
     - assume role
         - ability to wear this particular hat
+- root account
+    - protect
+    - create day to day
+- effect deny always superseed the allow
+- use the least priviledge model
+- policysimulator
+
