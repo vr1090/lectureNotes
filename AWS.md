@@ -12,3 +12,9 @@
 - Roles
     - cosntruction hat
     - temporary credential
+- trust relationship
+    - account1 create role
+    - full duplex
+        - trust each other
+    - assume role
+        - ability to wear this particular hat
