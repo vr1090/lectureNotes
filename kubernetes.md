@@ -159,6 +159,24 @@ CMD ["npm","start"]
 
 
 
+## label
+- a way to connect to related source
+- deployment finds pods using a selector
+- service finds endpoint using a selector
+- --selector
+- app=appname, this is deployment
+- run=podname ... kubectl run
+- annotation can use as selector
+
+## update strategy
+- pod changes
+    - recreate
+    - rolling update
+- rolling update
+    - old one create to 0
+
+## managing networking
+
 
 
 
