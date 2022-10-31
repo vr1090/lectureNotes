@@ -1,0 +1,14 @@
+## IAM
+- policy document
+- Effect .. Allow, Deny
+- Deny is default
+- explicit allow
+- Action .. fuction in aws, which you want to execute
+- Resource ... the resource .. the ARN
+- Access key, and secret access key
+    - username and password, for your aws
+    - CLI asked for your access key and secret access key
+    - programatically
+- Roles
+    - cosntruction hat
+    - temporary credential
