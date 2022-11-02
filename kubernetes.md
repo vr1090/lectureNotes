@@ -177,6 +177,16 @@ CMD ["npm","start"]
 
 ## managing networking
 
+## service
+- selector
+- targetPort: which port in pod
+- spec -> selector
+- endpoint objects
+- service port arbitrary, target port must match
+- mongodb, cluster IP
+- multiport services, give it a name
+- cockroach db
+
 
 
 
