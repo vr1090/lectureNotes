@@ -194,6 +194,14 @@ CMD ["npm","start"]
 - cluster net can be accessed from node net
 
 
+## service
+- exposed logical set of network
+- load balancing, round robin
+- targeted service, is a selector, which are a label
+- kube controller manager, check which pod belong to which service?
+- kube proxy ... agent on the node, watch for new service
+- load balancer, only implented on public cloud
+- kubectl expose to create a service
 
 
 
