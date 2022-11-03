@@ -202,6 +202,9 @@ CMD ["npm","start"]
 - kube proxy ... agent on the node, watch for new service
 - load balancer, only implented on public cloud
 - kubectl expose to create a service
+- kubectl expose ... buka pod keluar network pod
+- kubectl create service ...
+
 
 
 
