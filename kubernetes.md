@@ -204,6 +204,25 @@ CMD ["npm","start"]
 - kubectl expose to create a service
 - kubectl expose ... buka pod keluar network pod
 - kubectl create service ...
+-  --port argument 
+- targetport ... port in container 
+- port .. port di service
+- nodeport .. exposed externally when using nodeport 
+- kubectl create deploy nginxsvc --image=nginx
+- kubectl scale deploy nginxsvc --replica=3
+- kubectl expose deploy nginxsvc --port=80
+- kubectl describe svc nginxsvc
+- headless ... no ip address
+- coredns 
+- dns resolver
+- services by name
+
+## ingress 
+- ingress controller, is a load balancer
+- api resources
+- one api resource, accessing api resources
+
+
 
 
 
