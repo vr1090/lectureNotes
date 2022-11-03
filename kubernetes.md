@@ -187,6 +187,14 @@ CMD ["npm","start"]
 - multiport services, give it a name
 - cockroach db
 
+## networking
+- pod net, cluster net, node net
+- pod net can not be accessed, onlty to service
+- service connect to cluster net
+- cluster net can be accessed from node net
+
+
+
 
 
 
