@@ -221,6 +221,23 @@ CMD ["npm","start"]
 - ingress controller, is a load balancer
 - api resources
 - one api resource, accessing api resources
+- ingress controller:
+    - nginx
+    - haproxy
+    - traefik
+    - kong
+    - contour
+    - minikube
+- minikube addons list
+- type:
+    - host
+    - list of path
+    - backend
+- path type:
+    - exact
+    - prefix
+    
+
 
 
 
