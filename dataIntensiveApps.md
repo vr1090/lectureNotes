@@ -115,6 +115,13 @@
 - encoding --> something --> decoding --> real
 - thrif ... dari facebook
 - protobuf .. gogle
+- schema, json xml, schema optional
+- base64 string
+- backward compatible
+- binary encoding format
+    - thrift
+    - avro
+    
 
 ## 5. Data replication
 - database di replicate di beberapa machine

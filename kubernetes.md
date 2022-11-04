@@ -236,6 +236,78 @@ CMD ["npm","start"]
 - path type:
     - exact
     - prefix
+- ingressClass
+    - k8s 1.22
+    - specific ingress controller as default
+
+## network polices
+- pods can always communicate
+
+
+## managing storage
+- PV, PVC
+- PV automated with storage class
+- container is rw layer
+- add volume, make it more persistence
+- anytype of storage
+- persistent volume claim
+    - point volume to pvc
+- persistent volume
+    - seperate resources
+- storage class
+    - site specific storage
+    - create persistent volume on demand
+    - need storage provisioners
+- epemeral storage
+- PV --> persistent volume
+- PVC --> persistent volume claim
+- -c the container
+
+## PV
+- pv.yaml
+- kind: PersistentVolume
+
+## PVC
+- pvc.yaml
+- pod connect to pvc,
+    - pvc connect to pv
+- storageClass kick in, create PV
+- not connect directly with PV
+-  PVC:
+    - access mode
+    - size
+- there is PV satifies PVC
+- pod has one to one 
+- mountpath ... pvc
+- decouple site information
+- separation of duties
+- make generic request
+- pod manifest, used by any user, locally specific site.
+- PVC and POD together
+
+
+## storage class
+- as selector
+
+## configmap secret
+- envfrom
+- configmap
+- type:
+    - varibale
+    - config file
+    - command line arguments
+- config map should exist first, before the application
+- from-literal
+- from-env-file
+- kubectl create cm -h | less
+
+## helm
+- release automation tools
+- helm repo add bitnami https://charts.bitnami.com/bitnami
+
+
+
+
     
 
 
