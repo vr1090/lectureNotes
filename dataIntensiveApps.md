@@ -121,6 +121,10 @@
 - binary encoding format
     - thrift
     - avro
+- data flow
+    - by database
+    - database migration ... (?)
+    
     
 
 ## 5. Data replication
