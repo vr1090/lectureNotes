@@ -7,4 +7,4 @@
     - look at the possible values
 - helm package namaFolder
 - helm create deis-workflow
-- 
+- helm install demochart ./myhelmchart --dry-run
