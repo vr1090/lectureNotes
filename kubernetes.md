@@ -308,6 +308,14 @@ CMD ["npm","start"]
 ## daemon set
 - schedule single pod, on every node.
 
+## configmap and secret
+- configuration of the deployment
+- secret .... TLS and credentials
+- configmap:
+    - small filesystem
+    - set of variables
+    
+
 
 
 
