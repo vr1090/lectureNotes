@@ -305,6 +305,10 @@ CMD ["npm","start"]
 - release automation tools
 - helm repo add bitnami https://charts.bitnami.com/bitnami
 
+## daemon set
+- schedule single pod, on every node.
+
+
 
 
 
