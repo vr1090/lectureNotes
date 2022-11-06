@@ -64,7 +64,13 @@
 - meinen ... pendapat
 - versch.rie.ben ... meresepkan .. to prescripe
 - die aussicht ... the view .. pemandangan
--  
+
+
+## word nov 6 2022
+- sauer ... mad or angry
+- der boden ... floor 
+- moegen ... like or want
+- das fenster ... window ..
 
 
 
