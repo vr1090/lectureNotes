@@ -8,3 +8,4 @@
 - helm package namaFolder
 - helm create deis-workflow
 - helm install demochart ./myhelmchart --dry-run
+- helm list, get all release
