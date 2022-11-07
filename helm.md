@@ -9,3 +9,5 @@
 - helm create deis-workflow
 - helm install demochart ./myhelmchart --dry-run
 - helm list, get all release
+- helm uninstall 
+- helm -n namaNameSpace
