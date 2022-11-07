@@ -11,3 +11,4 @@
 - helm list, get all release
 - helm uninstall 
 - helm -n namaNameSpace
+- helm upgrade ...
