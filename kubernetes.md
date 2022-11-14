@@ -314,6 +314,16 @@ CMD ["npm","start"]
 - configmap:
     - small filesystem
     - set of variables
+
+## replicaset
+- parameter:
+    -apiVersion
+    - kind
+    - metadata
+        - name
+        - label:
+            - put all the label here
+    - spec
     
 
 
