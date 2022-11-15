@@ -334,6 +334,35 @@ CMD ["npm","start"]
     - name
     - wide
     - yaml
+
+## namespace
+- just like house
+- resources they can consume
+- houses corresponds to namespace
+- default namespace
+    - created automatically when first setup
+- modifying services:
+    - kube-system
+- kube-public
+    - made for all user are created
+- learning and playing around... no need for namespaces
+- create a different namespace ...
+    - dev
+    - prodcution
+- resource limits
+- resource inside namespace
+    - can use small name
+- other 
+    - apend:
+        - nama.namespace.object.cluster.local:
+            - umpama: db-service.dev.svc.cluster.local
+- cluster.local
+    - default cluster name
+- kubectl get pods 
+    - in another ... kubectl get pods -n namespace
+- in just dev enviroment
+    - under the metadata section
+- kubectl config set-context $(kubectl config current-context) --namespace=dev
     
 
 
