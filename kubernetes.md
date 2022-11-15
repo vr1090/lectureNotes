@@ -324,6 +324,16 @@ CMD ["npm","start"]
         - label:
             - put all the label here
     - spec
+
+## deployment
+- create new k8s object
+- ```kubectl get all```
+- output -o format
+- format:
+    - json
+    - name
+    - wide
+    - yaml
     
 
 
