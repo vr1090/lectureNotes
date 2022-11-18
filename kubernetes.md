@@ -375,8 +375,25 @@ CMD ["npm","start"]
     - CMD [nginx]
     - bash 
         - shell, find input terminal, ga dapet exit
-        
+- make changes permanent?
+- Command
+    - json array format
+        - first is executable
+- docker build -t subuntu-sleeper .
+- ENTRYPOINT
+    - program run .. when start
+- CMD di rewrite
+- ENTRYPOINT .. append
+- default value for command?
+- ENTRYPOINT ["sleep"]
+- CMD ["5"]
+- docker run --entrypoint sleep2.0
 
+## command in k8s pod
+- k8s; 
+    - args ["10"]
+    - ovverride CMD
+- command field
 
 
 
