@@ -395,6 +395,18 @@ CMD ["npm","start"]
     - ovverride CMD
 - command field
 
+## confimap
+- from literal
+- --from-file
+- configMapKeyRef:
+- configMapRef:
+- volumes:
+    - name:
+      configmap:
+    - as file
+
+
+
 
 
     
