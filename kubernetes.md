@@ -365,6 +365,17 @@ CMD ["npm","start"]
 - kubectl config set-context $(kubectl config current-context) --namespace=dev
     
 
+## commands in docker
+- docker run ubuntu
+- list all container ... is in exit state
+- container is process
+    - carry out computation or analysis
+    - CMD []
+        - container .. programin
+    - CMD [nginx]
+    - bash 
+        - shell, find input terminal, ga dapet exit
+        
 
 
 
