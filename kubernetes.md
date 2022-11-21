@@ -404,6 +404,9 @@ CMD ["npm","start"]
     - name:
       configmap:
     - as file
+- envFrom:
+    - configMapRef:
+        name:
 
 
 
