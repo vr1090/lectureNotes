@@ -325,6 +325,7 @@ CMD ["npm","start"]
             - put all the label here
     - spec
 
+
 ## deployment
 - create new k8s object
 - ```kubectl get all```
@@ -363,6 +364,7 @@ CMD ["npm","start"]
 - in just dev enviroment
     - under the metadata section
 - kubectl config set-context $(kubectl config current-context) --namespace=dev
+
     
 
 ## commands in docker
