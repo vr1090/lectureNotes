@@ -410,6 +410,19 @@ CMD ["npm","start"]
     - configMapRef:
         name:
 
+## security
+- pid, in container, pid in host beda
+- service account is for apps, not user
+- service account:
+    - kubectl create service account
+    - service account, service account token
+    - bearer token
+
+## taint and toleration
+- taint ... orang di kasih spray, with bugs
+- bugs intolerant, can not to the person
+- some bug are tolerant..
+
 
 
 
