@@ -161,6 +161,9 @@
 
 ## Data Partioning
 - sama aja kayak data sharding, data bucketing
+- partition small database on its own
+- partitioning, rebalancing
+- partition leader, partition follower
 - multiple machine with partition, this user, this machine will take care of it
 - scale up to multiple machine
 - hot spot .. to much beban di satu machine
@@ -237,5 +240,7 @@ stream system architecture:
 producer --> broker --> consumer
 brocker --> durabiliy for those event coming in
 alert. notive, etc
+
+
  
 
