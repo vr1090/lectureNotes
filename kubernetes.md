@@ -423,6 +423,15 @@ CMD ["npm","start"]
 - bugs intolerant, can not to the person
 - some bug are tolerant..
 
+## node selector
+- put label on node
+- add nodeSelector when creating pod
+- ```kubectl label node node01 color=blue```
+
+## taint and toleration
+
+
+
 
 
 
