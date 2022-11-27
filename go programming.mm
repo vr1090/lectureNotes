@@ -76,7 +76,7 @@
 <node CREATED="1651418452854" ID="ID_1622765166" MODIFIED="1651418463250" TEXT="jag2 kalo lama kirim requet"/>
 </node>
 </node>
-<node CREATED="1651418536114" FOLDED="true" ID="ID_1303226858" MODIFIED="1662500897805" POSITION="left" TEXT="user authentication">
+<node CREATED="1651418536114" ID="ID_1303226858" MODIFIED="1669553928101" POSITION="left" TEXT="user authentication">
 <node CREATED="1651418599664" ID="ID_795671282" MODIFIED="1651418604758" TEXT="bcrypt"/>
 <node CREATED="1651494107051" ID="ID_701013129" MODIFIED="1651494126491" TEXT="hashed password, 60 length"/>
 </node>
@@ -125,8 +125,7 @@
       package, need to be mutex
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1651855831422" ID="ID_608755117" MODIFIED="1651855843520" TEXT="deadlock, livelock, starvation"/>
 </node>
 <node CREATED="1651933720736" FOLDED="true" ID="ID_1771746173" MODIFIED="1662500907107" POSITION="left" TEXT="package">
@@ -159,12 +158,19 @@
       same site session
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1652108271318" ID="ID_1758184807" MODIFIED="1652108278033" TEXT="bcrptyt">
 <node CREATED="1652108278800" ID="ID_1942693781" MODIFIED="1652108284162" TEXT="buat salting the password"/>
 </node>
 </node>
 <node CREATED="1652264868420" ID="ID_608019787" MODIFIED="1652264875825" POSITION="left" TEXT="next.Servehttp"/>
+<node CREATED="1669563651804" ID="ID_963230724" MODIFIED="1669563654904" POSITION="right" TEXT="template">
+<node CREATED="1669563655146" ID="ID_1684762852" MODIFIED="1669563657403" TEXT="{{}}">
+<node CREATED="1669563657797" ID="ID_393999377" MODIFIED="1669563660156" TEXT="ini action"/>
+</node>
+<node CREATED="1669563848118" ID="ID_548947099" MODIFIED="1669563851808" TEXT="parser">
+<node CREATED="1669563852126" ID="ID_1982067641" MODIFIED="1669563856530" TEXT="cuma perlu sekali"/>
+</node>
+</node>
 </node>
 </map>
