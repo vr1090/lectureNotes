@@ -181,10 +181,29 @@
 
 ## Transaction
 - ACID:
-    - atomic: all or nothing
-    - consistency --> foreign key kejaga
+    - atomic: all or nothing, before the state, or after the state, abortability .. 
+    - consistency --> foreign key kejaga, but invariant itu harusnya punya application, bukan bagian dari database
+        - atomic, isolation, durability .. are properties, whereas consitency is a application state.
     - siolation --> most important, serialibiliy, mechanism tell me if there is a problem
+        - race condition... what happen when you access the same data?
+        - it is the only transaction running in the database..
+        - snapshot isolation..
+        - 
     - durabily -> confirm, beneran di simpen
+
+- weak aiolation level
+    - concurrency bug, only happen with timing
+    - serilizable 
+        - as if everything come on on another.
+    - build something .. reliable and correct
+    - dirty
+        - read, no dirty read
+        - write, no dirty write
+    - snpashot isolation
+        - read skew
+        - sebelum mulai transaksi.., ambil snapshot dulu
+        - versioning, created by .. deleted by ...
+
 - dirty read and write ... not partially commited data
 - these all concurrent issue
 - do not take data no commited
@@ -193,6 +212,11 @@
 - serialbility --> actual serialization... 1 thread, all those gonna happen in serial
 - two phase locking -> lock semua, sampe traksaksi selesai
 - snapshot isolation --> cancel write, kalau premisenya engga benar.
+
+- explicit locking
+    - query database ... terus kasih tag
+- lost updates ...
+
 
 ## distributed system problem
 - network is not reliable
