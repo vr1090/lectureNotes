@@ -435,6 +435,23 @@ CMD ["npm","start"]
 ## network policies
 
 
+## persistent volumes
+- volumes:
+    - PV and PVC
+    - PV and PVC need to be combined.
+    - PVC will be used by pod
+    - POD dont need to know about the PV
+        - just used the PVC directly
+
+how to use it:
+```
+volumes:
+    - name: mypd
+    persistentVlumeClaim:
+        claimName: myclaim
+```
+
+
 
 
 
