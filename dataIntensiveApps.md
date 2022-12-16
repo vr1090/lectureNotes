@@ -216,6 +216,9 @@
 - explicit locking
     - query database ... terus kasih tag
 - lost updates ...
+- materialing conflict
+- SSI ... serialize snapshot isolation 
+    - 
 
 
 ## distributed system problem
