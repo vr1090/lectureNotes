@@ -6,4 +6,5 @@
 - spring:
     - used to be dependency injection framework
     - now it is a whole application framework
-    
+    - programming and configuration model
+    - annotate class, to become a service
