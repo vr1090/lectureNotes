@@ -9,4 +9,6 @@
     - programming and configuration model
     - annotate class, to become a service
     - abstraction configuration concern
+- spring boot
+    - opinionated
     
