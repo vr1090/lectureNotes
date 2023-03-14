@@ -1,3 +1,18 @@
+## go concurrency
+- CSP ... communication sequntial process
+- process instance dari program, dijalanin sama operating system
+- satu process ... terdiri dari beberapa thread
+- thread dalam satu process ... share access ke resources
+- goroutine is lightweight process
+- go routine:
+    - fast
+    - small
+    - no need to use process thread
+- calling go, before function invocation.
+- chan .... sebelah kiri itu in, sebelah kanan out
+
+
+
 # Introduction
 - go is not OOP language
 - go doc module
