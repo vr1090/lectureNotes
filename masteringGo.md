@@ -10,6 +10,7 @@
     - no need to use process thread
 - calling go, before function invocation.
 - chan .... sebelah kiri itu in, sebelah kanan out
+- baca kanan, tulis kiri. baka tuki
 
 
 
