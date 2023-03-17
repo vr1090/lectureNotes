@@ -5,3 +5,5 @@ push:
 	git commit -m "update lecture notes"
 	git pull --rebase
 	git push
+koplak:
+	echo "setan lu ${cupu}"
