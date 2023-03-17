@@ -1,3 +1,7 @@
+# march 17, 2023
+- sich anhoeren ... to sound
+
+
 # dative
 - from dare, given
 - somekind of transaction
