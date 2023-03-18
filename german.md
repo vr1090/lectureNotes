@@ -1,3 +1,7 @@
+# march 18 2023
+- hoffen.t.lich ... hopefull
+- 
+
 # march 17, 2023
 - sich anhoeren ... to sound
 
