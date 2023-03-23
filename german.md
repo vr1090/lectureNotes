@@ -1,3 +1,8 @@
+# march 23 2023
+- anmachen ... nyalain something
+- die dusche ... mandi
+
+
 # march 18 2023
 - hoffen.t.lich ... hopefull
 - 
