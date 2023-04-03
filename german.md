@@ -1,3 +1,8 @@
+# april 3
+- ausgestrahlt ... aired
+- greifbares ... tangible
+
+
 # march 23 2023
 - anmachen ... nyalain something
 - die dusche ... mandi
