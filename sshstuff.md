@@ -65,3 +65,6 @@ ssh-keygen
 ## configuring open ssh
 - sshd ... represent the server
 - sshd ... ssh daemon
+- sshd_config
+    - ini buat server
+- setup user yg punya akses root
