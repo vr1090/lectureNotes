@@ -46,4 +46,22 @@ ssh-keygen
 - ```ssh-copy-id``` buat copy id ssh ke remote server
 
 ## setting server
+- bikin key per-client
+- have bunch of server ... trying to many key
+- ssh-keygen -t ed25519 --> lebih secure, and shorter
+- client-nya siapa, terus tipe-nya apa?
+- passpharse ... kasih password lah om
+- ssh agent ... save the passphrase 
+    - already running
+    - gnome desktop
+    - ga ada GUI, ga ada ssh-agent
+- start ssh-agent dulu
+    - ps aux | grep ssh-agent
+    eval "$(ssh-agent)"
+    - pid ditampilin
+    - ssh-add ~/.ssh/keypath
+    - ini bakalan cache private key
 
+## configuring open ssh
+- sshd ... represent the server
+- sshd ... ssh daemon
