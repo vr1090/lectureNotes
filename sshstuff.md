@@ -37,3 +37,13 @@ Host myserver
 ssh-keygen
 ```
 - passphrase ... something that you type locally
+- public key boleh di baca semua orang
+- private key ga boleh di tunjukin
+- accept connection via key
+- mkdir .ssh
+- authorized_keys
+    - each one on each line
+- ```ssh-copy-id``` buat copy id ssh ke remote server
+
+## setting server
+
