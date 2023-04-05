@@ -28,3 +28,12 @@ Host myserver
 
 ## create ssh key
 - ssh greater security ... manually connect via ssh
+- password authentication is disabled
+- kalo punya kunci .. aman
+- ada 2 file ...
+- create ssh-key
+- remote server sama disable password auth
+```
+ssh-keygen
+```
+- passphrase ... something that you type locally
