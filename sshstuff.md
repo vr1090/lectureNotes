@@ -70,3 +70,6 @@ ssh-keygen
 - setup user yg punya akses root
 - existing connection will not be restarted
 
+## troubleshooting openssh
+
+
