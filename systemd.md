@@ -4,4 +4,4 @@
 - manage running services
     - service as unit
 - systemctl ... manage service di server gw
- 
+ - systemctl status httpd
