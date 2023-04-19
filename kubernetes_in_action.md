@@ -1,4 +1,9 @@
+# kubernetes under the hood
+- api server ... yg nerima request dari luar
+- controller ... make sure .. request sama real world barengan
+
 # intro
+
 - in greek called pilot or helm
 - apps run on their own process
 - lots of instance in the server
