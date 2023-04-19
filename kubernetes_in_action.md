@@ -1,6 +1,12 @@
 # kubernetes under the hood
 - api server ... yg nerima request dari luar
 - controller ... make sure .. request sama real world barengan
+- kubelet do?
+    - manager dari tiap node
+    - register node ke api server
+    - setup docker
+- service proxy:
+    - delaing with networking buat service
 
 # intro
 
