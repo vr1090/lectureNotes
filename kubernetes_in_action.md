@@ -1,3 +1,9 @@
+# kubernetes security access
+- user and service account
+- group to validate
+- tiap namespace ada service account
+
+
 # kubernetes under the hood
 - api server ... yg nerima request dari luar
 - controller ... make sure .. request sama real world barengan
