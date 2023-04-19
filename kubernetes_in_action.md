@@ -2,6 +2,9 @@
 - user and service account
 - group to validate
 - tiap namespace ada service account
+- service account from the same namespace
+- role and clusterrole ... resource apa, bisa apa?
+- rolebinding clusterrolebinding ... role sama user di gabungin
 
 
 # kubernetes under the hood
