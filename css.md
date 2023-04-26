@@ -1,4 +1,9 @@
+## block level inline
+- block and inline
+- list item is a block level
+
 # intro
+
 ```
 selector { // declaration}
 
