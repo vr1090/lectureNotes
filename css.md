@@ -2,6 +2,8 @@
 - block and inline
 - list item is a block level
 - margin auto cuma bisa buat block level
+- display: inline-block
+
 # intro
 
 ```
