@@ -1,3 +1,6 @@
+## position
+- default-nya static
+
 ## block level inline
 - block and inline
 - list item is a block level
