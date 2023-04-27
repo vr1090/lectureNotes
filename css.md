@@ -1,5 +1,8 @@
 ## position
 - default-nya static
+- relative: relatif dari normal position
+- fixed: dari viewport
+- sticky: based on scroll position
 
 ## block level inline
 - block and inline
