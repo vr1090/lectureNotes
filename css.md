@@ -3,6 +3,7 @@
 - relative: relatif dari normal position
 - fixed: dari viewport
 - sticky: based on scroll position
+- z-index ... makin gede makin deket ke user
 
 ## block level inline
 - block and inline
