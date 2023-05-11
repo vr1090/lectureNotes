@@ -17,4 +17,5 @@
     - openssh-server
     - generating ssh-keygen
     - ```ssh-copy-id -i keyFile server```
-    
+    - ssh-agent ... simpen passphrase pas pertama kali dipake
+
