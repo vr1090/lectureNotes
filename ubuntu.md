@@ -8,4 +8,6 @@
     - wl .. wireless
 - configuring network
     - netplan
+    - /etc/nsswitch.conf
+    - /etc/resolv.conf
     
