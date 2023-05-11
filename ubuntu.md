@@ -18,4 +18,6 @@
     - generating ssh-keygen
     - ```ssh-copy-id -i keyFile server```
     - ssh-agent ... simpen passphrase pas pertama kali dipake
+        - ```eval $(ssh-agent)``` jalanin ssh agent di belakang
+        - ```ssh-add pathKeKunci``` buat add pasaphrase kunci, abis ini bakalan di cache di memory
 
