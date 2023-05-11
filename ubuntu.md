@@ -10,4 +10,11 @@
     - netplan
     - /etc/nsswitch.conf
     - /etc/resolv.conf
+- openssh
+    - komponen: client sama server
+    - which ssh
+    - which sshd
+    - openssh-server
+    - generating ssh-keygen
+    - ```ssh-copy-id -i keyFile server```
     
