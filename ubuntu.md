@@ -6,4 +6,6 @@
     - ifconfig
     - en --> ethernet
     - wl .. wireless
+- configuring network
+    - netplan
     
