@@ -1,3 +1,7 @@
+## setting up network services
+
+
+
 ## networking
 - /etc/hosts check networking mapping
 - hostnamectl ... buat ganti hostname
@@ -20,4 +24,7 @@
     - ssh-agent ... simpen passphrase pas pertama kali dipake
         - ```eval $(ssh-agent)``` jalanin ssh agent di belakang
         - ```ssh-add pathKeKunci``` buat add pasaphrase kunci, abis ini bakalan di cache di memory
+    - config file
+        - ada di folder .ssh
+        - buat permudah katanya
 
