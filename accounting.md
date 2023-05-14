@@ -10,4 +10,16 @@
 - relevance ... bisa dipake buat business decision
 - faithfull representation... mendekati dengan dunia nyata
 - basic accounting: apa yg lu punya, apa yg lu pinjem
-    - rights to claim the resources
+  - rights to claim the resources
+- asset .. buat generate service sama kemampuan
+- liabilities:
+  - debt and obligations
+    - utang bank
+    - utang gaji
+- owner equity
+  - investment
+  - revenue
+  - bisa berkurang?
+    - bayar utang
+- asset = utang + equities + revenue - expense - drawing
+- journalize .. post ... tb .. adjusting entries ... tajb .. statement .. closing entries
