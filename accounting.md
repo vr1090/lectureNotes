@@ -23,3 +23,6 @@
     - bayar utang
 - asset = utang + equities + revenue - expense - drawing
 - journalize .. post ... tb .. adjusting entries ... tajb .. statement .. closing entries
+- transaction ... economic events
+  - bisa luar, bisa dalem
+- ada event? iya, apa ngubah financial statement? kalo iya, masukin jurnal
