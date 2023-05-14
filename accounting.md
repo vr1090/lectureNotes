@@ -1,3 +1,12 @@
+## debit and credit
+- ini harus sama
+- normal balance:
+  - account ini, kalo nambah taro di mana? debit atau credit?
+- journal dulu, terus pindah ke account
+- on account
+- account payable ... ini utang
+
+
 ## accounting?
 
 - step: idenfikasi, catat, jelaskan
