@@ -1,9 +1,27 @@
-## VPN
-- costumer gateway
-- vpn gateway .. concentrator ... for vpn connection
-- costumer gateway .. itu yg di taruh di datacenter
-- costumer gateway .. generate public IP
-- route propagation on the VPC connection
-- cloud hub .. cgw
-- VGW ... virtual private gateway
-- ditrect connect ... DX
+## IAM
+- policy document
+- Effect .. Allow, Deny
+- Deny is default
+- explicit allow
+- Action .. fuction in aws, which you want to execute
+- Resource ... the resource .. the ARN
+- Access key, and secret access key
+    - username and password, for your aws
+    - CLI asked for your access key and secret access key
+    - programatically
+- Roles
+    - cosntruction hat
+    - temporary credential
+- trust relationship
+    - account1 create role
+    - full duplex
+        - trust each other
+    - assume role
+        - ability to wear this particular hat
+- root account
+    - protect
+    - create day to day
+- effect deny always superseed the allow
+- use the least priviledge model
+- policysimulator
+
