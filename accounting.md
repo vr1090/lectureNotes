@@ -26,3 +26,7 @@
 - transaction ... economic events
   - bisa luar, bisa dalem
 - ada event? iya, apa ngubah financial statement? kalo iya, masukin jurnal
+- 2 effect ... asset naik:
+  - asset turun
+  - utang naik
+  - equity naik
