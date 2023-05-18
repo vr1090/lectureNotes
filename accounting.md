@@ -7,6 +7,7 @@
 - internal control .. system of check, the test if there is fraud
 - defer .. to postpone, or delay.. derefferals
 - unearned revenue .. itu utang.
+- accrued .. itu kumpulan. akumulasi
 
 ## debit and credit
 - ini harus sama
