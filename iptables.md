@@ -5,4 +5,6 @@
 - table:
     - filter ... incoming and outgoing traffic
     - nat ... buat forwarding message
-    
+    - manggle .. others
+- taget ... what you want to do, kalo udah matches
+
