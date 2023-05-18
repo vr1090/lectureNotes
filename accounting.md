@@ -2,6 +2,8 @@
 - accrual based ... itu pas kejadian .. berdasarkan event, bukan berdasarkan pada pertukaran uang.
 - revenue .. ketika perusahaan melakukan service kepada client
   - eksekusi obligasi
+- expense harus ada hubungan dengan revenue
+
 
 ## debit and credit
 - ini harus sama
