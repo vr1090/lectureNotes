@@ -1,5 +1,7 @@
 ## adjusting the account
 - accrual based ... itu pas kejadian .. berdasarkan event, bukan berdasarkan pada pertukaran uang.
+- revenue .. ketika perusahaan melakukan service kepada client
+  - eksekusi obligasi
 
 ## debit and credit
 - ini harus sama
