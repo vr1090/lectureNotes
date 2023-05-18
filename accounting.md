@@ -3,7 +3,10 @@
 - revenue .. ketika perusahaan melakukan service kepada client
   - eksekusi obligasi
 - expense harus ada hubungan dengan revenue
-
+- adjusting entries ... biar revenue dan expense ikut aturan GAAP
+- internal control .. system of check, the test if there is fraud
+- defer .. to postpone, or delay.. derefferals
+- unearned revenue .. itu utang.
 
 ## debit and credit
 - ini harus sama
