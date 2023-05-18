@@ -1,4 +1,5 @@
-## 
+## adjusting the account
+- accrual based ... itu pas kejadian .. berdasarkan event, bukan berdasarkan pada pertukaran uang.
 
 ## debit and credit
 - ini harus sama
