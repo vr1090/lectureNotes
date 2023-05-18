@@ -1,3 +1,5 @@
+## 
+
 ## debit and credit
 - ini harus sama
 - normal balance:
@@ -5,6 +7,8 @@
 - journal dulu, terus pindah ke account
 - on account
 - account payable ... ini utang
+- group of account ... di simpen di dalem ledger
+
 
 
 ## accounting?
