@@ -4,6 +4,18 @@
 - ```-t``` ini buat table, kalo engga di defined, jadi default filter
 - ```-j``` buat jump
 - ```psd``` protocol, source destination
+- iptables forward
+- packet, flowing through the system
+- hook point
+    - forward ... goes through gateway computer
+    - input .. sebelum dikirim ke process
+    - output ... setelah dibuat sama local process
+    - prerouting .. pas masuk ke interface
+    - postrouting .. sebelum dikirim ke interface
+- j redirect 
+- keep track internally
+- redirect to another PC .. jangan pake jump redirect
+
 
 
 ## iptables
