@@ -15,7 +15,9 @@
 - j redirect 
 - keep track internally
 - redirect to another PC .. jangan pake jump redirect
-
+- destination nat
+- komunikasi semua pake paket
+- taruh intention di dalam paket
 
 
 ## iptables
