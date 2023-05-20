@@ -2,6 +2,8 @@
 - ip tables taruh di startup script
 - iptables -F .. buat buang semua rules dulu
 - ```-t``` ini buat table, kalo engga di defined, jadi default filter
+- ```-j``` buat jump
+- ```psd``` protocol, source destination
 
 
 ## iptables
