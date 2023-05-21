@@ -18,6 +18,9 @@
 - destination nat
 - komunikasi semua pake paket
 - taruh intention di dalam paket
+- ip forward need to be enabled
+- target punya aturan sendiri-sendiri
+
 
 
 ## iptables
