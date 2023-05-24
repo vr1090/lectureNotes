@@ -7,3 +7,8 @@ fi
 - trick
     - apalah=${1?"error message"}
     - ini error message
+    - apalah={2:-defaultValue}
+    - $@ artinya all parameter
+    - [  ada lah program
+- function act like a script
+- function are really just script
