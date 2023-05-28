@@ -13,4 +13,4 @@ fi
 - function act like a script
 - function are really just script
 - "i have 2 ${pet}'s "
-
+- index ... ${someshing:1:5}
