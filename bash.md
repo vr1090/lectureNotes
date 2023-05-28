@@ -12,3 +12,5 @@ fi
     - [  ada lah program
 - function act like a script
 - function are really just script
+- "i have 2 ${pet}'s "
+
