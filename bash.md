@@ -15,3 +15,7 @@ fi
 - "i have 2 ${pet}'s "
 - index ... ${someshing:1:5}
 - searching for everything .. //L with capital L
+- pake cat 
+    ```
+        cat << EOF 
+    ```
