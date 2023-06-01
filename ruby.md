@@ -6,4 +6,5 @@
 - rails server
 - ```rails generate scaffold user```
     - rails generate lots of thing
-    
+- puts
+
