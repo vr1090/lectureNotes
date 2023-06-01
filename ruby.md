@@ -7,4 +7,5 @@
 - ```rails generate scaffold user```
     - rails generate lots of thing
 - puts
+- everything in ruby is an object
 
