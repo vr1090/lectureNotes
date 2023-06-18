@@ -461,6 +461,11 @@ volumes:
         - baca config, reconfigure the ingress
 - contour
     - managing envoy proxy
+- buat deployment
+    - terus di expose
+- path rewrite
+    - modify path, pas dikirim ke upstream
+    
 
 
 
