@@ -459,6 +459,9 @@ volumes:
     - loadbalancer, as a proxy
     - ingress operator
         - baca config, reconfigure the ingress
+- contour
+    - managing envoy proxy
+
 
 
 
