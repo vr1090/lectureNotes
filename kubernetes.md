@@ -451,6 +451,12 @@ volumes:
         claimName: myclaim
 ```
 
+## ingress
+- upstream
+- virtual host
+- merging multiple ingress object to be one config for the LB
+- 
+
 
 
 
