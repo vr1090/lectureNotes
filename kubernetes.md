@@ -455,7 +455,10 @@ volumes:
 - upstream
 - virtual host
 - merging multiple ingress object to be one config for the LB
-- 
+- ingress
+    - loadbalancer, as a proxy
+    - ingress operator
+        - baca config, reconfigure the ingress
 
 
 
