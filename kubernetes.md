@@ -469,7 +469,24 @@ volumes:
 ## kubernetes networking
 - bridge, mirip bikin bridge in network fisik
 - jadi tiap ip, kayak konek ke satu bridge, buat di forward nanti
-
+- netfilter, bagian dari kernel, di setup pake iptables
+- netfilter hook, 
+    - program bisa register buat ini
+    - kernal bakalan panggil program ini, kalau ada syarat terjadi
+- netfilter hook
+    - prerouting  .. dari luar ke dalem
+    - postrouting .. dari dalem ke luar
+    - nat .. kalo s sama d ga sama sama ip komputer
+    - input .. masuk ke mesin
+    - output .. pas keluar dari program
+- action di netfilter:
+    - accept
+    - drop
+    - filter
+    - queue
+- conntrack
+    - penting buat NAT
+    - 
     
 
 
