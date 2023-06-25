@@ -4,3 +4,6 @@
 - pem file bisa di convert ke asc
 - gpg --import key.asc
 - gpg --gen-key
+- publish your public key
+- kalo ada yg mau kirim message, di encrypt pake public key
+
