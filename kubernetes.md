@@ -465,6 +465,11 @@ volumes:
     - terus di expose
 - path rewrite
     - modify path, pas dikirim ke upstream
+
+## kubernetes networking
+- bridge, mirip bikin bridge in network fisik
+- jadi tiap ip, kayak konek ke satu bridge, buat di forward nanti
+
     
 
 
