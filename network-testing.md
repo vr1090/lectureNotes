@@ -6,3 +6,24 @@
         - priviledge escalation
         - backdoor
     - documentation
+
+## discovery
+- cari:
+    - host
+    - service
+    - vunerability
+- host:
+    - lu scan, dapet list of ip
+    - konfirmasi dulu, mana yg boleh, mana yg engga
+- nmap
+    - -sn ... ini buat ping scan
+    - -oA ... output, with all posible
+    - PE .. probe echo
+    - Pn ... jangan host dicosvery
+    - -n .. jangan main dns
+    - -p 80,443 list of port
+- ports:
+    - RDP 3389
+    - SSH 22
+    - SSH 2222
+    - http 80 443
