@@ -12,3 +12,8 @@ yg perlu di pikirin ..:
     - dari kode pake [10] + array
 
 ### move zero, leetcode 
+- l sama r
+- kalo l ga nol lanjutin aja
+- kalo misal l nol, r ga nol, swap
+- break kalo udah selesai
+
