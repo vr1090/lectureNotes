@@ -1,7 +1,7 @@
 ## leetcode
 tempat naro keterangan leetcode gw
 
-### addd 1
+### addd 1, leetcode no 66
 ini mainan binary   
 yg perlu di pikirin ..:
 - kapan buat stop?
