@@ -22,6 +22,8 @@
     - Pn ... jangan host dicosvery
     - -n .. jangan main dns
     - -p 80,443 list of port
+    - --min-hostgroup ...
+    - --min-rate .. packet data
 - ports:
     - RDP 3389
     - SSH 22
