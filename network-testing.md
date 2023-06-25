@@ -29,3 +29,4 @@
     - SSH 22
     - SSH 2222
     - http 80 443
+- NSE ... nmap scripting engine
