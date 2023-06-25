@@ -10,3 +10,5 @@ yg perlu di pikirin ..:
 - cek cek sisa pake %
 - append array di python gimana?
     - dari kode pake [10] + array
+
+### move zero, leetcode 
