@@ -17,3 +17,15 @@ yg perlu di pikirin ..:
 - kalo misal l nol, r ga nol, swap
 - break kalo udah selesai
 
+### valid sudoku
+- triknya bang ..
+    - cek row
+    - cek column
+    - cek kotak
+        - r//3, c //3 --> jadiin tupple
+- code baru:
+    ```
+        df = collections.defaultdict(set)
+        # ini kalo ga mau cek ada key apa engga
+    ```
+
