@@ -29,3 +29,9 @@ yg perlu di pikirin ..:
         # ini kalo ga mau cek ada key apa engga
     ```
 
+### rotate image
+- kasih snagkar dulu, left, right, top, bottom
+- kecilin sangkarnya
+- terus puter counter clockwise
+
+
