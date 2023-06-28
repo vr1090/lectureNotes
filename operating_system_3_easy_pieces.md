@@ -8,4 +8,5 @@
     - take a pysical
     - create a easy to use, virtual form
 - os as resource manager
-
+    - ilusion of very large number cpu
+    
