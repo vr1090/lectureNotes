@@ -40,3 +40,16 @@ yg perlu di pikirin ..:
 - two pointer
 - left and right
 - no need for extra memory
+
+### reverse int
+- simple module dan pembagian
+- python rada2 aneh, int bisa lewat 2**31
+- ada kodingan baru:
+    ```
+        try:
+            pass
+        except:
+            pass
+        
+        sama raise -1
+    ```
