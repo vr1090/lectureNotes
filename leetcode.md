@@ -35,3 +35,8 @@ yg perlu di pikirin ..:
 - terus puter counter clockwise
 
 
+
+### reverse string
+- two pointer
+- left and right
+- no need for extra memory
