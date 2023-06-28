@@ -53,3 +53,7 @@ yg perlu di pikirin ..:
         
         sama raise -1
     ```
+
+### first unique char
+- diitung aja karakternya bang
+
