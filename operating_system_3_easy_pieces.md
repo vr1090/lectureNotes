@@ -13,3 +13,5 @@
     - all program popinter memory at the same address,tapi ga crash?
 - concurrency
     - akses resource bareng2
+- protection
+    - isolation
