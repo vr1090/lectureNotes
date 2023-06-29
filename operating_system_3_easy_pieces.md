@@ -30,3 +30,7 @@
     - load the program laziliy
 - file descriptor
     - input, output, error
+- state process
+    - running
+    - ready
+    - blocked ... ini kalo nunggu io
