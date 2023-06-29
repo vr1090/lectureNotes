@@ -9,4 +9,7 @@
     - create a easy to use, virtual form
 - os as resource manager
     - ilusion of very large number cpu
-    
+- virtual address
+    - all program popinter memory at the same address,tapi ga crash?
+- concurrency
+    - akses resource bareng2
