@@ -15,3 +15,5 @@
     - akses resource bareng2
 - protection
     - isolation
+
+## virtualization
