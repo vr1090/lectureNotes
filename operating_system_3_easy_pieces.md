@@ -28,3 +28,5 @@
     - IO
     - register
     - load the program laziliy
+- file descriptor
+    - input, output, error
