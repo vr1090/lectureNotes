@@ -17,3 +17,14 @@
     - isolation
 
 ## virtualization
+- illusion of many cpu
+- time sharing of the cpu
+- time sharing
+- policies
+- process
+    - address space
+    - stack pointer
+    - frame pointer
+    - IO
+    - register
+    - load the program laziliy
