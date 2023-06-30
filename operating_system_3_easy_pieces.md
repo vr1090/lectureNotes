@@ -37,3 +37,5 @@
 
 ## concurrency
 - TCB ... thread control block
+- CSP .. cooperating sequential process
+- mutex .. only single process update the critical section
