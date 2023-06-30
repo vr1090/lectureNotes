@@ -34,3 +34,6 @@
     - running
     - ready
     - blocked ... ini kalo nunggu io
+
+## concurrency
+- TCB ... thread control block
