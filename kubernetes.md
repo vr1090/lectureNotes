@@ -486,7 +486,13 @@ volumes:
     - queue
 - conntrack
     - penting buat NAT
-    - 
+
+## prometheus
+- podmonitoring ... ini CR
+- podmonitoring:
+    - spec:
+        - selector
+        - endpoint
     
 
 
