@@ -19,3 +19,5 @@
   - pg_tables;
 - tanda baca penting di psql.. "" sama '' beda;
 - \c bisa dipake buat ganti user
+- delete role:
+  - ``` drop role namarole ```
