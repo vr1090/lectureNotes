@@ -9,3 +9,5 @@
 - list all database: \l
 - list all table : \dt
 - list all table with owner and such : \dt+
+- postgres ... user dibuat sama psql buat akses2
+- grant roles to user ... buat kasih akses seperti user di roles
