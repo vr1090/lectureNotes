@@ -7,6 +7,7 @@
 - profiling .. having context for a small amount of time
 - ambil data:
     - service discovery
+        - relabeling, kalo yg default engga cukup
     - scraping
 - exporter
     - kalo ga bisa jalanin client
