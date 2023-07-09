@@ -8,3 +8,6 @@
 - ambil data:
     - service discovery
     - scraping
+- exporter
+    - kalo ga bisa jalanin client
+    - jalanin ini bareng sama apps yg mau di cek.
