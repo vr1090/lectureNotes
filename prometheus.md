@@ -12,3 +12,7 @@
 - exporter
     - kalo ga bisa jalanin client
     - jalanin ini bareng sama apps yg mau di cek.
+- recording rule ..
+    - buat agregate
+- alerting rule
+    - sama juga agregate
