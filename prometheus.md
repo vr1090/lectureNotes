@@ -16,3 +16,12 @@
     - buat agregate
 - alerting rule
     - sama juga agregate
+- prometheus agent
+    - extract performance
+- federate
+    - metric to other promethus
+- default is pull
+- metric server
+- service monitor
+    - add another component in yaml
+    - prometheus monitor service monitor
