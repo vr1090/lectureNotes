@@ -32,4 +32,15 @@
 - psql ... need to specify ..
   - default use the same user
 - define database -d .. 
+- public 
+  - public group ... public can do
+  - anybody can do connect
+  - public, is not a role
+- revoke connect permission from user
+- REVOKE ALL ON DATABASE test FROM p
+- GRANT sales to usera;
+- GRANT CONNECT ON DATABASE test TO sales;
+- postgres itu superuser
+- revoke all on schema public from public;
+
 
