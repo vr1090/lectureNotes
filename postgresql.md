@@ -23,3 +23,9 @@
   - ``` drop role namarole ```
 - CREATE USER new_username WITH PASSWORD 'new_password';
 - GRANT SELECT ON DATABASE your_database TO new_username;
+
+## role and identity
+- user ... role dengan akses login
+- CREATE ROLE sales NOLOGIN;
+- CREATE ROLE userA WITH LOGIN;
+- metadata \du 
