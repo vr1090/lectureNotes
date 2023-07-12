@@ -21,3 +21,5 @@
 - \c bisa dipake buat ganti user
 - delete role:
   - ``` drop role namarole ```
+- CREATE USER new_username WITH PASSWORD 'new_password';
+- GRANT SELECT ON DATABASE your_database TO new_username;
