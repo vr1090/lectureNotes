@@ -28,4 +28,8 @@
 - user ... role dengan akses login
 - CREATE ROLE sales NOLOGIN;
 - CREATE ROLE userA WITH LOGIN;
-- metadata \du 
+- metadata \du
+- psql ... need to specify ..
+  - default use the same user
+- define database -d .. 
+
