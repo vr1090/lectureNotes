@@ -13,5 +13,10 @@
     - wordsixe gede ... virtual memory juga nambah
 - processor 64 bisa jalanin program 64 bit sama 32 bit
 - processor 32 bit cuma bisa jalanin program 32 bit
+- little endian .. byte paling kecil, di paling atas
+    - intel dan ARM
+- big endian .. byte paling gede diatas
+    - oracle/sun sama IBM
+
 
 
