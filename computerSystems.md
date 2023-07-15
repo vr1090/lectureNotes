@@ -19,5 +19,10 @@
     - oracle/sun sama IBM
 - a program is just simple sequence of bytes
 
+## machine code
+- IA32 ... instruction set, using 32 bit information
+- compiling c , -> source code -> .s (assembly text) -> .o ( binary) -> linker -> executable
+
+
 
 
