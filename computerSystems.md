@@ -17,6 +17,7 @@
     - intel dan ARM
 - big endian .. byte paling gede diatas
     - oracle/sun sama IBM
+- a program is just simple sequence of bytes
 
 
 
