@@ -11,4 +11,7 @@
 - wordsize .. gede alamat di virtual memory
     - bisa juga maximum byte yg bisa di handle sama processoer
     - wordsixe gede ... virtual memory juga nambah
+- processor 64 bisa jalanin program 64 bit sama 32 bit
+- processor 32 bit cuma bisa jalanin program 32 bit
+
 
