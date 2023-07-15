@@ -23,4 +23,7 @@
 - `sudo systemctl `
 - `/etc/ssh/sshd_config`
 - key based auth is more secure
-- 
+
+# kernel
+- mod ... itu driver
+-  
