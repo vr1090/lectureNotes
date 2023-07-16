@@ -35,6 +35,18 @@
     - ARM company in its own.
     - lower power requirement
     - they sells the licensing right for processor
-    
+- registers ..
+    - address by name
+- assembly
+    - bisa 1 - 15 bytes, instructionnya
+    - move data dari memoery ke register
+    - calculation
+    - jump:
+        - unconditiona
+        - conditional
+    - ada memory address
+    - ada command
+
+
 
 
