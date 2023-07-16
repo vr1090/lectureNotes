@@ -28,6 +28,6 @@
     - core computing
     - independent processor in single machine
 - L3 cache di share antar CPU
-
+- AMD get doing with 64 ISA extension
 
 
