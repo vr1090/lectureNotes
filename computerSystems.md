@@ -29,5 +29,12 @@
     - independent processor in single machine
 - L3 cache di share antar CPU
 - AMD get doing with 64 ISA extension
+- ARM .. acorn risc machine
+    - british company, bikin PC sendiri
+    - fairly good instruction set, put on chip, costumized
+    - ARM company in its own.
+    - lower power requirement
+    - they sells the licensing right for processor
+    
 
 
