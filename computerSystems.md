@@ -22,7 +22,12 @@
 ## machine code
 - IA32 ... instruction set, using 32 bit information
 - compiling c , -> source code -> .s (assembly text) -> .o ( binary) -> linker -> executable
-
+- ISA ... instruction set architecture
+- 100 watt .. frequency dah ga bisa di mainin lagi. stop di 2004
+- beberapa processor di gabung jadi satu processor
+    - core computing
+    - independent processor in single machine
+- L3 cache di share antar CPU
 
 
 
