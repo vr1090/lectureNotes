@@ -47,6 +47,12 @@
     - ada memory address
     - ada command
 
+    ## machine code II
+    - flags .. ini 1 bit
+    - ZF ... zero flag
+    - OF .. overflow flag
+    
+
 
 
 
