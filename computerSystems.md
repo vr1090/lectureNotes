@@ -46,6 +46,9 @@
         - conditional
     - ada memory address
     - ada command
+- disaabbler
+    - objdump
+    
 
     ## machine code II
     - flags .. ini 1 bit
