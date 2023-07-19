@@ -25,3 +25,8 @@
 ## yg di load
 - /bin /sbin /etc
 
+## mount
+- mount -o rw,remount /
+- su - nama
+    - bikin jadi login mode
+
