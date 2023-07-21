@@ -36,4 +36,12 @@
 - terus taruh di memory
 - values regular interval in time
 - var, job, service
-- 
+
+
+## incident
+- lu perlu belajar dari ini
+- post-mortem belajar dari incident
+- impact, action taken, root caused, floow up taken
+- kalo berulang, tidak aprah seperti sebelumnya
+- significant desriable efent
+- it is not a punisment, alearning oportunities
