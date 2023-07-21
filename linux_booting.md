@@ -29,4 +29,9 @@
 - mount -o rw,remount /
 - su - nama
     - bikin jadi login mode
+- bisa su, gabung ke group wheel
+
+## process
+- strace ... liat api apa aja yg dipanggil
+
 
