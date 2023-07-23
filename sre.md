@@ -45,3 +45,17 @@
 - kalo berulang, tidak aprah seperti sebelumnya
 - significant desriable efent
 - it is not a punisment, alearning oportunities
+- there is cost
+- kapan perlu:
+    - dtaa loss
+    - on call engineering, intervention
+    - down lebih dari 5 menit
+    - monitoring failure
+- post-mortem google docs
+- ini kolaborasi, orang yang smaa edit dokument sama ada email2nya
+
+## tracking outage
+- outage atau data loss
+
+next 17 18
+## testing for reliability
