@@ -59,3 +59,17 @@
 
 next 17 18
 ## testing for reliability
+
+## Software engineering
+- banyak software yg invisible
+- capacity planning:
+    - butuh berapa?
+    - ini bakalan jalan berapa lama?
+- cek:
+    - dependencies
+    - performance metrics
+- intent based:
+    - communicate clear message
+    - launch and iterate
+    - dont lower your standard
+    - using company capabilities
