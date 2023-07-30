@@ -59,8 +59,15 @@
 
 next 17 18
 ## testing for reliability
+- possibily quantify confidence
+- velocity vs software quality
+- regression test .. compare sama bug2 yg lama
+- configuration test
+- hermetic.. ada side effect?
 
-## Software engineering
+
+## Software engineering SRE
+- team should not scale with the services
 - banyak software yg invisible
 - capacity planning:
     - butuh berapa?
@@ -73,3 +80,5 @@ next 17 18
     - launch and iterate
     - dont lower your standard
     - using company capabilities
+
+next week 19, 20
