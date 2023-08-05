@@ -1,2 +1,11 @@
 ## http
 - sekarang lagi 1.0 sama 1.1, kedepen mau pake 2, which is already binary format
+- URL, URN, URI .. kagak penting, stick to url
+- schema://lokasi
+- /path
+- ?query
+- \# ini anchor
+- http: sequence of header, terus blank lines, terus baru body
+- Connection: Keep Alive, ini standard di 1.1
+- HTTP 2.0, ada interleaving connection
+- ELB .. elastic load balancer
