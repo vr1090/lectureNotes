@@ -39,3 +39,13 @@
 - TCB ... thread control block
 - CSP .. cooperating sequential process
 - mutex .. only single process update the critical section
+
+
+## virtual address of the process
+- created by operating system
+- allocate heap, allocate stack
+- perlu di mapping ke memory asli
+- translation
+    - way beyond your means
+    - beyond the address space
+- OS tells the hardware, base address and the bound
