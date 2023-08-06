@@ -60,3 +60,8 @@
     - multiple base and bound in RAM
     - udah ga popular
     - sekarang ostly pada pake paging
+- Paging
+    - ini yg real
+    - allocate memory in chucks, fixed size chunks
+    - pages
+    
