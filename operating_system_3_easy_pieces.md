@@ -56,4 +56,7 @@
 - MMU generate faults and traps to OS, when access is illegal
 - OS keep tracks whatever in memory
     - maintain where everything is allocated
-    
+- Segmentation
+    - multiple base and bound in RAM
+    - udah ga popular
+    - sekarang ostly pada pake paging
