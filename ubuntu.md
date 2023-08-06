@@ -30,5 +30,22 @@
 
 ## systemd
 - init system, schedule all other process
+- init system:
+    - process .. pid 1
+    - managed system run in backround
+- specific criteria are met?
+- unit:
+    - anaything that can be managed
+    - services, timers, mounts, automounts
+    - buat awal2,services
+- contoh .. coba httpd
+- sudo apt install apache2
+- fedora dnf package
+- enterprise linux, banyak process yg ga jalan otomatis
+- systemctl status httpd/apache2
+- disabled .. not going start up, when server start up
+- sudo systemctl start httpd
+- sudo systemctl stop httpd
+
 
 
