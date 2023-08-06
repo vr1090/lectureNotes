@@ -53,4 +53,7 @@
 - MMU check if the address is beyond bound
 - CPU provide priviledge mode of execution
 - certain priviledge in translation
-
+- MMU generate faults and traps to OS, when access is illegal
+- OS keep tracks whatever in memory
+    - maintain where everything is allocated
+    
