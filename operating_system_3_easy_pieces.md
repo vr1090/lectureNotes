@@ -49,3 +49,8 @@
     - way beyond your means
     - beyond the address space
 - OS tells the hardware, base address and the bound
+- pysical = virtual + base
+- MMU check if the address is beyond bound
+- CPU provide priviledge mode of execution
+- certain priviledge in translation
+
