@@ -28,3 +28,7 @@
         - ada di folder .ssh
         - buat permudah katanya
 
+## systemd
+- init system, schedule all other process
+
+
