@@ -46,6 +46,26 @@
 - disabled .. not going start up, when server start up
 - sudo systemctl start httpd
 - sudo systemctl stop httpd
+- restart ... buat ubah config .. stop service, start service again
+- disabled ... kalo ini ga jalan otomatis
+- sudo systemctl enable httpd
+
+
+## systemd laid out
+- unit files, anaything that can be managed
+- services file .. /lib/systemd/system/httpd.service
+- service file .. .service
+- directory:
+    - etc/systemd/system .. paling common
+    - /run/systemd/system
+    - /lib/systemd/system
+    - why?
+        - 
+- other:
+    - mount
+    - target
+    - socket
+
 
 
 
