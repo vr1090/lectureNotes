@@ -1,0 +1,54 @@
+## class intro, 7 augustus 2023
+- 8x pertemuan
+- latihan di komputer masing2
+- tcp/ip, simulator jaringan
+- ipv4 ipv6
+- buat lab sendiri dikomputer
+- sniffing, sadap, protocol kayak apa
+- buku andi offset, ada di e-learning
+- vunerability analysis
+- pertahanan host, SOC
+    - SOC ... dilapangan yg mahal2
+    - SOC open source
+- total 2 bulan
+- buat latihan di opencourse itts
+- plan - do - check
+- helium.sh vuln analysis
+- check .. ransimulator
+- https://opencourse.itts.ac.id/course/view.php?id=2#section-33
+- wazuh .. dashboard
+- ubuntu 22.04
+- wazuh, securityOnion
+- SOAR security .. dagangan banget
+    - respon secara otomatis
+    - bukan sales
+- wazuh itu siem
+
+## network fundamendal
+- GNS3 .. downlaod free
+- pnetlab 
+- mikrotik .. 
+- mikrotik.com ... free software
+    - cloud hosted router, ova template
+- category
+- gns3, nyolokin kabel LAN
+- cloud nyambung ke internet
+- kali linux 2023 ... mikrotik
+- dvwa .. damm vulnerable web apps
+- metasploitable .. install virtual box
+- mikrotik:
+    - ethernet 0, WAN
+    - admin, password kosong
+- bridge
+    - banyak lan, jadi 1
+    - client dapet ip yg sama
+- MTU .. 
+    - pake, 256 byte
+- masqurade .. masker, pasang masker
+- mikrotik 100-x
+- mikrotik NAT .. terjemahan address 
+- NAT buat table .. 100x .. ip jadi 0.95x
+- IPv6 jauh lebih cepet dari ipv4
+- vulnhub.com ...list vm yg bisa di hack
+- /system , mikrotik ..
+
