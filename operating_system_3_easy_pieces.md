@@ -64,4 +64,17 @@
     - ini yg real
     - allocate memory in chucks, fixed size chunks
     - pages
+
+## paging
+- fixed size chunks
+- no small holes
+- internal fragmentation, request 5 bytes, page udah abis, di kasih satu pages penuh
+- page table
+    - ini yg mapping process dengan VA, dan PA. VA virtual address, PA physical address
+- VPN .. virtual page number
+- PFN ... physical frame number
+- PCB .. process control block
+    - info about a process
+
+
     
