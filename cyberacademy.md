@@ -59,3 +59,11 @@
 - virtualbox pake bridge
 - nc -ul 8888
 
+## network benchmarking
+- ukur kemampuan jaringan
+- ping -q -s 1 -f 192.168.0.96
+- siege ... buat kirim beban gede
+- siege -u https://
+- miro ... buat bikin mind mapping
+- CN core network
+
