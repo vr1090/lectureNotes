@@ -66,4 +66,8 @@
 - siege -u https://
 - miro ... buat bikin mind mapping
 - CN core network
+- kamailio recording
+- rtl-sdr .. alat radio
+- advance routing
+
 
