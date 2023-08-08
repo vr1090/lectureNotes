@@ -52,3 +52,10 @@
 - vulnhub.com ...list vm yg bisa di hack
 - /system , mikrotik ..
 
+## routing network
+- iot, data disensor2
+- kuliah system operasi
+- app inventor2
+- virtualbox pake bridge
+- nc -ul 8888
+
