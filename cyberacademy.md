@@ -75,6 +75,10 @@
 
 ## routing
 - antar komputer saling kasih tahu
-- 
+- ospf -> ipv4
+- ospf v3 -> ipv6
+- winbox
+
+
 
 
