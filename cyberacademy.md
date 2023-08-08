@@ -69,5 +69,12 @@
 - kamailio recording
 - rtl-sdr .. alat radio
 - advance routing
+    - simple RIP
+    - BGP dipake buat operator
+    - OSPF di gedung2, dan kantor
+
+## routing
+- antar komputer saling kasih tahu
+- 
 
 
