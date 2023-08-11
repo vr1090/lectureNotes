@@ -1,3 +1,37 @@
 ## AD
 - SSO access cloud
 - usecured network
+- identity:
+    - user
+    - device
+    - applications 
+    - services
+    - group
+- what is AD:
+    - user identity
+    - tools provision, modify, delete priviledges
+    - policies and workflow
+    - auditing and reporting
+- Nobelium attacks
+    - solarwinds
+- golden saml attack was used
+- needs:
+    - analyze logs
+    - analyze data effectively
+    - user beavior analysis
+    - detect anomalies
+- FIDO
+    - Fast Identity Online
+    - passwordless auth, based on FIDO
+    - WebAuthn
+- Active directory Domain Services
+- AD is multimaster DB
+    - ntds.dit
+    - Joint engine technology
+- DC: domain controller
+- slapd ... standalone ldap daemon
+- structure need schema
+- forest is a complete AD instance
+- domain controller, ini windows server
+- FSMO .. flexible single master operation
+
