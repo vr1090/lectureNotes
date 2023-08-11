@@ -34,4 +34,12 @@
 - forest is a complete AD instance
 - domain controller, ini windows server
 - FSMO .. flexible single master operation
-
+- DN = unique ID
+- DC = commain compoenent
+- CN = CommonName ... 
+- Component:
+    - AD DS
+    - AD FS
+    - AD LDS ... Lightweight directory services
+    - ADCS ... certificate services
+- DIT, directory information tree
