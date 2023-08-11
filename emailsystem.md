@@ -21,3 +21,8 @@
 -  alias, kirim ke email A, terus nanti jadi pecah kebeberapa email
 
 ## exim, program MTA
+
+## routing
+- dual delivery
+- outbound mail filtering
+-
