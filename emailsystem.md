@@ -25,4 +25,11 @@
 ## routing
 - dual delivery
 - outbound mail filtering
--
+
+
+## routing
+- split delivery
+- add legacy server to google first
+- gmail -> routing
+- gmail -> add hosts
+
