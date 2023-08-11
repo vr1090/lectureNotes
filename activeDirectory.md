@@ -43,3 +43,4 @@
     - AD LDS ... Lightweight directory services
     - ADCS ... certificate services
 - DIT, directory information tree
+- RDN ... relative distinguish name
