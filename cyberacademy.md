@@ -87,6 +87,24 @@
 - DVWA
 - MSF hack android
 - backdoor factory
+- kali linux, installer images
+- onnocenter.or.id
+- mikrotik
+    - user admin, pass kosong
+    - ip address print
+- firewall:
+    - fortigate
+    - sisco
+    - mikrotik
+- preferensi:
+    - linux, dan mikrotik
+    - openwrt
+- metsploit framework
+- spoofing, layer jaringan wireshark
+- postexploitation
+    - shell cnc, command and control
+
+
 
 
 
