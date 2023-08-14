@@ -103,6 +103,13 @@
 - spoofing, layer jaringan wireshark
 - postexploitation
     - shell cnc, command and control
+- smtp, jonathan postel
+- kode antar aplikasi masuh pake standard http
+- telnet masuk ke port 25
+-   HELO cyberarmy.di
+- php, upload, trojan, backdoor
+- periodic php file ini
+- hack password, /etc/passwd sama /etc/shadow
 
 
 
