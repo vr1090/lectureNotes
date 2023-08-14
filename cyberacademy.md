@@ -79,6 +79,15 @@
 - ospf v3 -> ipv6
 - winbox
 
+## hacking
+- ophcrack
+- audit security
+- MITM
+- burpsuite
+- DVWA
+- MSF hack android
+- backdoor factory
+
 
 
 
