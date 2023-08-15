@@ -110,6 +110,14 @@
 - php, upload, trojan, backdoor
 - periodic php file ini
 - hack password, /etc/passwd sama /etc/shadow
+- LDAP, active directory microsoft
+- kali linux wifi tplink WN722
+- ALFA AWWUSO
+- aircrack-ng
+- fern wifi cracking
+- kismet
+- usb wifi, monitoring mode
+- esp, deauthor
 
 
 
