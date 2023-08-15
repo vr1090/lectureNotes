@@ -119,6 +119,7 @@
 - usb wifi, monitoring mode
 - esp, deauthor
 - cewl ... ambil dari kata2 facebook
+- wordlist ... rockyou
 
 
 
