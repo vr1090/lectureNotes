@@ -16,3 +16,5 @@
 - dokumentasi admin sdk:
     - https://developers.google.com/admin-sdk/directory/v1/quickstart/python
     - python minimal 3.10.7
+    - sudo apt install python3-pip
+
