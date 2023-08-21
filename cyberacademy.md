@@ -133,7 +133,7 @@
 - kerbeors,ldap, sso, IAM
 - bikin sendiri semua, ga tergantung sama produk luar
 - vulnhub, picoctf
-
+- peta network secuirty
 
 
 
