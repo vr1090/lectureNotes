@@ -121,6 +121,17 @@
 - cewl ... ambil dari kata2 facebook
 - wordlist ... rockyou
 
+## cybersecurity
+- paul jerimy 
+- security certification roadmap
+- sertifikat ilmu
+- CISSP 10jt
+- SSCP .. ambil yg lebar2
+- lingukup dari ujung sampe ujung
+- nslookup, dig, netstat
+- linux if config
+- kerbeors,ldap, sso, IAM
+
 
 
 
