@@ -18,3 +18,12 @@
     - python minimal 3.10.7
     - sudo apt install python3-pip
 
+- install 
+```
+pip3 install virtualenv
+virtualenv <your-env>
+source <your-env>/bin/activate
+<your-env>/bin/pip install google-api-python-client
+```
+
+- api workspace ... https://developers.google.com/admin-sdk/directory/v1/libraries

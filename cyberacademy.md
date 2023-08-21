@@ -134,6 +134,14 @@
 - bikin sendiri semua, ga tergantung sama produk luar
 - vulnhub, picoctf
 - peta network secuirty
+- orange, training data untuk cyber security
+- onnocenter wiki, cybersecurity
+- KDD data set, anomali detection
+
+## Vulnerability analysis
+- helium.sh
+    - target, kasih description dulu
+- PAM pluggable auth module
 
 
 
