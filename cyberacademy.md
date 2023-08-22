@@ -155,6 +155,7 @@
 - rsync -r ... buat folder juga di abckup
 - gsutil rsync -d -r dir1 dir2
 - psad
+- netstat -ntlp
 
 
 
