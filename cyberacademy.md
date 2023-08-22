@@ -157,6 +157,22 @@
 - psad
 - netstat -ntlp
 - rc.local
+- webmin, instalasi grafik
+- modsecurity
+- rules yg lebih gila owasp
+- vpn:
+    - pptp .. ini vpn microsoft
+- cd /etc/openvpn
+    - build-ca
+- openvpn versi gampang:
+    - openvpn-install.sh
+- ca:
+    - server
+    - client
+    - client
+- server 2 arah, public key, private key
+
+
 
 
 
