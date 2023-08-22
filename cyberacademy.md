@@ -156,6 +156,7 @@
 - gsutil rsync -d -r dir1 dir2
 - psad
 - netstat -ntlp
+- rc.local
 
 
 
