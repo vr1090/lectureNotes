@@ -142,6 +142,20 @@
 - helium.sh
     - target, kasih description dulu
 - PAM pluggable auth module
+- john .. ini buat jebolin password
+- chage -d 0 username
+- sudo su -
+- priviledge ALL dapet 4
+- sudo su -
+- data center server cage
+- cek layanan yg tidak perlu
+- backup data pake rsync
+- rsync source destination
+- rsync -avz source destination
+- rsync -r ... buat folder juga di abckup
+- gsutil rsync -d -r dir1 dir2
+- psad
+
 
 
 
