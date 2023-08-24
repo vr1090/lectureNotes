@@ -11,3 +11,6 @@ ada juga applikasi nama sslscan
 - PEM format, base64 text
 
 certgraph
+
+etc/ssl/cert --> tempat naro semua sertifikat
+
