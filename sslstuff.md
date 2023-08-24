@@ -5,5 +5,9 @@ buat konek ke ssl
 ada juga applikasi nama sslscan
 - sslscan namaDomain
 
-openssl x509 -noout -modulus -in servercertificate.crt | openssl md5
-openssl rsa -noout -modulus -in private.key | openssl md5
+- openssl x509 -noout -modulus -in servercertificate.crt | openssl md5
+- openssl rsa -noout -modulus -in private.key | openssl md5
+
+- PEM format, base64 text
+
+certgraph
