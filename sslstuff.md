@@ -13,4 +13,6 @@ ada juga applikasi nama sslscan
 certgraph
 
 etc/ssl/cert --> tempat naro semua sertifikat
+- sudo cp my-certificate.crt /usr/local/share/ca-certificates/
+- sudo update-ca-certificates
 
