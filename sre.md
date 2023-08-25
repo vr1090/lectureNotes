@@ -82,3 +82,75 @@ next 17 18
     - using company capabilities
 
 next week 19, 20
+
+## chapter 21
+- overload dah biasa
+- gracefull overload 
+- mainin data center
+- qps is weird metrics
+- dealing with resources directly
+- google, 10k cpu
+    - bagi2 max per services
+- client side throtling
+- bagi per criticality
+    - critically plus
+    - critical
+    - sheddable-plus
+- histogram of attempts
+
+## chapter 22
+- addressing cascading failures
+- backoff exponentially
+- resource exhaustion:
+    - CPU:
+        - in flight request:
+            - memory
+            - bus
+            - active thread
+        - excessing queue length
+            - latency increases
+        - thread stravation
+        -CPU caches reduces
+    - memory:
+        - dying task, crash
+        - garbage collection rate naik
+        - cache ht rate
+    - file descriptors:
+        - habis? ga bisa konek
+- preventing server overload:
+    - load test your server
+    - serve degraded result
+    - jangan sampe overload, server reject kalo mulai batas tertentu
+    - handle di load balancer
+- Queue management
+    - playing with queue
+- Load sheding
+    - pemadaman sementara
+- retries
+    - jangan naive retries
+    - backoff and jitters
+- latencies and deadline
+    - put deadline in all task
+- slow startup and cold caching
+    - code
+    - JIT
+    - connection
+- triggering condition
+    - process death
+    - process updates
+    - new rollouts
+- Testing:
+    - test until failure and beyond
+    - test with large client
+    - test non critical
+- Immideiate step:
+    - increase reosurces
+    - stop healthchecks
+    - restart server:
+        - GC death spiral
+        - zombie process
+        - server deadlocked
+    - dropping request
+    - enter degrated mode
+    - eliminate batch traffic
+    - eliminate bad traffic
