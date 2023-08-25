@@ -15,4 +15,7 @@ certgraph
 etc/ssl/cert --> tempat naro semua sertifikat
 - sudo cp my-certificate.crt /usr/local/share/ca-certificates/
 - sudo update-ca-certificates
+- openssl verify -CAfile path/to/ca.crt path/to/certificate.crt
+- -show-chain
+
 
