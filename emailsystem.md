@@ -32,4 +32,5 @@
 - add legacy server to google first
 - gmail -> routing
 - gmail -> add hosts
+- mx something2
 
