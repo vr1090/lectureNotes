@@ -190,7 +190,7 @@
 - recovered files
 - nama ilang, owner juga ilang
 - chmod 
-- chown -Rf adhi: RECOV 
+- chown -Rf adhi: RECOV
 
 
 
