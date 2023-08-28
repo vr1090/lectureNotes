@@ -191,7 +191,10 @@
 - nama ilang, owner juga ilang
 - chmod 
 - chown -Rf adhi: RECOV
-
+- aplication security soc center
+    - osim security center
+    - keyword soc
+- OSSIM ini open source
 
 
 
