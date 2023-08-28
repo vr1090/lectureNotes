@@ -172,6 +172,16 @@
     - client
 - server 2 arah, public key, private key
 
+## forensic
+- carving
+- imaging
+- forensic problem:
+    - barnag bukti 1 apa
+- barang bukti di copy
+    - ngeghost
+    - backup2 di backup lagi
+    - yg ketiga di obok2
+
 
 
 
