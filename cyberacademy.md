@@ -195,7 +195,12 @@
     - osim security center
     - keyword soc
 - OSSIM ini open source
-
+- thehive .. buat ransomware
+- wazuh yg sering dipake
+    - buat plugin agent
+    - taro di server
+    - agent itu bakalan ngomong ke wazuh
+    
 
 
 
