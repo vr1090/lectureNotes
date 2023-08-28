@@ -200,7 +200,14 @@
     - buat plugin agent
     - taro di server
     - agent itu bakalan ngomong ke wazuh
-    
+- lynis ... 
+    - audit, konfigurasi
+- rkhunter
+- tripwire
+- lms.onnocenter.or.id/pustaka
+- /etc/sudoers
+- signer auth
+
 
 
 
