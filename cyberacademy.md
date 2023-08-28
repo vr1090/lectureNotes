@@ -181,6 +181,16 @@
     - ngeghost
     - backup2 di backup lagi
     - yg ketiga di obok2
+- hardisk nempel di pc
+    - /dev/sda
+    - /dev/sdb
+- umount /media/onno/49
+- fdisk /dev/sdc
+- extundelete /dev/sdc1 --restore-all
+- recovered files
+- nama ilang, owner juga ilang
+- chmod 
+- chown -Rf adhi: RECOV 
 
 
 
