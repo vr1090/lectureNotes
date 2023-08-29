@@ -207,6 +207,8 @@
 - lms.onnocenter.or.id/pustaka
 - /etc/sudoers
 - signer auth
+- CIA triad
+    
 
 
 
