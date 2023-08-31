@@ -208,8 +208,75 @@
 - /etc/sudoers
 - signer auth
 - CIA triad
-    
 
+# iso 27001
+- smki
+- admin server/ auditor?
+    - jeruk makan jeruk
+- iso 27001, template
+- cisp
+- osint
+- keluarga iso 27000
+    - 27001 .. yg umum
+    - istilah 27000
+- naskah asli mahal
+- nist standard
+    - 4 level
+- registrasi PSE
+    - penyelengara sistem elektronik
+- PDCA cycle
+    - Plan 
+    - do
+    - check
+    - act
+- template risk assesment iso27001 IT
+- SPBE, sistem pemerintahan berbasis elektronik
+- resiko, data leak
+    - trust ilang
+- cost benefit ratio
+- response
+- probability, effect
+- event: observable. ada di bukti
+    - incident .. violation. tidak ikuti aturan
+
+
+## notes on exam
+- mencuri rincian pengguna
+    - xss
+- gnupg 
+    - manajemen kunci
+- OWASP modsecurity
+    - attack generic rule
+- nikto -h -o report.html
+- dampak terbuka aspek integrity
+    - errornous decision
+- route add -net 3223 gw
+- incident response:
+    - prep, detection, investigation, mitigation, post incident
+- roup_concat(table_name),3,4,5 from information_schema.tables where table_schema=databas
+    - liat table name
+- firewall engga hapus mallware
+- ketersediaan informasi
+    - redudancy, backups and access control
+- IDS component:
+    - sensor
+    - analyzer
+    - rule db
+    - console
+    - database log
+    - signature data
+    - notification
+- keamanan syber .. people sih
+- masuqrader .. yg coba akses unauthrozed pake authorized
+- ssh, belum tentu ssl
+- disruption that cause critical something
+    - disaster
+- linux firewall .. ipfw firewall
+- vapt .. 
+- @rx <script>.. cross site scripting
+- iso, tambah data, encapsulation
+- chek file eksensi menurut gw ga ngaruh
+- 
 
 
 
