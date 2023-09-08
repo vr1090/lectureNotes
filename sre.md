@@ -154,3 +154,19 @@ next week 19, 20
     - enter degrated mode
     - eliminate batch traffic
     - eliminate bad traffic
+
+## 23 managing critical state
+- multiple state
+- consistent view of system state
+- CAP theorem:
+    - consistency
+    - avaliability
+    - partition tolerance
+- clock drift
+- network partition are inventible
+- use a consensus
+- masalah yg di distributed system:
+    - split brain problem
+- network 2 partition
+    - jadi apa2 harus ganjil
+
