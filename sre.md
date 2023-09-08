@@ -169,4 +169,8 @@ next week 19, 20
     - split brain problem
 - network 2 partition
     - jadi apa2 harus ganjil
+- bzantine failure
+- time stamp, problematic
+- spanner bisa handle uncertainty
+
 
