@@ -29,5 +29,10 @@
         - px
         - py
     - kalo ga mau nempel, taru di container
+    - flex
+        - d-flex
+    - img-fluid ... ini buat ga maks di contatir
+    - w-50 width max 50%
+    - -sm small brakpoint
 
 
