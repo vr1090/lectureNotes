@@ -1,8 +1,33 @@
 ## bootstrap
+- emmet abbrevation
 - it is a css framework
 - predefined clases
 - hierarchy
     - btn btn-primary
 - accordion
     - butuh bootstrap javasript bundle
-- 
+- pake cdn, sama javasript bundle
+- mau modif bootstrap
+    - pake source code aja dulu
+- cdn, text editor aja dulu
+- bootstrap ikutan reset juga
+- navbar
+    - nav tag
+    - navbar
+    - bg-dark
+    - collapse
+        - nabar-nav
+        - nav-link
+- ms-auto
+- html
+    - section
+    - bg-drak
+    - text-light
+    - p
+        - pt
+        - pb
+        - px
+        - py
+    - kalo ga mau nempel, taru di container
+
+
