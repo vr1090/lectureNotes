@@ -9,3 +9,4 @@
         - all incoming message
             - cuma buat satu domain atau account yg sama
         - only external message
+    - also route to destination recipient
