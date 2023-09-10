@@ -40,4 +40,12 @@ fi
 - dont forget t use then
 - ending with fi
 - simple.. using ;;;;
-- 
+- else
+- logical and && and logical ||
+- simple command
+- what is [[ ]]
+    - regular test [
+    - enhanced [[]]
+- better 
+    - variable between double quote
+    - 
