@@ -10,3 +10,7 @@
             - cuma buat satu domain atau account yg sama
         - only external message
     - also route to destination recipient
+- automatic forwarding juga bisa
+
+## google drive
+- pake rclone bang
