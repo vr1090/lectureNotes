@@ -14,3 +14,6 @@
 
 ## google drive
 - pake rclone bang
+- sharing bisa di enable
+- terus ke user
+- transfer file to another user
