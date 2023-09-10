@@ -493,6 +493,14 @@ volumes:
     - spec:
         - selector
         - endpoint
+
+## sidecar
+- buat bantuin pod yang utama
+- call service B, to get information
+    - network congestion
+    - need to be deployed in the same pod
+    - sidecar proxy, sit along side containerized application
+    
     
 
 

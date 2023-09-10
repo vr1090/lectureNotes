@@ -19,3 +19,25 @@ fi
     ```
         cat << EOF 
     ```
+
+## bash basic
+- 4 different module
+- if statement, check hasil dari command
+- test command
+    - expression test
+    - string test
+    - integer test
+    - file test
+ - test
+ - [] --> ini command!!
+ - type test
+ - type [
+ - echo $? --> ini buat cek hasil terakhir
+- test usinf square bracket
+- echo $?
+- generate for something furter use
+- if true thendo something fi
+- dont forget t use then
+- ending with fi
+- simple.. using ;;;;
+- 
