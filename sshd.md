@@ -1,0 +1,14 @@
+## tunnel master
+- ssh
+- nc simple chat, push shell
+- install nc versi open bsd
+- nc
+    - server mode
+        - n, l, p, u,v
+    - listen mode
+        - nc address port
+- TCP full connect, -sT
+- syn scan .. -sS
+- network interface:
+    - external
+    - internal 127.0.0.1
