@@ -57,3 +57,32 @@ yg perlu di pikirin ..:
 ### first unique char
 - diitung aja karakternya bang
 
+## most frequent
+- sorted .. nlogn
+- no need to sorted, top k
+- maxheap
+    - pop, heap, k time
+    - poping in cheap
+- O(n) .. linear time
+    - 1 - 3
+- bucket sort ..
+- count .. values ..
+- seperate position
+- input array ..
+    - size 6
+    - exact same, some value occurs
+- ```
+count = {}
+freq = [[] for i range(len)+ 1]
+
+count[n] = 1 + count.
+n,c in count.items()
+
+for i in range(len(freq)-1,-1,-1)
+
+for n in freq[i]:
+..
+
+```
+
+
