@@ -1,0 +1,43 @@
+## dead simple python
+- simple, karena gw bisa jelasin dengan baik
+- bukan simple dumb down
+- bahasa:
+    - inepreted .. harus install interpreter
+    - assemblied ... dah di compile ke platform
+- freeze tools
+- PEP python enhancement proposal
+
+## basic setup
+- python3, python3-pip, python3-venv
+- intepreter ... perlu line tambahan
+- virtualenv
+    - python3 -m venv venv2
+    - venv2 itu bakalan jadi folder
+- pip pake ==
+- #!/usr/bin/env python3
+- official style guide.. pep8
+- line limit .. 80 atau 100
+- space or tab? spaces.. 4 space. disleksic jangan dibawah 4
+- linter:
+    - pylint
+    - pyflakes
+- good system:
+    - uptime
+    - latency
+    - scale
+    - velocity
+    - privacy
+- backup vs archives
+    - ga ada yg mau, pada mau restore
+- integrity:
+    - stability and assurance
+- delivering system recovery:
+    - define an SLO
+    - train to reach that
+- General principle data integrity
+    - beginners mind. the rpoject is so big, you can not solve it in one go
+    - trust but verify
+    - hope is not strategy
+        - test to recover
+    - defense in depth
+        - thing gonna be wrong..

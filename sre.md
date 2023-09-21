@@ -174,3 +174,13 @@ next week 19, 20
 - spanner bisa handle uncertainty
 
 
+## 26 data integirty
+- definisi:
+    - state of accesibility and accuracy based on service level provided
+    - is it true?
+- data loss, data unavailable engga ada bedanya buat user
+- SLO 99.99%
+    - website down it is ok.. 1 hour a year
+    - data rusak 0.01% --> useless
+    
+
