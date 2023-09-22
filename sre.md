@@ -182,5 +182,17 @@ next week 19, 20
 - SLO 99.99%
     - website down it is ok.. 1 hour a year
     - data rusak 0.01% --> useless
-    
-
+- backup vs archives
+    - ga ada yg mau, pada mau restore
+- integrity:
+    - stability and assurance
+- delivering system recovery:
+    - define an SLO
+    - train to reach that
+- General principle data integrity
+    - beginners mind. the rpoject is so big, you can not solve it in one go
+    - trust but verify
+    - hope is not strategy
+        - test to recover
+    - defense in depth
+        - thing gonna be wrong..
