@@ -51,5 +51,11 @@
         - reserve external IP address
     - 
     
+## private service access
+- hubungin vpc sama gcp services
+- vpc lu kasih ip ke google
+- ntar google bakalan pake ip allocation, jadi akses ke service google
+- kasih ilusi koneksi private buat semua
+
 
 

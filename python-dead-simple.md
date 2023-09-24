@@ -27,3 +27,7 @@
     - scale
     - velocity
     - privacy
+
+## syntax
+- python variable .. define aja sebelum pake
+- boolean sama none, di cek pake is
