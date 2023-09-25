@@ -31,3 +31,10 @@
 ## syntax
 - python variable .. define aja sebelum pake
 - boolean sama none, di cek pake is
+- walrus , assign value, terus return the value
+    - ok buat setup if statement
+- strings:
+    - literal string
+    - raw string
+- python 3.10, match case
+
