@@ -38,3 +38,21 @@
     - raw string
 - python 3.10, match case
 
+
+
+## code organization
+- python: module and package
+- module .. semua yg *.py
+- __main__.py
+    - ini buat dipake kalo python3 -m namaModule
+- as bisa dipake buat setalah import juga
+- absoulte import
+- relative import
+- __name__ itu fqdn
+    - kalo run directly .. jadi __main__
+- import sys
+- sys.path
+    - tempat python dapet path yg mau di import
+- importlib module
+- finder, loader, importer
+    - importer itu finder plus loader
