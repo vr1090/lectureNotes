@@ -66,3 +66,7 @@
 - global, nonlocal
     - ini baru dipake kalo lu mau buat assignment variable
     - ada kemungkinan kena shadow bang
+- class is different
+    - attribute
+- weakref ... bikin engga naikin reference counter
+
