@@ -56,3 +56,13 @@
 - importlib module
 - finder, loader, importer
     - importer itu finder plus loader
+- name bound to a value
+- value ada di dalam memory
+- name always bound to a value
+- scope :
+    - daerah, variabel bisa diketahui
+- reference counting garbage collector
+- global keyword
+- global, nonlocal
+    - ini baru dipake kalo lu mau buat assignment variable
+    - ada kemungkinan kena shadow bang

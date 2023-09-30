@@ -173,6 +173,29 @@ next week 19, 20
 - time stamp, problematic
 - spanner bisa handle uncertainty
 
+## 26 pipeline
+- periodic pipeline:
+    - worker sizing, chunking technique
+- handle organic growth
+- scheduling
+    - open endup, low priority
+- periodic pipeline
+    - ada yg kemungkinan ga dijalaini
+- high resource cost dan value
+- periodic:
+    - real time support, emergency
+    - jobs failed?
+- thundering herd problem
+- moira load pattern
+    - using common shared reuslut
+- workflow
+    - MVC
+- workflow unit:
+    - task master
+    - marking data
+    - controller optionally control modal
+    
+
 
 ## 26 data integirty
 - definisi:
