@@ -69,4 +69,6 @@
 - class is different
     - attribute
 - weakref ... bikin engga naikin reference counter
+- sorted ... assign a new list
+- required parameter, optional parameter
 
