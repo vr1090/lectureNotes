@@ -59,8 +59,8 @@
 - name bound to a value
 - value ada di dalam memory
 - name always bound to a value
-- scope :
     - daerah, variabel bisa diketahui
+- scope :
 - reference counting garbage collector
 - global keyword
 - global, nonlocal
@@ -71,4 +71,7 @@
 - weakref ... bikin engga naikin reference counter
 - sorted ... assign a new list
 - required parameter, optional parameter
+
+
+## beberapa lagi ini
 
