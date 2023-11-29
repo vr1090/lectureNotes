@@ -74,4 +74,14 @@
 
 
 ## beberapa lagi ini
+asyncio
+asyncio.Task
+asyncio.gather
+pip install pytest pytest-asyncio
+
+@pytest.mark.asyncio
+async def test_async_function():
+
+pyinstaller
+pyinstaller --onefile 
 
