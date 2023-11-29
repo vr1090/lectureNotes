@@ -5,7 +5,7 @@
     - kill-session
     - attach-session
     - ctrl-b ... ini masuk ke mode control
-    - c --> create new nession
+    - c --> create new window
     - p --> previous
     - n --> next
     - % --> split vertically
@@ -13,3 +13,6 @@
 - detach and attach
 - tmux list-session
 - tmux attach-session -t nomer/nama
+- tmux new-session -s nama
+- satu window, multiple pane
+
