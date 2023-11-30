@@ -83,5 +83,17 @@ pip install pytest pytest-asyncio
 async def test_async_function():
 
 pyinstaller
-pyinstaller --onefile 
+pyinstaller --onefile
+
+## asyncio
+- multitasking
+    - preemtive: os based
+    - cooperative: in the code, put where other can run
+```
+time.time()
+process
+time.time()
+
+ini di convert dalam seconds
+```
 
