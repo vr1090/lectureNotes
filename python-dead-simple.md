@@ -97,3 +97,26 @@ time.time()
 ini di convert dalam seconds
 ```
 
+## parse
+- argsparse ... standard lib python
+```
+import argparse
+
+def main():
+    parser = argparse.ArgumentParser(description="Your script description.")
+    parser.add_argument('-v', '--verbose', action='store_true', help='Enable verbose mode')
+    parser.add_argument('args', nargs='*', help='Other arguments')
+    args = parser.parse_args()
+
+    if args.verbose:
+        print("Verbose mode is enabled.")
+
+    print("Other arguments:", args.args)
+
+if __name__ == "__main__":
+    main()
+
+```
+
+## test in python
+
