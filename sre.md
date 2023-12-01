@@ -219,3 +219,11 @@ next week 19, 20
         - test to recover
     - defense in depth
         - thing gonna be wrong..
+
+## lesson learned from other industries
+- apa bisa SRE di implementasi keluar?
+- principles:
+    - preparedness and disaster testing
+    - postmortem culture
+    - automation, reduction operational overhead
+    - structure and rational decision making
