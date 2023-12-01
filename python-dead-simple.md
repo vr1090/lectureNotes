@@ -144,6 +144,10 @@ if __name__ == "__main__":
 - asyncio.shield ... lempar cancel, tapi tetep jalan
 
 ## task coroutines, futures and awaitable
+- future sama awaitable
+- Future object in asyncio
+- future.set_result(10)
+- future.done
 
 
 
