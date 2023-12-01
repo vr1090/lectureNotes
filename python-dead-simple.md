@@ -120,3 +120,30 @@ if __name__ == "__main__":
 
 ## test in python
 
+## coroutine
+- async method, ini bikin jadi coroutine
+- async bikin jadi corouting
+- await, bikin jadi io
+- type
+- asyncio.run()
+- ini main entry point, buat coroutine
+- awaitable is a coruite
+- await bikin jadi pause
+- await minta pause, didalam coroutine
+- asyncio.sleep ... minta coroutine yield
+- await pause the coroutine, sampe ada value balik
+- running concurrently .. pake task
+- asyncio.create_task() 
+    - balikin task object langsung
+    - task perlu coroutine didalemnya
+- await trigger an event of event loop
+- need to cancel, kalo await terus ga selesai2 tu coroutine
+- task bisa di cancel. long_running.cancel()
+- cancel exception, cuma bisa di panggil dari awat statement
+- await asynio.wait_for(delay_task, timeout=1)
+- asyncio.shield ... lempar cancel, tapi tetep jalan
+
+## task coroutines, futures and awaitable
+
+
+
