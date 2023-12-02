@@ -150,4 +150,6 @@ if __name__ == "__main__":
 - future.done
 
 
+## python
+- dir method
 
