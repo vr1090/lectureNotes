@@ -149,6 +149,12 @@ if __name__ == "__main__":
 - future.set_result(10)
 - future.done
 
+## running event loop
+- asyncio.run ... ini create event loop
+- mau access event loop yang lower level
+- eventloop run until complete
+- 
+
 
 ## python
 - dir method
