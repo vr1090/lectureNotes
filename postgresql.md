@@ -43,4 +43,17 @@
 - postgres itu superuser
 - revoke all on schema public from public;
 
+## replication slot
+- WAL, write ahead log related
+- replication slot, ini buat kirim ke node yg dibawah. sama nahan WAL
+- publication ... ini di level database. bisa buat semua table bisa juga cuma beberapa table.
+- ```CREATE PUBLICATION PUBLICATION_NAME
+FOR TABLES IN SCHEMA1, SCHEMA2;```
+- create publication for all tables ...
+- create publication nama for all tables;
+- ``` If the table does not have any suitable key, then it can be set to replica identity FULL,```
+- ```ALTER TABLE your_table_name REPLICA IDENTITY FULL;```
+- satu replication slot, satu nodes subscriber
+- publisher fungsinya cuma buat expose keluar
+
 
