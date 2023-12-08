@@ -20,6 +20,17 @@
     - user
     - contexts
 - context define, which user, access which cluster
+- ca yg pegang server
+- user pegang key sama crt
+- dcurrent-context: dev-user@google
+- kubectl config view
+- ```kubectl config use-context prod-user@something```
+- namespaces?
+    - namespace: ada di context
+- path in ceertificate
+- better using full path
+- certificate-authority-data:
+    - ke base64
 
 
 
