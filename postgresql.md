@@ -50,10 +50,10 @@
 - ```CREATE PUBLICATION PUBLICATION_NAME
 FOR TABLES IN SCHEMA1, SCHEMA2;```
 - create publication for all tables ...
-- create publication nama for all tables;
+- ```create publication nama for all tables```;
 - ``` If the table does not have any suitable key, then it can be set to replica identity FULL,```
 - ```ALTER TABLE your_table_name REPLICA IDENTITY FULL;```
 - satu replication slot, satu nodes subscriber
 - publisher fungsinya cuma buat expose keluar
-
+- 
 

@@ -15,4 +15,6 @@
 - tmux attach-session -t nomer/nama
 - tmux new-session -s nama
 - satu window, multiple pane
+- tmux, terminal multiplexer
+- command -v tmux
 
