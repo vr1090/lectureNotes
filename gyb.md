@@ -5,3 +5,7 @@
     - ``` gyb --email email@apalah.com --action backup```
     - ```gyb --action create-project --email youremail@gmail.com ``` pertama kali jalan
 - ```gyb --local-folder GYB-GMail-Backup-myoldgmail@gmail.com  --action restore-group --use-admin admin@domain.com --service-account --email yourgroup@domain.com```
+- restore group:
+    - butuh --service-account
+    - --use-admin namaadmin@gmail.com
+    - --email namagroup@gmail.com
