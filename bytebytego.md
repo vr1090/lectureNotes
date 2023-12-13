@@ -1,0 +1,14 @@
+## how boot working
+- Boot
+- BIOS / UEFI
+- UEFI, bisa lebih dari 2TB, kaga perlu MBR
+- POST, power on self test, check all hardware
+- check bootloader, hd, usb etc
+    - bios di mbr
+    - uefi di .efi file
+- bootloader:
+    - cari kernel
+    - load kernel di memory
+    - start user process
+- systemd, initialize everything
+    - target
