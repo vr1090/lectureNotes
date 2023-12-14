@@ -9,3 +9,8 @@
 - systemctl, inspect running services
 - sudo systemctl enable unit
     - ini biar bisa running pas selesai boot
+    - sudo systemctl disable unit
+- status ada log di bawahnya
+- service file,buat kasi perintah service. biasanya *.service
+    - (etc/lib/run)/systemd/system
+        - ini tempat naruh service yang umum
