@@ -1,7 +1,11 @@
 ## systemd
-- coba install apache dulu
-- httpd ... 
-- manage running services
-    - service as unit
-- systemctl ... manage service di server gw
- - systemctl status httpd
+- manage evertyhing in current linux
+- init system
+    - type of process
+    - pid 1
+- unit
+    - things been able to manage for you
+    - mostly services, tapi bisa banyak yg lain juga
+- systemctl, inspect running services
+- sudo systemctl enable unit
+    - ini biar bisa running pas selesai boot
