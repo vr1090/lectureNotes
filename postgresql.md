@@ -57,3 +57,8 @@ FOR TABLES IN SCHEMA1, SCHEMA2;```
 - publisher fungsinya cuma buat expose keluar
 - 
 
+## psql
+- psql -f somescript
+- on the fly, use the -c
+- excute shell \!
+- \watch
