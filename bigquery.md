@@ -55,4 +55,8 @@ case field
  end
 google cloud data lab
 
+## sql
+- group by having
+- having itu where, setelah group
+
 

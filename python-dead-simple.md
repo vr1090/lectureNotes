@@ -159,3 +159,13 @@ if __name__ == "__main__":
 ## python
 - dir method
 
+## numpy
+- narray
+
+## asyncio
+- socket itu seperti mailbox
+- server socket
+    - ada koneksi dari client
+    - terus bakalan di buatin client socket lagi
+    - ini buat taruh dibawah
+
