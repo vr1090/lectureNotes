@@ -65,4 +65,11 @@ google cloud data lab
 - COALESCE(value1, value2, value3)
 - regex, pake r
 
+## loaded bq
+- ```bq  --location=US mk dataset``` ini create dataset di bq
+- dataset .. top level folder ... simpan table, ML, views
+- bq load
+    - source-format=csv
+    - 
+
 

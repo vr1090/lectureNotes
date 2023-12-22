@@ -11,3 +11,6 @@
 
 ## license
 - automatic license.. setup di billing -> license
+
+## backup pribadi
+- google takeout
