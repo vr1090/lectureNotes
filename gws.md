@@ -7,3 +7,7 @@
 - imap
 - disable email first
 - setup rclone
+
+
+## license
+- automatic license.. setup di billing -> license
