@@ -60,5 +60,9 @@ google cloud data lab
 - having itu where, setelah group
 - array_agg(numtrips order by year)
 - sql itu case insensitive
+- IF(markup is null, 1, 2)
+- IFNULL(field, default)
+- COALESCE(value1, value2, value3)
+- regex, pake r
 
 
