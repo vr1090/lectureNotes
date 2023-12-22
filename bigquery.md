@@ -58,5 +58,7 @@ google cloud data lab
 ## sql
 - group by having
 - having itu where, setelah group
+- array_agg(numtrips order by year)
+- sql itu case insensitive
 
 
