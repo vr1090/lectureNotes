@@ -91,6 +91,14 @@
         xrdb $HOME/.Xresources
         startxfce4 &
         ```
+    - kill:
+        ```
+         vncserver -kill :1
+        ```
+    - start vnc:
+    ```
+    vncserver -geometry 1280x720
+    ```
 - install xfce4
 
 
