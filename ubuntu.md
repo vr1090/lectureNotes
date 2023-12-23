@@ -77,5 +77,21 @@
 - lvs
 
 
+## setup vnc
+- install tightvncserver
+- jalanain ```vncserver```
+- kill dulu bang
+    - vncserver -kill :1
+- ada file tuh:
+    - ~/.vnc/xstartup
+    - ini yang bakalan di jalanin, pas jalanin vncserver
+    - edit ni file:
+        ```
+        #!/bin/bash
+        xrdb $HOME/.Xresources
+        startxfce4 &
+        ```
+- install xfce4
+
 
 
