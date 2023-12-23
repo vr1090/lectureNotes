@@ -70,6 +70,8 @@ google cloud data lab
 - dataset .. top level folder ... simpan table, ML, views
 - bq load
     - source-format=csv
-    - 
+- data format:
+    - avro, binary, bisa pararel. block level
+    - parquet: column based, based on dremel IO google.
 
 
