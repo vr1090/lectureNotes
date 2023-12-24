@@ -87,4 +87,16 @@ for n in freq[i]:
 collections.defaultdict(set)
 ```
 
+## find duplicate in array
+- ini malah jadi problem linkedlist
+- pointer
+- ga pernah ke arah 0
+- value -> pointer -> value lagi
+- flyodd algorithm .. cari awal dari cycle
+- slow pointer and fast pointer .. mulai dari tempat yg sama
+- cari intersect
+    - abis itu .. mulai dari awal, terus jalanin lagi
+    - kalo ketemu .. ya udah .. itu intersect-nya
+
+
 
