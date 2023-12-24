@@ -17,4 +17,6 @@
 - satu window, multiple pane
 - tmux, terminal multiplexer
 - command -v tmux
-
+- closing:
+    - ctrl-b, & --> close windows
+    - ctrl-b, x --> close pane
