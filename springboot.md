@@ -16,4 +16,7 @@
 - core ... DI framework
 - spring mvc ...
 - spring data access
-- JDBCTemplate, simplify jdbc  
+- JdbcTemplate, simplify jdbc
+- @Repository context
+- RowMapper .. buat map result dari database
+
