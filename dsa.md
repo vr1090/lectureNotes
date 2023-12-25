@@ -5,3 +5,10 @@
     - heap
     - code
 - code akses langsung stack, heap perlu pointer
+- use of pointer:
+    - reasources
+    - heap
+    - parameter passing
+- variable:
+    - data variable
+    - address variables

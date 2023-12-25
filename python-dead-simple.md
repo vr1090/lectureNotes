@@ -169,3 +169,19 @@ if __name__ == "__main__":
     - terus bakalan di buatin client socket lagi
     - ini buat taruh dibawah
 
+
+## web request
+- aio lib
+- context manager
+- async with .. async context manager
+- aiohttp
+    - session
+        - anggap aja buka browser
+    - timeout
+        - di passing pas buka session
+- create_task(await)
+- asyncio.gather
+    - buat tunggu semua jalan
+
+
+
