@@ -182,6 +182,8 @@ if __name__ == "__main__":
 - create_task(await)
 - asyncio.gather
     - buat tunggu semua jalan
+- await gather, deterministic
+
 
 
 
