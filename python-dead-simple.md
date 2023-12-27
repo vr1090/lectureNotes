@@ -183,7 +183,10 @@ if __name__ == "__main__":
 - asyncio.gather
     - buat tunggu semua jalan
 - await gather, deterministic
-
+- think about event loop, not deterministics
+- as_completed
+    - bisa kasih timeout
+    - bakalan balikin yg duluan
 
 
 
