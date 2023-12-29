@@ -74,4 +74,15 @@ google cloud data lab
     - avro, binary, bisa pararel. block level
     - parquet: column based, based on dremel IO google.
 
+## biquery
+- bigquery ML
+- project: logical grouping of resources
+
+## type:
+- int, numeric
+- datetime, date,time, timestamp
+- bool
+- record: a struct
+- array
+
 
