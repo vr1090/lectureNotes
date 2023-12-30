@@ -90,6 +90,28 @@
 - moegen ... like or want
 - das fenster ... window ..
 
+## german
+- frehen .. sassy
+- dative .. pake en semua
+
+## german adjektive declension
+- the system
+- definite artikel
+    - der die das die
+    - den die das die
+    - dem der dem den
+    - des der des der
+- weak ending
+    - e atau en
+    - e e e en
+    - en e e en
+    - en en en en
+    - en en en en
+- strong and weak
+- ada weak adan strong
+- strong and weak
+
+
 
 
 
