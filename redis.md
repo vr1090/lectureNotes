@@ -33,5 +33,7 @@
 - ga bisa nested
 - ga bisa multiple value
 - HSET key field value field value
+- HGETALL buat dapet seluruh field
+
 
 
