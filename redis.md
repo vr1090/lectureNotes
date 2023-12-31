@@ -1,0 +1,12 @@
+## redis basic
+- get key
+- set key value
+- del key
+- MSET 
+    - buat multiple key value pair
+    - MSET key vlaue key value key value
+- MGET
+    - dapet multiple value
+- GETRANGE
+    - GETRANGE KEY MULAI AKHIR
+    - inclusive ini bang
