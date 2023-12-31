@@ -25,7 +25,7 @@
 - bisa dumplicate lah yah
 - list di redis itu linkedlist
 - LPUSH key value
-
+- RPOP key jumlahYgMauDiambil
 
 
 
