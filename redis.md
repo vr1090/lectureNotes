@@ -10,3 +10,5 @@
 - GETRANGE
     - GETRANGE KEY MULAI AKHIR
     - inclusive ini bang
+- NX baru set kalau ga ada yg set
+- XX baru set kalo udah ada yg set
