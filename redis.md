@@ -18,6 +18,11 @@
 
 ## set
 - SADD
+- SREM ... remove
+- SMEMBER key member
+
+## list
+- bisa dumplicate lah yah
 
 
 
