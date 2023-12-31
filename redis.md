@@ -26,6 +26,12 @@
 - list di redis itu linkedlist
 - LPUSH key value
 - RPOP key jumlahYgMauDiambil
+- LLEN dapetin length
+- LPOS key index
 
+## HASH
+- ga bisa nested
+- ga bisa multiple value
+- HSET key field value field value
 
 
