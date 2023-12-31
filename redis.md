@@ -12,3 +12,7 @@
     - inclusive ini bang
 - NX baru set kalau ga ada yg set
 - XX baru set kalo udah ada yg set
+- OPTIONS:
+    - EX expired setelah berapa detik
+    - PX espired setelah beberapa milis
+
