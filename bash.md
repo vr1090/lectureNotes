@@ -48,4 +48,16 @@ fi
     - enhanced [[]]
 - better 
     - variable between double quote
-    - 
+
+## array
+- misal:
+```
+nama=(a b c d)
+${nama[*]} --> print semua
+${nama[@]} --> print semua
+${nama[0]} --> akses pake index
+``` 
+
+## fc
+- find command
+- fc
