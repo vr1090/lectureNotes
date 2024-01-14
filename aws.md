@@ -25,3 +25,11 @@
 - use the least priviledge model
 - policysimulator
 
+## karpenter
+- ga pake managed node group
+- bisa spin up berdasarkan kebutuhan pod
+- iam -> service account, service account assign ke karpenter
+- karpenter butuh node pool
+- service account dipake buat query ke kubernetes
+
+
