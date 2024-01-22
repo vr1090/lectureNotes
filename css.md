@@ -48,3 +48,10 @@ property: value
 - border : style, width, color
     - style: 
 
+## tailwinds
+- website:
+    - layout
+    - text
+    - color
+    - gambar
+
