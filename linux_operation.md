@@ -29,3 +29,5 @@
 
 # stream
 - standard output
+- standard error
+    -  echo $?
