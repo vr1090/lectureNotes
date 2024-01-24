@@ -26,4 +26,6 @@
 
 # kernel
 - mod ... itu driver
--  
+
+# stream
+- standard output
