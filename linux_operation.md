@@ -35,4 +35,6 @@
 # cron
 - fully qualified command in your script
 - path var di tiap distro itu beda2
+- cron job, mungkin ga jalan di shell yang sama
+- crontab -e 
 
