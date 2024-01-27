@@ -31,3 +31,8 @@
 - standard output
 - standard error
     -  echo $?
+
+# cron
+- fully qualified command in your script
+- path var di tiap distro itu beda2
+
