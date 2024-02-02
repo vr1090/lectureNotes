@@ -29,3 +29,6 @@
     - secrecy : effect hasil dari mechanism
     - confidentialiy: kewajiban buat protect orang atau organisasi
     - privacy: protect personal information, private space.
+
+## whos the enemy
+- like a police in a slum
