@@ -1,0 +1,31 @@
+## what is?
+- a system to remain reliable in face of:
+    - malice
+    - error
+    - missconfigured
+- example area:
+    - a bank
+    - hospital
+    - military
+    - home
+- dependable system:
+    - policy : yg lu mau itu kayak gimana?
+    - mechanism: gimana caranya biar bisa ke policy
+    - assurance: seberapa reliable, tiap component, how well their work together
+    - motive: kenapa gw harus jaga?, kenapa orang lain harus serang?
+- invariant:
+    - certain condition hold true, when changes happen
+- security theathre:
+    - lebih baik terlihat secure, daripada secure it self.
+- put risk and threat in context, make a advice to client
+- principal:
+    - entity that participate in system
+    - group .. kumpulan principal
+    - role: kumpulan dari capability
+- trusted and trustworhty:
+    - trusted .. kalo fail bakalan breach policy
+    - trustworthy .. engga mungkin fail
+- terms:
+    - secrecy : effect hasil dari mechanism
+    - confidentialiy: kewajiban buat protect orang atau organisasi
+    - privacy: protect personal information, private space.
