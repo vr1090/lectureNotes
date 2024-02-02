@@ -32,3 +32,14 @@
 
 ## whos the enemy
 - like a police in a slum
+- identify the likely oponents
+- oponents:
+    - spies
+    - croocks
+    - geeks
+    - swap
+        - cyberbullying
+
+## social engineering
+- pro hacks people
+- affordance
