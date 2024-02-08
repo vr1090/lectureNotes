@@ -43,3 +43,15 @@
 ## social engineering
 - pro hacks people
 - affordance
+- risk appetite
+- tricks:
+    - distraction
+    - social compliance
+    - herd principle
+    - dishonesty --> ini rada2 illegal, jadi x,y,z
+    - honesty --> reciprocity
+    - greed
+    - time pressure
+- opsec
+    - operational security
+    - prepare your staff to deal with solicit password
