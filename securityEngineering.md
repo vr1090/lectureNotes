@@ -57,3 +57,11 @@
     - prepare your staff to deal with solicit password
 - failed to change default password
 - most password are for marketing reason
+
+## protocol
+- step principal, to establish trust
+- tujuan:
+    - privacy
+    - integrity
+    - non repudiation
+- T->G: {T,N}KT
