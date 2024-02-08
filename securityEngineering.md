@@ -55,3 +55,4 @@
 - opsec
     - operational security
     - prepare your staff to deal with solicit password
+- failed to change default password
