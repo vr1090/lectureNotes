@@ -65,3 +65,10 @@
     - integrity
     - non repudiation
 - T->G: {T,N}KT
+- PKES . keyless entry system
+- http digest protocol
+- IFF, identiy friend or foe
+- tofu .. trust on first use
+- remote key management:
+    - alice, -> sam -> bob
+    - using 3rd party
