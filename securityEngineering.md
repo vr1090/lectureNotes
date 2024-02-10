@@ -72,3 +72,11 @@
 - remote key management:
     - alice, -> sam -> bob
     - using 3rd party
+- openID connect
+
+## encryption
+- julis caesar
+- vignette rules
+- hash. message authentication code
+- default key aes: 128 bit
+
