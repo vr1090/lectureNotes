@@ -79,4 +79,7 @@
 - vignette rules
 - hash. message authentication code
 - default key aes: 128 bit
+- hash .. random text .. dirubah ke fixed length
+- practical exploit
+
 
