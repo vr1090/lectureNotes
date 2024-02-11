@@ -8,3 +8,4 @@
 - compound continously ... P x e**(rt)
 - exp function .. compount continously
 - exp .. ini pake euler constant
+- subs ... input parameter .. f.subs(x,12)
