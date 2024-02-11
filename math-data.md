@@ -9,3 +9,5 @@
 - exp function .. compount continously
 - exp .. ini pake euler constant
 - subs ... input parameter .. f.subs(x,12)
+- dx, infinitly small. not 0
+
