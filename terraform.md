@@ -19,3 +19,17 @@
         - dalam blocks ada default
     - var.nama
         - ini pas masukin di initialize
+    - blocks:
+        - default
+        - description
+        - type
+            - string
+            - number
+            - bool
+            - any
+        - more type
+            - list
+            - map
+            - object
+            - tupple
+- TF_VAR_name ... buat setup env variable
