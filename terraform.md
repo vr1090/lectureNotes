@@ -16,5 +16,6 @@
 - main.tf
 - variables in terraform
     - variable nama blocks
+        - dalam blocks ada default
     - var.nama
         - ini pas masukin di initialize
