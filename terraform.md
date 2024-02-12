@@ -14,3 +14,7 @@
 - init bisa dipanggil berapa kali
 -  provider.tf
 - main.tf
+- variables in terraform
+    - variable nama blocks
+    - var.nama
+        - ini pas masukin di initialize
