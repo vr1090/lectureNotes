@@ -33,3 +33,9 @@
             - object
             - tupple
 - TF_VAR_name ... buat setup env variable
+
+## variabel
+- terraform output
+    - value
+    - description
+    
