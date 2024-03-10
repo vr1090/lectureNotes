@@ -89,6 +89,12 @@ security is not:
   - advance malware protection
   - network behavior analysis
   - SOAR, incident correlations
+
+## official training aws
+
+## module 1 of 6
+- aws config, detect configuration changes
+
   
 
 
