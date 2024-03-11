@@ -11,3 +11,4 @@ def sum(total, list):
         return sum(total, list[1:])
 ```
 - array bisa dilihat sebagai tree, tapi cuma ada 1 path
+- think about .. base case and parameter
