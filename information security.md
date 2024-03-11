@@ -12,4 +12,12 @@
     - interaction
     - modification
     - fabrication
+- attack:
+    - threat
+    - vulne
+    - risk
 
+## identification and authentication
+- identification
+    - declare what we claim
+    

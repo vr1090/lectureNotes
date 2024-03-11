@@ -95,6 +95,11 @@ security is not:
 ## module 1 of 6
 - aws config, detect configuration changes
 
+## cloudwatch alarm
+- based on one or two merics
+- period ... to create single data point
+- evaluation period ... number of datapoint, buat setup alarm
+
   
 
 
