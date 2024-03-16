@@ -99,6 +99,18 @@ security is not:
 - based on one or two merics
 - period ... to create single data point
 - evaluation period ... number of datapoint, buat setup alarm
+- system manager agent installed
+- opensearch service domain .. ini elastic search 
+- redshift create cluster juga
+
+
+## programming in aws
+- ``` aws configure ```
+- aws cloudformation
+  - template
+  - stack
+  - satu template, satu stack
+
 
   
 
