@@ -39,5 +39,9 @@
 - crontab -e
 
 # bash command
-- $* ini buat 
+- $* ini buat ambil semua parameter list
+- $@ ambil parameter juga, tapi bisa di quote satu per satu
+- programs --options paramter
+- default value ${var:-default}
+- -n check if empty
 
