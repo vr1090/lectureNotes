@@ -38,5 +38,6 @@
 - cron job, mungkin ga jalan di shell yang sama
 - crontab -e
 
-# 
+# bash command
+- $* ini buat 
 
