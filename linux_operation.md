@@ -44,4 +44,5 @@
 - programs --options paramter
 - default value ${var:-default}
 - -n check if empty
-
+- -eq itu buat numeric
+- = buat string, = lebih baru
