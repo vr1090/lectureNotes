@@ -48,3 +48,9 @@
 - = buat string, = lebih baru
 - looping while ; do done
 - if [[ ]]; then xxx fi
+
+# find command
+- find . -name '*.mp3' -print -exec mv "{}" \;
+- \; --> ini buat ending command exec
+
+
