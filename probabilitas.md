@@ -1,0 +1,2 @@
+## statistika
+- ilmu tentang variability

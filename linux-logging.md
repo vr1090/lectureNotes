@@ -10,7 +10,8 @@
 - syslog .. systemlog, system event, misal buat add hardware
 - systemd is init system-nya linux
     - journalctl bisa dipake buat ambil log systemd
-
+    - journalctl -u namaService
+    
 
 
 
