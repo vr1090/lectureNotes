@@ -189,4 +189,11 @@ if __name__ == "__main__":
     - bakalan balikin yg duluan
 
 
+## path
+- pathlib
+- / ini operator udah di ubah
+- import Path
+- process is arunning instance of a program
+
+
 
