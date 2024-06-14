@@ -8,3 +8,7 @@
     - driver
     - network
     - filesystem
+- syscall
+    - glibc , musl
+- modules
+    - program load ke kernel
