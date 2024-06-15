@@ -12,3 +12,11 @@
     - glibc , musl
 - modules
     - program load ke kernel
+
+### bash
+- set ... ambil yg di set di context
+- job control
+    - ctrl-z buat kirim ke belakang
+    - & pas pertama kali running
+    - nohup ... buat tetep running dibelakang
+    - disown ... kalo udah terlanjur, tapi mau running di belakang
