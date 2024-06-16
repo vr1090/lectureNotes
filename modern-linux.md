@@ -42,3 +42,6 @@
 - add ip address
     - ip addr add 182.9.234. dev eth0
 - ip route add ip/cidr via ip-number dev eth0
+- sysctl ... create jadi router
+- /etc/sysctl.conf .. kalau mau buat jadi permanent
+
