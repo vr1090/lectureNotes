@@ -14,5 +14,7 @@
 - reco .. gathering info before war
 - open source information
 - theharvester
+- exploit-db.com
+
 
 
