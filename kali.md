@@ -12,4 +12,7 @@
 - ```sudo nmap --script nameScript ip```
 - maltego running java
 - reco .. gathering info before war
+- open source information
+- theharvester
+
 
