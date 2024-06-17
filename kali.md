@@ -16,5 +16,8 @@
 - theharvester
 - exploit-db.com
 - email harvester
+- p0f .. analisis traffic yang masuk
+- port-scanning
+
 
 
