@@ -61,7 +61,7 @@
 - index, simple : hash based
     - but .. how about agregate? crash? concurrency?
 - storage:
-    - LSM: log structured merge, K-V sortedby key
+    - LSM: log structured merge tree, K-V sortedby key
     - SSString ... sorted string table.. lucene
     - Bloom filters ... analyzing the content of set
     - B -trees ... ini page based. mostly in OLTP
