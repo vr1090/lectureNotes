@@ -105,6 +105,9 @@
     - access pattern:
         - OLTP, row based
         - OLAP, history events that happened over time
+- Transaction or analytical
+    - OLTP .. online transaction processing
+    
 
 
 

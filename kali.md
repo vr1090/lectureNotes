@@ -18,6 +18,11 @@
 - email harvester
 - p0f .. analisis traffic yang masuk
 - port-scanning
+- nmap
+- massscan
+
+## findinf vuln
+- fuzzer .. buat input yg rusak2
 
 
 
