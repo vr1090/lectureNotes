@@ -23,6 +23,10 @@
 
 ## findinf vuln
 - fuzzer .. buat input yg rusak2
-
+- seclists.org/fulldisclosure
+    - buat list vulnerability
+- arbitrary code execution
+    - shellcode
+- SATAN .. security admin toolkit for analyzing network
 
 
