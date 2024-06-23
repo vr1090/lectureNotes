@@ -28,5 +28,26 @@
 - arbitrary code execution
     - shellcode
 - SATAN .. security admin toolkit for analyzing network
+    - digantiin sama nessus
+- nessus jadi closed source
+    - forking openvas
+- gvm-setup
+- open-vas
+    - donlot lot of xml
+    - interaction with program
+    - 9392 ... port yg dibuka
+- lynis
+    - check local server
+    - mau cek kalo lokal user bisa apa aja
+    - var/log/lynis.log
+- openvas local scanning
+- rootkit hunter
+    - check buat rootkit udah ke-install apa belum
+- remote vulnerability
+    - clear box testing
+    - opaque box testing
+    - gray box testing
+- cek buat belajar 
+    - metasploitable
 
 
