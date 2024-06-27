@@ -13,6 +13,11 @@
 - modules
     - program load ke kernel
 
+## networking
+- ip tables route
+- -P policy, drop
+
+
 ### bash
 - set ... ambil yg di set di context
 - job control
