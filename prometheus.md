@@ -25,3 +25,7 @@
 - service monitor
     - add another component in yaml
     - prometheus monitor service monitor
+
+
+## promql
+- intimidating

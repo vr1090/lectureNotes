@@ -49,5 +49,9 @@
     - gray box testing
 - cek buat belajar 
     - metasploitable
+- nwtworking device vuln
+- database
+    - osscanner .. ini buat oracle
+    
 
 
