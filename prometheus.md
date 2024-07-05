@@ -29,3 +29,31 @@
 
 ## promql
 - intimidating
+- time series
+    - key vlaue pair
+    - (t0,v0)
+    - json object
+- four data type
+    - string
+    - scalar 
+    - vector
+        - instant --> satu waktu doang
+        - range
+- vector are very2 different
+- data model ga bisa di apply ke sql
+- series ga align
+- range value ... two timestamps
+- counter value yg naik terus
+- gauge .. up and down
+- operators
+    - agregation ... instant vector ... instant vector 
+    - binary
+- function
+    - rate ... range input, instant output
+        - bisa detect crash
+- which label you care about?
+    - by
+    - ga peduli ... without
+- protect pake rate, buat detect counter reset
+- binary operator peduli sama label
+
