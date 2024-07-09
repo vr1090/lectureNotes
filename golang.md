@@ -29,3 +29,6 @@ for {
 ## syntax basic
 - switch case
 - ga perlu break
+- a [10]string ... 10 string
+- slice ... a []int
+  - [begin : end]
