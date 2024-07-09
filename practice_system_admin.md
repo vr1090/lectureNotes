@@ -18,5 +18,8 @@
 - identity ... information about user
 - authentication .. bukti kalau ini orang yg klaim
 - authorization ... apa yg entitas itu bisa lakuin
+- penguasa jaman dahulu
+    - novell directory service
+    - microsoft active directory
 
 

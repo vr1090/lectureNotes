@@ -26,3 +26,6 @@ for {
 - val.(string)
 - coming in with request ID
 
+## syntax basic
+- switch case
+- ga perlu break
