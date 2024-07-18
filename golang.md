@@ -32,3 +32,7 @@ for {
 - a [10]string ... 10 string
 - slice ... a []int
   - [begin : end]
+- len(slice), cap(slice)
+- dynamic slice array ... a:= make([]int, 10,15)
+- append(slice, value) slice
+- range ... looping over slice
