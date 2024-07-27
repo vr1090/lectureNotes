@@ -9,4 +9,5 @@
     - ga berubah during its lifetime
 - index.setdefault(,[])
 - collections.defaultdict
+- dict.keys, values, items
 
