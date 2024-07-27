@@ -17,4 +17,4 @@
 - string itu sekarang yg dipakai code point
 - think byte as big mess 
 - encode ... convert to mess, decode .. simplify
-
+- bytes immutable ... bytearray mutable
