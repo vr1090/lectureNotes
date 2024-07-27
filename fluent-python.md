@@ -29,3 +29,8 @@
 - is for checking identity
 - == for checking value
 - copy a list, build in constructor for the type itself
+- function parameter as reference
+- default value evaluated when the module loaded
+    - bagian dari fungsi
+    - bakalan pakai yg sama terus
+- jangan pakai mutable value buat default value
