@@ -7,3 +7,6 @@
     - case _ : ini jadi default
 - hash:
     - ga berubah during its lifetime
+- index.setdefault(,[])
+- collections.defaultdict
+
