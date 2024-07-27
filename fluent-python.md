@@ -34,3 +34,4 @@
     - bagian dari fungsi
     - bakalan pakai yg sama terus
 - jangan pakai mutable value buat default value
+- when object unreachable, might be garbage collected
