@@ -18,3 +18,14 @@
 - think byte as big mess 
 - encode ... convert to mess, decode .. simplify
 - bytes immutable ... bytearray mutable
+- encoding set default from locale, mending set sendiri aja
+
+### data class
+- collections.namedtuple
+
+### object reference, name, recycling
+- variable in python more like label, daripada box
+- bind the name dari pada assign
+- is for checking identity
+- == for checking value
+- copy a list, build in constructor for the type itself
