@@ -11,3 +11,10 @@
 - collections.defaultdict
 - dict.keys, values, items
 
+### unicode and binary strings
+- python3 str is a unicode
+- encoding .. code point to byte sequences
+- string itu sekarang yg dipakai code point
+- think byte as big mess 
+- encode ... convert to mess, decode .. simplify
+
