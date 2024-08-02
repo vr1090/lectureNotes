@@ -23,3 +23,6 @@
     - microsoft active directory
 
 
+## network
+- vlan pengganti subnet
+- NAC ... network access control

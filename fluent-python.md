@@ -35,3 +35,14 @@
     - bakalan pakai yg sama terus
 - jangan pakai mutable value buat default value
 - when object unreachable, might be garbage collected
+
+### concurrency, parallelism
+- asyncio.task()
+- bisa di cancel
+- asyncio.create_task ... ini schedule, sama balikin Task
+- task to control and query the state
+- time.sleep ... matiin semua
+- await asyncio.sleep()
+
+### concurrent executor
+- spawn several process, hasil taruh di queue
