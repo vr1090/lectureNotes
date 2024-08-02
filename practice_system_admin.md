@@ -26,3 +26,18 @@
 ## network
 - vlan pengganti subnet
 - NAC ... network access control
+    - mac based
+    - certification based
+    - auth based
+- wifi
+    - ssid sama semua
+    - wifi roaming
+- data center physical design
+    - central switch
+        - patch panel
+        - network rack
+    - tor, top of the rack
+        - diconfigure dari pusat
+- wan network
+    - konek kantor ke data center
+    - demarc point
