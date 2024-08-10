@@ -13,4 +13,4 @@
     - boolean ini bisa lu pake buat filter row
 - boolean aritmatic di numpy:
     - | or & and
-
+- broadcasting the value
