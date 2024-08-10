@@ -11,3 +11,6 @@
 - indexing with boolean
     - np.array ... bisa balikin boolean
     - boolean ini bisa lu pake buat filter row
+- boolean aritmatic di numpy:
+    - | or & and
+
