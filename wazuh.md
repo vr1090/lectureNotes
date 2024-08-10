@@ -4,4 +4,5 @@
     - snort
 - HIDS host
     - wazuh
-    - ossec
+    - ossecmake
+    
