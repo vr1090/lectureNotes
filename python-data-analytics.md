@@ -20,3 +20,11 @@
 ## panda
 - ambil banyak dari numpy
 - data engga homogen
+- pandas:
+    - series
+        - label
+        - array
+        - index
+    - dataframe
+- semua ada index
+    - label di bagian pandas sama series
