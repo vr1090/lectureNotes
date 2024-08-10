@@ -14,3 +14,9 @@
 - boolean aritmatic di numpy:
     - | or & and
 - broadcasting the value
+- bisa matrix multiplication
+- ada bagian buat linear algebra
+
+## panda
+- ambil banyak dari numpy
+- data engga homogen
