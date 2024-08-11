@@ -32,3 +32,4 @@
     -ffill
     - contoh:
         - objt2.reindex(np.arange(6), method="ffill")
+    - obj.drop(c)
