@@ -35,4 +35,4 @@
     - obj.drop(c)
 - pip3 intall jupterlab
 - drop bisa pake column, bisa pake index
-
+- iloc itu posisi
