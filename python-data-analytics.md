@@ -28,3 +28,7 @@
     - dataframe
 - semua ada index
     - label di bagian pandas sama series
+- reindex
+    -ffill
+    - contoh:
+        - objt2.reindex(np.arange(6), method="ffill")
