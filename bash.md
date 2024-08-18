@@ -64,4 +64,5 @@ ${nama[0]} --> akses pake index
 - export set EDITOR=vim
     - buat set editor kalo ntar pake fc
 - backslash escaped
+- subshell
 
