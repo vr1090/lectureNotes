@@ -66,3 +66,10 @@ ${nama[0]} --> akses pake index
 - backslash escaped
 - subshell
 - unset -f funcname --> ini buat delete function
+
+## basic shell programming
+- $@ --> ambil $1, $2, $3 ...
+- strings handling, baru bisa di execute kalau pakai ${}
+- versi string handling:
+    - ${var:-other} ... bakalan balikin other kalau value ga ada
+
