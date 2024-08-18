@@ -61,3 +61,5 @@ ${nama[0]} --> akses pake index
 ## fc
 - find command
 - fc
+- export set EDITOR=vim
+    - buat set editor kalo ntar pake fc
