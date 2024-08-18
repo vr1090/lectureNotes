@@ -74,4 +74,8 @@ ${nama[0]} --> akses pake index
     - ${var:-other} ... bakalan balikin other kalau value ga ada
     - ${var:=other} ... bakalan balikin value other, terus assign the variablesnya
     - ${value:?"koment"} ... bakalan return error, biar script bisa stop
-
+- versi pattern matching
+    - ${:#} bakalan check pattern di depan .. ketemu delete
+    - ${:%} bakalan cek pattern dari belakang, ketemu delete
+    - versi panjangan ##
+    - versi panjangan %%
