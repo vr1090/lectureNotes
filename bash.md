@@ -65,4 +65,4 @@ ${nama[0]} --> akses pake index
     - buat set editor kalo ntar pake fc
 - backslash escaped
 - subshell
-
+- unset -f funcname --> ini buat delete function
