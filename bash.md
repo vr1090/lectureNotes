@@ -72,4 +72,6 @@ ${nama[0]} --> akses pake index
 - strings handling, baru bisa di execute kalau pakai ${}
 - versi string handling:
     - ${var:-other} ... bakalan balikin other kalau value ga ada
+    - ${var:=other} ... bakalan balikin value other, terus assign the variablesnya
+    - ${value:?"koment"} ... bakalan return error, biar script bisa stop
 
