@@ -82,3 +82,4 @@ ${nama[0]} --> akses pake index
 
 ## control flow
 - if/else, while, for, until
+- buildin ... buat pakai command yg dari /bin
