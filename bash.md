@@ -83,3 +83,5 @@ ${nama[0]} --> akses pake index
 ## control flow
 - if/else, while, for, until
 - buildin ... buat pakai command yg dari /bin
+- return N ... balikin nilai dari command ini
+- exit n ... langsung keluar dari script
