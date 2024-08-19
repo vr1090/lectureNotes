@@ -79,3 +79,6 @@ ${nama[0]} --> akses pake index
     - ${:%} bakalan cek pattern dari belakang, ketemu delete
     - versi panjangan ##
     - versi panjangan %%
+
+## control flow
+- if/else, while, for, until
