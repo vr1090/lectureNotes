@@ -4,3 +4,11 @@
     - web ... UI
     - business
     - data
+- @Component
+    - bilang ke spring .. maintain ini
+- @AutoWired
+    - start looking for dependencies
+- beans .. instance .. yg dibuat spring framework
+- autowiring .. process spring cari dependencies
+- inversion of control ... yg generate object bukan object itu lagi
+- IOC container ... generic to represent inversion of control
