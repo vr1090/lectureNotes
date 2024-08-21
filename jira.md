@@ -27,3 +27,6 @@
     - user field
     - date field
 - attachment
+- history sama activity sama aja, cuma beda UI
+- watching the issue
+- schema buat prepopulated
