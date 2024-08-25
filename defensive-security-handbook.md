@@ -1,0 +1,16 @@
+## intro
+- security group
+    - High level CISO, CEO
+    - risk assesment team
+    - security team
+    - auditing team
+- framework
+    - NIST 2.0
+    - OCTAVE framework
+- baseline
+    - policy, procedure, playbook
+    - endpoint
+    - networking device
+    - application
+    - vendor
+    - logging and monitoring

@@ -30,3 +30,12 @@
 - history sama activity sama aja, cuma beda UI
 - watching the issue
 - schema buat prepopulated
+
+## field
+- affects:
+    - behaviour, appereance, functionailty
+- context
+    - project and issue types
+costum field
+    - configure
+    - edit
