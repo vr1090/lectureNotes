@@ -14,3 +14,17 @@
     - application
     - vendor
     - logging and monitoring
+- risk assesment
+    - identify
+    - asses
+    - mitigate
+    - monitor and govern
+- resources
+    - OWASP top 10
+    - CIS standard
+    - cloud security alliance (CSA)
+- risk matrix
+    - likelyhood x impact
+- use cases
+    - contoh ddos, disgruntled employee
+    - lock head martin intrussion kill chain
