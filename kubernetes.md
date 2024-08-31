@@ -506,8 +506,11 @@ volumes:
 - tls
     - pem, crt ... biasanya buat public key
     - key or -key.pem buat private key
+- sertifikat:
+    - kube api-server
+    - kubelet
+    - etcd
 
-    
     
 
 
