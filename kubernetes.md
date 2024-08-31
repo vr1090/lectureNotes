@@ -520,6 +520,8 @@ volumes:
         - terus sign kasih -CA sama -CAkey -out admin.crt
 - kubeadm
 - buka certificate ... openssl x509 -in crtfile -text -noout
+- kubectl get csr ... ambil semua csr
+- kubectl certificate approve jane
 
 
 
