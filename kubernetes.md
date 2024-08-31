@@ -522,6 +522,7 @@ volumes:
 - buka certificate ... openssl x509 -in crtfile -text -noout
 - kubectl get csr ... ambil semua csr
 - kubectl certificate approve jane
+- kube controller manager .. ini yg handle signing certificate
 
 
 
