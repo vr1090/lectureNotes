@@ -500,6 +500,13 @@ volumes:
     - network congestion
     - need to be deployed in the same pod
     - sidecar proxy, sit along side containerized application
+
+
+## security
+- tls
+    - pem, crt ... biasanya buat public key
+    - key or -key.pem buat private key
+
     
     
 
