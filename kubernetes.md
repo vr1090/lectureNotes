@@ -511,7 +511,13 @@ volumes:
     - kubelet
     - etcd
 - scheduler itu client juga
-
+- bikin kunci
+    - create private key dulu, ```openssl genrsa -out ca.key 2048```
+    - create request ... ```openssl req -new -key "namakunci" 
+    - terus sign .. dapet ca.crt
+    - client ... sama juga bikin private key
+        - bikin cr
+        - terus sign kasih -CA sama -CAkey -out admin.crt
     
 
 
