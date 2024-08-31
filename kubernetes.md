@@ -510,6 +510,7 @@ volumes:
     - kube api-server
     - kubelet
     - etcd
+- scheduler itu client juga
 
     
 
