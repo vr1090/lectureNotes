@@ -38,3 +38,5 @@
 
 ## spring context ... bean scope and lifecycle
 - managing lifecycle ... ini namanya scope
+- name method jadi name bean
+
