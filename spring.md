@@ -29,4 +29,9 @@
 
 ## configuration
 - file configuration, dalemnya ada @bean
-- 
+- name represent the bean
+
+## autowired 
+- create relationship between two bean
+- field injection di constrcutor
+- @Primary, @Qualifier
