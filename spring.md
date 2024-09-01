@@ -40,3 +40,7 @@
 - managing lifecycle ... ini namanya scope
 - name method jadi name bean
 
+## generic
+- T extends Comparable .... ini bakalan kasih bound
+- wildcard <? extends Employee> ... bikin generic class ada hierarchy
+
