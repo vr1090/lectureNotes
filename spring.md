@@ -26,3 +26,7 @@
 - aop .. intercept the behaiour of method
 - build tools
     - maven
+
+## configuration
+- file configuration, dalemnya ada @bean
+

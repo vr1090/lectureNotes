@@ -1,0 +1,35 @@
+## what is cloud native
+- apps that running well in the cloud
+- 3P
+    - paltforms: 
+        - running on scaleable environment
+    - properties:
+        - observability
+        - resilent
+        - loosely coupled
+    - practice:
+        - automation, ci/cd, devops
+- cloud computing
+    - computing model that:
+        - uniquotus
+        - shared pool configurable computer
+        - rapidly provision and released
+        - minimum interaction with provider
+- elasticity:
+    - adapt to changes
+    - request and demand the same
+- infrastrcuture as code
+    - practice of managing computer and network through source code that can be managed just ike software
+- avoiding snowflake server
+    - server that hard to manage and reproduce
+- continous delivery
+    - software can be released at any time
+- continous deployment
+    - create the apps so can be release at any time
+- devops : werner vogels .... you build it, you run it
+- devops is culture, tools are enabler
+
+## spring apps
+- Springapplication
+    - configuration
+    - componentScan
