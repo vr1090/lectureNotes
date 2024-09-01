@@ -35,3 +35,6 @@
 - create relationship between two bean
 - field injection di constrcutor
 - @Primary, @Qualifier
+
+## spring context ... bean scope and lifecycle
+- managing lifecycle ... ini namanya scope
