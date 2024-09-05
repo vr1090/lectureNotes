@@ -43,4 +43,10 @@
 ## generic
 - T extends Comparable .... ini bakalan kasih bound
 - wildcard <? extends Employee> ... bikin generic class ada hierarchy
+- wildcard
+    - return value
+        - ? extends T
+    - method paramater
+        - ? super T
+- pecs ... producer extends, consumer super
 
