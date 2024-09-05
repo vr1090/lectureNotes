@@ -58,5 +58,7 @@
     - body
     - return
 - lambda ... buang nama dan return
+- java peduli sama backward compatible
+
 
 
