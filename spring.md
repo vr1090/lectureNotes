@@ -50,3 +50,6 @@
         - ? super T
 - pecs ... producer extends, consumer super
 
+## java, function extractor
+- System.out::println ... ini buat make function object
+
