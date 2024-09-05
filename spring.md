@@ -52,4 +52,11 @@
 
 ## java, function extractor
 - System.out::println ... ini buat make function object
+- function:
+    - name
+    - parameter
+    - body
+    - return
+- lambda ... buang nama dan return
+
 
