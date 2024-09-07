@@ -69,5 +69,10 @@
 - collect toMap()
     - what are the keys?
 
+## rest
+- openfeign ... buat bikin request
+- webclient .. reactive
+
+
 
 
