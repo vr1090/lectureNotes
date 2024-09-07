@@ -59,6 +59,12 @@
     - return
 - lambda ... buang nama dan return
 - java peduli sama backward compatible
+- interface with single abstract method
+
+
+## lambda
+- better to be suck as fast as possible
+
 
 
 
