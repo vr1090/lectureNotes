@@ -65,6 +65,7 @@
 ## lambda
 - better to be suck as fast as possible
 - function composition, aka pipeline
+- avoid shared mutability
 
 
 
