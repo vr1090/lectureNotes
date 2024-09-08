@@ -76,6 +76,8 @@
 ## database
 - data source, maintain connection in database
 - jdbc .. abstract class, needs to be implemented by vendor
+- jdbctemplate
+- hikaripool
 
 
 
