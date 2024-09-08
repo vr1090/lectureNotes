@@ -11,7 +11,9 @@
 - systemd is init system-nya linux
     - journalctl bisa dipake buat ambil log systemd
     - journalctl -u namaService
-    
+- /var/log/secure ... ini ada di centos
+- /var/log/auth.log ... debian based computer
+ 
 
 
 
