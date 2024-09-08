@@ -78,6 +78,7 @@
 - jdbc .. abstract class, needs to be implemented by vendor
 - jdbctemplate
 - hikaripool
+- flyway database versioning ... buat versi sql
 
 
 
