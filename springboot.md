@@ -33,4 +33,5 @@
 - @Entity
     - javax persistence
 - Optional<Integer>
+- flyway buat database migration
 
