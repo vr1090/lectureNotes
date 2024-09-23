@@ -32,4 +32,5 @@
 - JPA sama DB-nya di pilih
 - @Entity
     - javax persistence
+- Optional<Integer>
 
