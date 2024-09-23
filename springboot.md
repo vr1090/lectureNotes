@@ -19,5 +19,8 @@
 - JdbcTemplate, simplify jdbc
 - @Repository context
 - RowMapper .. buat map result dari database
-
+- restController
+- PathVariable
+- RequestBody ... PostMapping
+- Httpie ... ini buat bikin reuqest http
 
