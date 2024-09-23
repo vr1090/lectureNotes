@@ -29,4 +29,5 @@
     - database running
     - driver buat konek
     - spring data module
+- JPA sama DB-nya di pilih
 
