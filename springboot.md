@@ -24,3 +24,9 @@
 - RequestBody ... PostMapping
 - Httpie ... ini buat bikin reuqest http
 
+## spring data
+- masukin db di spring:
+    - database running
+    - driver buat konek
+    - spring data module
+
