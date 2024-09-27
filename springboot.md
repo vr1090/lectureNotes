@@ -35,3 +35,10 @@
 - Optional<Integer>
 - flyway buat database migration
 
+## configuring
+- spring boot actuator
+- @Value .. dari application.properties
+    - umpama: @Value("${greeting: Halo}")
+- actuator ... one that controlling something or device
+
+
