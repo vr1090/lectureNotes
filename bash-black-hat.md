@@ -3,3 +3,7 @@
 - scope ... local keyword
 - aritmatic
     - pake $(( 1+9))
+- stream
+    - input 0
+    - output 1
+    - error 2
