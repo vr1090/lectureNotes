@@ -7,3 +7,5 @@
     - input 0
     - output 1
     - error 2
+- redirect:
+    - &> redirect
