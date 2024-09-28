@@ -13,3 +13,11 @@
     - $0 nama script
     - $# number of parameter
 - read -r ... buat tampilin backslash sekalian
+
+## bash control
+- operator ... buat testing
+- file operator:
+    - -d check directory
+    - x,r,w ... check ini file bisa dibaca apa engga
+    - s, buat check ini empty apa engga
+    
