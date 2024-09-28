@@ -9,3 +9,6 @@
     - error 2
 - redirect:
     - &> redirect
+- parameter
+    - $0 nama script
+    - $# number of parameter
