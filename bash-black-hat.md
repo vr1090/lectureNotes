@@ -27,4 +27,10 @@
 - function
     - buat jadi beberapa 
 - until ... stop kalo true
+- while;do; done
+- until;do;done
+- if;then;elif;then;fi
+- $@ ... ini ambil semua argument yg di pass
+- case $var in; statement); command command;; statemant);; esac
+
 
