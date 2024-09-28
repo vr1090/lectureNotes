@@ -12,3 +12,4 @@
 - parameter
     - $0 nama script
     - $# number of parameter
+- read -r ... buat tampilin backslash sekalian
