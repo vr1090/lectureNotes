@@ -20,4 +20,11 @@
     - -d check directory
     - x,r,w ... check ini file bisa dibaca apa engga
     - s, buat check ini empty apa engga
-    
+- string comparison:
+    - =, ==, !=, -z check null,-n check not null
+- number comparison:
+    - gt, tl,eq,ge,le
+- function
+    - buat jadi beberapa 
+- until ... stop kalo true
+
