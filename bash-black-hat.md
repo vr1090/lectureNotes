@@ -38,7 +38,8 @@
         - nf itu last column
 - sed, is a stream editor
     - edit data text
-    
+- ~/.bashrc
+    - buat taruh variable, function etc
 
 
 
