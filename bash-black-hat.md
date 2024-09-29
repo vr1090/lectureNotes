@@ -32,5 +32,13 @@
 - if;then;elif;then;fi
 - $@ ... ini ambil semua argument yg di pass
 - case $var in; statement); command command;; statemant);; esac
+- text processing
+    - grep -e pattern -e pattern
+    - awk "{print $1, $NF}"
+        - nf itu last column
+- sed, is a stream editor
+    - edit data text
+    
+
 
 
