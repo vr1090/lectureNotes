@@ -1,0 +1,2 @@
+## vector
+- kumpulan dari angka
