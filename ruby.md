@@ -8,4 +8,5 @@
     - rails generate lots of thing
 - puts
 - everything in ruby is an object
+- rakefile .. sama kaya makefile
 
