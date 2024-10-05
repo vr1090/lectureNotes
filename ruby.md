@@ -9,4 +9,6 @@
 - puts
 - everything in ruby is an object
 - rakefile .. sama kaya makefile
+- bundle install
+
 
