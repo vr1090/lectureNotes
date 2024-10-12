@@ -40,4 +40,14 @@
 - Access-Control-Allow-origin: ini bilang kalao origin X boleh akses
 - X-frame-options: how current frame bisa di load
 - kalau pakai proxy, https jadi connect doang, pure TCP
+- http auth:
+    - basic : base64, username password
+    - NTLM: windows based 
+    - Digets: using http digest
+- form: 
+    - x-form-urlencoded: ini tipe encoded 
+- url encoding
+    - encoding schema
+    
+
 
