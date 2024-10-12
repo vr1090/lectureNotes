@@ -26,4 +26,6 @@
 - http
     - referer: ini dapet website dari siapa
     - user-agent: ini applikasi yg request
+    - host: buat jaga2 kalau satu server, multiple host
+    - cookie: data2 cookie yg pernah dikirim dari server
 
