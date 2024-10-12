@@ -15,3 +15,5 @@
 
 ## core defense mechanism
 - all user input is untrusted
+- controlling user data to its data and functionality
+
