@@ -48,6 +48,7 @@
     - x-form-urlencoded: ini tipe encoded 
 - url encoding
     - encoding schema
+    - % terus two digit ascii code
     
 
 
