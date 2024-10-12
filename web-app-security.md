@@ -30,4 +30,7 @@
     - cookie: data2 cookie yg pernah dikirim dari server
 - reply back dari server
     - set-cookie: ini ada cookie, save it bang
+    - pragma: buat set content perlu di store di cache atau tidak
+    - expires: kapan content ini expires
     
+
