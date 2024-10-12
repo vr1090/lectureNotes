@@ -16,4 +16,14 @@
 ## core defense mechanism
 - all user input is untrusted
 - controlling user data to its data and functionality
+- process:
+    - auth
+    - session
+    - access control
+- session security, token security
+
+## web tech
+- http
+    - referer: ini dapet website dari siapa
+    - user-agent: ini applikasi yg request
 
