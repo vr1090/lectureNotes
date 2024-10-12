@@ -37,5 +37,7 @@
 - URL .. buat akses ke resources
 - kalau engga ada hostname, ini biasanya dynamic
 - origin: ini buat ajax, bilang domain yg request siapa
-
+- Access-Control-Allow-origin: ini bilang kalao origin X boleh akses
+- X-frame-options: how current frame bisa di load
+- kalau pakai proxy, https jadi connect doang, pure TCP
 
