@@ -48,7 +48,15 @@
     - x-form-urlencoded: ini tipe encoded 
 - url encoding
     - encoding schema
-    - % terus two digit ascii code
-    
+    - % terus two digit ascii code\
+
+## authentication
+- bad password
+    - kekecilan
+- lockout account policy
+- login itu harus di log
+
+
+
 
 
