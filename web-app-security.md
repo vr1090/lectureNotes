@@ -35,5 +35,7 @@
 - abis header, ada blank line, terus langsung content
 - http method: yang paling sering dipake .. GET POST
 - URL .. buat akses ke resources
+- kalau engga ada hostname, ini biasanya dynamic
+- origin: ini buat ajax, bilang domain yg request siapa
 
 
