@@ -32,5 +32,6 @@
     - set-cookie: ini ada cookie, save it bang
     - pragma: buat set content perlu di store di cache atau tidak
     - expires: kapan content ini expires
-    
+- abis header, ada blank line, terus langsung content
+
 
