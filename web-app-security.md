@@ -33,5 +33,7 @@
     - pragma: buat set content perlu di store di cache atau tidak
     - expires: kapan content ini expires
 - abis header, ada blank line, terus langsung content
+- http method: yang paling sering dipake .. GET POST
+- URL .. buat akses ke resources
 
 
