@@ -56,6 +56,13 @@
 - lockout account policy
 - login itu harus di log
 
+## slowhttptest
+```
+slowhttptest -c 1000 -H -g -o slowloris -i 10 -r 200 -t GET -u https://<target> -x 24 -p 3
+```
+- -i jarak antar chuck data
+
+
 
 
 
