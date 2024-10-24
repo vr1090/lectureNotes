@@ -41,3 +41,9 @@
 - wan network
     - konek kantor ke data center
     - demarc point
+- network simple
+    - layer 1 ... kabel
+    - layer 2 ---- switch
+    - layer 3 ... router
+    - layer 4 protocol
+    - layer 5 session.. rada2 ga make sense .. PTPP 
