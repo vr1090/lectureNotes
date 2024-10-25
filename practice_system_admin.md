@@ -47,3 +47,11 @@
     - layer 3 ... router
     - layer 4 protocol
     - layer 5 session.. rada2 ga make sense .. PTPP 
+    - layer 6 presentation ...
+- wiring
+    - IDF ... intermediate distribution frame
+- logical design
+    - uplink ... hubungan antar vlan
+    - 100 host dengan 10 mbps .. butuh 1000
+- wireless
+    - ga bisa pake yg rumahan
