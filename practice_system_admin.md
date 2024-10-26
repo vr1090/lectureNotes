@@ -55,3 +55,9 @@
     - 100 host dengan 10 mbps .. butuh 1000
 - wireless
     - ga bisa pake yg rumahan
+- networking
+    - tor, top of the rack
+    - interior
+        - EIGRP
+        - OSPF
+    
