@@ -15,4 +15,68 @@
     - verb
 - attack surface 
     - something an attacker can contact, to execute exploit
-    
+- threat actor
+    - single user
+    - group of user
+    - insider threat
+    - nation states
+- common attack
+    - social engineering
+        - twitter in 2020, during pandemic
+    - phising
+        - toyota in 2021, 
+    - ransomware
+        - Bank BSI
+    - Credential abuse
+        - Solarwinds
+    - authentication bypass
+        - kaseya network management
+- security principle
+    - principle of least priviledge
+        - zero trust granular access to information
+    - open security
+        - security should not depends on secrecy
+    - defense in depth
+        - security on every layer
+- action
+    - shift left security
+        - thinking about security from the ground up
+    - administrative segmenetation
+        - SSS shamir secret sharing
+    - Threat intelligence and Threat modelling
+        - dari data2 yg ada, kita coba modelling gimana how someone attack us
+        - 
+    - Continous Patching and supply chain validation 
+    - Tabletop exercise
+    - logging and chaos testing
+- Laws and regulation
+    - HIPAA
+        - PHI ( protected health information )
+    - GDPR
+- Guidelines
+    - CIS top 18
+    - PCI DSS
+    - NIST cybersecurity
+        - Asset management
+        - Risk assesment
+    - MITRE ATT3K
+- Next
+    - CLD -100 attack cloud
+    - Network tester
+    - Web app tester
+
+## learning
+- cornell notes
+    - kiri question, terms
+    - tengah main
+    - bawah summary
+- SQ3R method
+    - scan
+    - bikin pertanyaan
+- feynmann style
+    - belajar
+    - ajarin awam
+    - cek yg ga ngerti
+    - pelajarin lagi
+
+
