@@ -79,4 +79,6 @@
     - cek yg ga ngerti
     - pelajarin lagi
 
+## 6. information gathering
+
 
