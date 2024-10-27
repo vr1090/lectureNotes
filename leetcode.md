@@ -98,5 +98,11 @@ collections.defaultdict(set)
     - abis itu .. mulai dari awal, terus jalanin lagi
     - kalo ketemu .. ya udah .. itu intersect-nya
 
+## valid graph tree
+- tree
+    - ga boleh ada loop
+    - need to be connected
+    - cek visited nodes
+
 
 

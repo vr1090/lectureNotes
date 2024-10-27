@@ -14,3 +14,4 @@
     - UserDetailService --- buat authenticate user
     - UserDetailManager ... ini buat nanti kalo mau ada tambah2an
 - kalau dikasih lewat ... grantedAuthority
+- UserDetail ... ini buat describe user
