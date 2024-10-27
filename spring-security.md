@@ -13,4 +13,4 @@
 - authetication kali ini
     - UserDetailService --- buat authenticate user
     - UserDetailManager ... ini buat nanti kalo mau ada tambah2an
-    
+- kalau dikasih lewat ... grantedAuthority
