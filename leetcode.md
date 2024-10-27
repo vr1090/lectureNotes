@@ -103,6 +103,8 @@ collections.defaultdict(set)
     - ga boleh ada loop
     - need to be connected
     - cek visited nodes
+- dfs(i, prev)
+    - ini buat biar bisa detect ga mundur kebelakang
 
 
 
