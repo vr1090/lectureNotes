@@ -49,4 +49,5 @@
 - ip route add ip/cidr via ip-number dev eth0
 - sysctl ... create jadi router
 - /etc/sysctl.conf .. kalau mau buat jadi permanent
+- netfliter framework
 
