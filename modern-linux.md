@@ -53,3 +53,4 @@
 - pikir seperti paket
     - di bungkus
     - yg sebelumnya jadi data
+- pretending as someone else: masquarading
