@@ -54,3 +54,9 @@
     - di bungkus
     - yg sebelumnya jadi data
 - pretending as someone else: masquarading
+
+## hardware clock
+- NTP network time protocol
+- timedatectl
+    - timedatectl list-timezones
+- systemd-timesyncd
