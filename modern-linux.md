@@ -50,4 +50,6 @@
 - sysctl ... create jadi router
 - /etc/sysctl.conf .. kalau mau buat jadi permanent
 - netfliter framework
-
+- pikir seperti paket
+    - di bungkus
+    - yg sebelumnya jadi data
