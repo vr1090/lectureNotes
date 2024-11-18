@@ -60,3 +60,11 @@
 - timedatectl
     - timedatectl list-timezones
 - systemd-timesyncd
+
+## storage
+- partition
+- lsblk
+    - lihat semua partition
+    - s serial
+    - n nvme
+- fldisk ... buat bikin partition
