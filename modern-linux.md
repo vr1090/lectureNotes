@@ -69,3 +69,13 @@
     - n nvme
 - fldisk ... buat bikin partition
 - partition di bagi2 lagi jadi per sector
+- partition table, buat tau partition di sebelah mana aja
+    - dulu kebanyakan pakai mbr
+        - modern GPT ( guid partition table)
+            - bisa banyak primary
+            - less corrupt
+- modern version dari fdisk ... cfdisk
+- swap partition
+    - buat mindahin data ke ram
+    - swapon --show
+
