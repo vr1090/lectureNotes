@@ -80,6 +80,7 @@
     - swapon --show
     - mkswap /tmp 
         - ini create swap
+    - swapoff /dev/partition
 - dd
     - if=/dev/zero
     - of=/swap
