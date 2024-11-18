@@ -78,6 +78,8 @@
 - swap partition
     - buat mindahin data ke ram
     - swapon --show
+    - mkswap /tmp 
+        - ini create swap
 - dd
     - if=/dev/zero
     - of=/swap
