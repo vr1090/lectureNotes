@@ -78,4 +78,10 @@
 - swap partition
     - buat mindahin data ke ram
     - swapon --show
+- dd
+    - if=/dev/zero
+    - of=/swap
+    - bs=1M
+    - count=128
+
 
