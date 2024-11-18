@@ -68,3 +68,4 @@
     - s serial
     - n nvme
 - fldisk ... buat bikin partition
+- partition di bagi2 lagi jadi per sector
