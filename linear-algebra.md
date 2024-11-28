@@ -4,3 +4,7 @@
 - length or shape in vector
 - algebra isolation dari x
 - kalo garis, itu linear algebra
+- linear algebra
+    - more than 1 equation
+    - many unknown
+    
