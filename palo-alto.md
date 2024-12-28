@@ -9,3 +9,4 @@
 ## user-id
 - enable user id on the zone
 - user-id agent ... server + credentials
+- device --> user identification
