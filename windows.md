@@ -5,5 +5,8 @@
     - security 
     - setup
 - eventvwr
-- annual failure rate
+- annual failure rate (AFR)
 - MTBF mean time between failure
+- masa hidup hardisk itu 2 tahun
+- max hardisk itu 5 tahun
+
