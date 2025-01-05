@@ -10,3 +10,8 @@
 - masa hidup hardisk itu 2 tahun
 - max hardisk itu 5 tahun
 - nas drive, bagus buat performance
+- ssd ... parallelism
+- smart
+    - scan error count
+    - reallocation count
+    - 
