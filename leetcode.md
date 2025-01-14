@@ -106,5 +106,8 @@ collections.defaultdict(set)
 - dfs(i, prev)
     - ini buat biar bisa detect ga mundur kebelakang
 
+## sorting
+- stable vs unstable
+
 
 
