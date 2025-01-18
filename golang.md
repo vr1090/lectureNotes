@@ -36,3 +36,7 @@ for {
 - dynamic slice array ... a:= make([]int, 10,15)
 - append(slice, value) slice
 - range ... looping over slice
+
+## function
+- function itself is a value
+
