@@ -40,4 +40,5 @@ for {
 ## function
 - function itself is a value
 - closure ... function declared inside function, can access outer func
+- defer keyword
 
