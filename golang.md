@@ -60,3 +60,10 @@ for {
   - higher troughput OR
   - run as small as possible
 - GOGC env variable
+
+## type method interface
+- type ... buat user defined type
+- method defined at package block level
+- receiver ... ini struct
+  - pointer receiver ... kalau mau modif aja
+  - value receiver ... kalau pengen akses value aja
