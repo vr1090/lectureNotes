@@ -59,3 +59,4 @@ for {
 - type of GC
   - higher troughput OR
   - run as small as possible
+- GOGC env variable
