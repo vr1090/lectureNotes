@@ -56,3 +56,6 @@ for {
 - slice itu data structure isinya : pointer, len, cap
 - buat bisa taro di stack, karena size known
 - pointer escape to heap
+- type of GC
+  - higher troughput OR
+  - run as small as possible
