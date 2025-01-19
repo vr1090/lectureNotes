@@ -53,3 +53,5 @@ for {
 - json unmarshall ... rubah json string jadi struct
 - use pointer to set unassigned variable
 - map and slice are pointer
+- slice itu data structure isinya : pointer, len, cap
+- buat bisa taro di stack, karena size known
