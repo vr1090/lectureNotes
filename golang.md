@@ -51,3 +51,5 @@ for {
 - pointer to instance
 - kalau ada pointer, baru garbage collector jalan
 - json unmarshall ... rubah json string jadi struct
+- use pointer to set unassigned variable
+- map and slice are pointer
