@@ -55,3 +55,4 @@ for {
 - map and slice are pointer
 - slice itu data structure isinya : pointer, len, cap
 - buat bisa taro di stack, karena size known
+- pointer escape to heap
