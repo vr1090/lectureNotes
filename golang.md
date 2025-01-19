@@ -42,3 +42,6 @@ for {
 - closure ... function declared inside function, can access outer func
 - defer keyword
 
+## pointer
+- & address operator, * inderection operator
+
