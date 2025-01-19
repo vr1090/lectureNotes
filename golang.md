@@ -44,4 +44,10 @@ for {
 
 ## pointer
 - & address operator, * inderection operator
-
+- new create pointer, point to empty zero type
+  - rarely used
+- think pointer as class in java
+  - non pointer struct is go is uncommon
+- pointer to instance
+- kalau ada pointer, baru garbage collector jalan
+- json unmarshall ... rubah json string jadi struct
