@@ -75,3 +75,8 @@ for {
 
 ## generics
 - type parameter proposal
+- vals ... name and constraint
+- stack[T], T bisa di ganti sama value yg lain. Stack[int]
+- type terms ... Integer { int | int23 }
+  - type terms cuma buat constraint di generic
+  - kagak bisa buat runtime level, generic!
