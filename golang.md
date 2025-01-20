@@ -88,3 +88,5 @@ for {
 - error itu interface
 - fmt.Errorf() --> buat bilang ini error
 - sentinel error .. no further processing is possible
+  - Err ... ini depannya
+- errors.As ... ini apa lagi?
