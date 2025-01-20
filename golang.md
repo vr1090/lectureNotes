@@ -87,3 +87,4 @@ for {
 - tiap panggil function, ada parameter error yg di cek
 - error itu interface
 - fmt.Errorf() --> buat bilang ini error
+- sentinel error .. no further processing is possible
