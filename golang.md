@@ -86,3 +86,4 @@ for {
 - errors package
 - tiap panggil function, ada parameter error yg di cek
 - error itu interface
+- fmt.Errorf() --> buat bilang ini error
