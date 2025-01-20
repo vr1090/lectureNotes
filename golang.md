@@ -67,3 +67,11 @@ for {
 - receiver ... ini struct
   - pointer receiver ... kalau mau modif aja
   - value receiver ... kalau pengen akses value aja
+- method, local variabel bisa otomatis added & dan *
+- kalau pointer bisa akses semuanya
+- iota ... int and const block
+- embeded field, manager -> employee juga, nanti ada field employee
+- no dynamic dispatch, embeded field wins
+
+## generics
+- type parameter proposal
