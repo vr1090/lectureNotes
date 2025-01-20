@@ -80,3 +80,9 @@ for {
 - type terms ... Integer { int | int23 }
   - type terms cuma buat constraint di generic
   - kagak bisa buat runtime level, generic!
+
+## errors
+- error value,ini convention aja
+- errors package
+- tiap panggil function, ada parameter error yg di cek
+- error itu interface
