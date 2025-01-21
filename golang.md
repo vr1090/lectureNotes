@@ -90,3 +90,10 @@ for {
 - sentinel error .. no further processing is possible
   - Err ... ini depannya
 - errors.As ... ini apa lagi?
+- wrapping error ... dapet error, tambahin error lagi
+  - error tree ... wrapping the error
+  - create error, tapi engga mau di wrap .. pake %v bukan %w
+  - combine beberapa error jadi satu ... errors.Join( error ...)
+
+## module
+- semantic import versioning part
