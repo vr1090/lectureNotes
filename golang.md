@@ -103,3 +103,9 @@ for {
 
 ## go tooling
 - go run buat running small program
+- go install ... download package terus compile dan masukin ke path
+- code quality scanner, linter version
+- staticcheck ... check common error in go program
+
+## concurrency
+- single process into several components
