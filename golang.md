@@ -97,3 +97,9 @@ for {
 
 ## module
 - semantic import versioning part
+- publishing module
+  - go mod and go sum
+- go workspace
+
+## go tooling
+- go run buat running small program
