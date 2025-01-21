@@ -109,3 +109,7 @@ for {
 
 ## concurrency
 - single process into several components
+- CSP ... communicating sequential process
+- goroutine, channel, select keyword
+- better structure the problem you want to solve
+- make(chan int, 10) --> create channel, with buffer of 10
