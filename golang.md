@@ -120,6 +120,10 @@ for {
   - wg.Done
   - wg.Wait
 
-  ## standard library
+## standard library
   - io
     - io.Reader and io.Writer
+
+## go testing
+- need to be in file_test.go
+- function awalnya harus Test
