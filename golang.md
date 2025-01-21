@@ -119,4 +119,7 @@ for {
   - wg.Add
   - wg.Done
   - wg.Wait
-  
+
+  ## standard library
+  - io
+    - io.Reader and io.Writer
