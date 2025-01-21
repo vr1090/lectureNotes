@@ -115,3 +115,8 @@ for {
 - make(chan int, 10) --> create channel, with buffer of 10
 - sync.WaitGroup
 - timeout ... pakai ctx.Done() --> ini channel
+- sync.WaitGroup
+  - wg.Add
+  - wg.Done
+  - wg.Wait
+  
