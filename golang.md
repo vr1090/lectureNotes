@@ -131,3 +131,12 @@ for {
 ## go testing
 - need to be in file_test.go
 - function awalnya harus Test
+
+## go in practice
+
+## intro go
+- programming 3 domain layer
+  - a programming language
+  - a toolchain
+  - ecosystem git etc
+- channel, communicate between goroutine
