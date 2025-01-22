@@ -121,8 +121,12 @@ for {
   - wg.Wait
 
 ## standard library
-  - io
-    - io.Reader and io.Writer
+- io
+  - io.Reader and io.Writer
+- time
+  - time.duration and time.time
+  - time.Time instance, time.Now
+  
 
 ## go testing
 - need to be in file_test.go
