@@ -140,3 +140,4 @@ for {
   - a toolchain
   - ecosystem git etc
 - channel, communicate between goroutine
+- go test -cover
