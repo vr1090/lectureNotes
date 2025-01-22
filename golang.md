@@ -142,3 +142,6 @@ for {
 - channel, communicate between goroutine
 - go test -cover
 - go is system language, but no for embedded system. ada runtime dan gc
+
+## basic go
+- flags 
