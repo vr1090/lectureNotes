@@ -144,4 +144,8 @@ for {
 - go is system language, but no for embedded system. ada runtime dan gc
 
 ## basic go
-- flags 
+- flags
+
+## i/o
+- buffio, readString("\n")
+
