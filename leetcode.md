@@ -109,5 +109,15 @@ collections.defaultdict(set)
 ## sorting
 - stable vs unstable
 
+## longest turbulent array
+- l,r = 0,1
+- prev is a string , "","<", ">"
+- check kalo ini masih sama aturannya
+- r = r + 1
+- update global max
+- else:
+    - kalo sama dengan ... r+1 kalo engga r
+    - l = r -1 .. ini gw ga ngerti
+
 
 
