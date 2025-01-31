@@ -119,5 +119,10 @@ collections.defaultdict(set)
     - kalo sama dengan ... r+1 kalo engga r
     - l = r -1 .. ini gw ga ngerti
 
+## trie
+- trieNode ... childern[26]
+    - word: Boolean
+- pake fungsi ord ... ord(c) - ord('a')
+
 
 
