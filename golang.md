@@ -156,3 +156,7 @@ for {
 - rows.Next() .. . ini bakalan kayak pointer .. lanjut terus kedepan
 - jangan lupa di tutup, rows.close()
 - method juga bisa dipanggil, tapi tanpa parameter
+
+## cookie
+- http.Cookie
+- 
