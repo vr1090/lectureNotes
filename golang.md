@@ -149,3 +149,10 @@ for {
 ## i/o
 - buffio, readString("\n")
 
+## web-db
+- sql.Open() --> balikin pointer db
+- db.Query() ... hasilnya rows
+- rows.Scan( ..), bisa valuenya taruh disini, mau struct etc terserah
+- rows.Next() .. . ini bakalan kayak pointer .. lanjut terus kedepan
+- jangan lupa di tutup, rows.close()
+- method juga bisa dipanggil, tapi tanpa parameter
