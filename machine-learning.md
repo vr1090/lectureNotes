@@ -18,4 +18,6 @@
     - plotting based on dimension
     - sign( w*x -b)
     - ||w|| ini perlu di minimize
-
+- math notation
+    - sigma and pi
+    
