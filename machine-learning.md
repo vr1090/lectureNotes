@@ -17,4 +17,5 @@
     - decision boundary
     - plotting based on dimension
     - sign( w*x -b)
+    - ||w|| ini perlu di minimize
 
