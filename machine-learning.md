@@ -1,0 +1,20 @@
+## what is
+- computer science , from previously learn
+- task
+    - gather data
+    - build statitical model
+- learning
+    - supervised
+    - semi supervised
+    - unsupervised
+        - dimensionaly reduction
+        - outlier detection
+    - reinforcement
+        - to learn a policy
+- featured vector, labeled example
+    - featured vector dalam bentuk 1,0,10
+    - label dalam bentuk +1 atau -1
+    - decision boundary
+    - plotting based on dimension
+    - sign( w*x -b)
+
