@@ -159,4 +159,14 @@ for {
 
 ## cookie
 - http.Cookie
-- 
+
+## http listen and serve tls
+
+## request
+- request:
+  - URL
+    - schema
+    - host
+    - path
+    - query
+    - fragment
