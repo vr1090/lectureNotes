@@ -19,6 +19,12 @@
     - sign( w*x -b)
     - ||w|| ini perlu di minimize
     - kernel, make non linear
-- math notation
-    - sigma and pi
+    - accuracy ... compare one model with another
+
+### notation and definition
+- scalar .. is a value
+- vector .. is attribute
+- set unordered value .. put in caligraph 
+    - [a,b] value dari a sampai b
+    - (a,b) ini value antara a dan b tapi engga ada a dan b
     
