@@ -170,3 +170,11 @@ for {
     - path
     - query
     - fragment
+- query bisa dapet dari form field
+- r.Header
+  - header itu map
+- body itu io.ReadCloser
+- form:
+  - r.ParseForm()
+  - r.Form
+- r.FormValue .. ini helper buat ambil form value

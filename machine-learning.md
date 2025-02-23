@@ -18,6 +18,7 @@
     - plotting based on dimension
     - sign( w*x -b)
     - ||w|| ini perlu di minimize
+    - kernel, make non linear
 - math notation
     - sigma and pi
     
