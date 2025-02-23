@@ -19,4 +19,8 @@
     - median
     - percentile
 - weighted mean
-
+- estimate of variability
+- percentile, P% take this value or less
+- IQR, interquartile range
+- MAD statistics ... median of absolute deviation
+- histogram ... kasih bin, terus kasih count
