@@ -10,4 +10,13 @@
 - data analyst
     - rectangular data
     - dataframe, feature, outcome, records
+- feature ... to predict a target
+- central tendecy of each variable
+    - mean
+        - x bar , means you got from sample
+    - trimmed mean
+    - robust
+    - median
+    - percentile
+- weighted mean
 
