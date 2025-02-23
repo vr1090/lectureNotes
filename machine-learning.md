@@ -27,4 +27,16 @@
 - set unordered value .. put in caligraph 
     - [a,b] value dari a sampai b
     - (a,b) ini value antara a dan b tapi engga ada a dan b
-    
+- R itu minus infinity sampai plus infinity
+- S <- S1 n S2
+- = (def) defined as
+
+### ML algorithm
+- linear regression
+    - overfitting
+    - gradient descent
+- logistics regression
+    - not regression, but clasification
+    - multiclass
+- SVM
+    - kernel trick, higher dimension
