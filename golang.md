@@ -178,3 +178,7 @@ for {
   - r.ParseForm()
   - r.Form
 - r.FormValue .. ini helper buat ambil form value
+
+## threading
+- GOMAXPROCS, buat golang max kernel threads
+- M:N, M user thread, mapping the N kernel threads
