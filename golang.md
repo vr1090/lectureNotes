@@ -182,3 +182,14 @@ for {
 ## threading
 - GOMAXPROCS, buat golang max kernel threads
 - M:N, M user thread, mapping the N kernel threads
+- LRQ ... run local queue, ini di assign ke tiap kernel threads
+- runtime.GoSched()
+- concurrency ---> planning
+  - parallelism --> executing
+
+## thread communication, memory sharing
+- cache write through ---> kalo write flush ke memory, ada listener di cache, kalo memory diwrite, langsung invalidate cache
+  - susah scale, kalo cpu nambah, nanti engga optimize
+  - coherency wall
+- escaped to the heap
+- go run -race namaScript.go
