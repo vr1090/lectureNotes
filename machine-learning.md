@@ -40,3 +40,14 @@
     - multiclass
 - SVM
     - kernel trick, higher dimension
+
+### machine learning
+- core: data, model, learning
+- extract valuable pattern from data
+- data as vector
+- vector:
+    - array of number
+    - scale and direction
+    - adhere addition and multiplication
+- model:
+    - something that generates data
