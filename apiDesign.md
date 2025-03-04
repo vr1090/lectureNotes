@@ -10,3 +10,7 @@
 - operational aspect of a system:
     - operational .. jalan .. bisa dipanggil
     - nonoperational .. latency ... memory
+
+## standard method
+- what is side effects?
+- strong consistency ... read your write
