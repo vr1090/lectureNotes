@@ -20,4 +20,5 @@
 
 ## partial update and retrieval
 - field mask
+- cuma kasih field yg mau dilihat dan diupdate
 - 
