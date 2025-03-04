@@ -14,3 +14,10 @@
 ## standard method
 - what is side effects?
 - strong consistency ... read your write
+- update, pake patch ... partial modification of a resource
+- resource focus or action focus?
+- update semuanya, satu gelondongan. pake PUT
+
+## partial update and retrieval
+- field mask
+- 
