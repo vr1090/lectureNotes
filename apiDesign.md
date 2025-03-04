@@ -21,4 +21,5 @@
 ## partial update and retrieval
 - field mask
 - cuma kasih field yg mau dilihat dan diupdate
-- 
+- GET , there is no body
+- field mask, taruh diquery parameter
