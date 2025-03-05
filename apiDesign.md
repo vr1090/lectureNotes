@@ -29,3 +29,5 @@
 - PII should not part of the url
 - kalau balikin list, selalu ada pagination-nya
 - OAS, open api specification
+- grpcurl
+- HTTP3 is using QUIC, QUIC is based on UDP
