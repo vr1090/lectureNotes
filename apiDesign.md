@@ -23,3 +23,9 @@
 - cuma kasih field yg mau dilihat dan diupdate
 - GET , there is no body
 - field mask, taruh diquery parameter
+
+## api mastery
+- microsoft guideline, MUST, SHOULD, SHOULD NOT
+- PII should not part of the url
+- kalau balikin list, selalu ada pagination-nya
+- OAS, open api specification
