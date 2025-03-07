@@ -60,3 +60,5 @@
 
 ## service mesh
 - traffic for internal communication
+- do you need one?
+    - does there is requirement on how one service connect to other service?
