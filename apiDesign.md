@@ -38,3 +38,25 @@
 - contract
 - stub
 - consumer driven contract
+- contract testing tools: pact
+
+## c4 diagram
+- software system made of several container
+- dalam container ada component
+- diagram are maps
+- name, title and type
+- uni directional line
+
+## api gateway
+- coupling, cohesion, information hiding
+- low couping, high cohesion
+- api lifecycle: create, control, consume
+- from hardware to software
+- application delivery controller
+- ambassador edge stack, CNCF graduated
+- microservices: smart endpoint, dump pipes
+- common api gateway pitfall
+- build vs buy dilema
+
+## service mesh
+- traffic for internal communication
