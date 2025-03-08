@@ -62,3 +62,16 @@
 - traffic for internal communication
 - do you need one?
     - does there is requirement on how one service connect to other service?
+- what is service mesh?
+    - service to service
+    - east-west traffic
+- traffic out trough mesh gateway
+- istio:
+    - virtual service
+    - destination rules
+- network segmentation with consul
+
+
+## api security
+- DFD data flow diagram
+- boundary
