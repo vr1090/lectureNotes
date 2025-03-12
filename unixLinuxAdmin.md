@@ -23,3 +23,11 @@
     - OSCON -> OSS
     - velocity -> web related
     - defcon -> security
+
+
+## 2. boot process
+- boot in general
+    - find, load and run bootstrap
+    - find load and run kernel
+    - find load and run init system
+    - maintain the process cleanliness
