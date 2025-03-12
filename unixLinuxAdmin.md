@@ -31,3 +31,9 @@
     - find load and run kernel
     - find load and run init system
     - maintain the process cleanliness
+- UEFI ... unified extendable firmware interface
+- MBR -> volume boot record
+- init :
+    - single user mode, engga ada service yg jalan
+    - multi user mode
+    - server mode, hampir sama kayak single user mode
