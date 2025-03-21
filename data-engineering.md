@@ -23,3 +23,8 @@
 - type A and type B
     - A for analyst
     - B for Builder
+
+## data arch
+- one door, two door principle
+    - two door bisa di reverse
+

@@ -37,3 +37,7 @@
     - single user mode, engga ada service yg jalan
     - multi user mode
     - server mode, hampir sama kayak single user mode
+- systemd:
+    - journald
+    - logind
+    - networkd
