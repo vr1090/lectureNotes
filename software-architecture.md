@@ -6,3 +6,11 @@
     - scalaibility
     - avaliability
     - performance
+
+## achitectural pattern
+- big ball of mud architecture pattern
+- layered approach
+    - presentation
+    - business layer
+    - persistence layer
+    - database layer
