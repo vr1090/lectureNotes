@@ -17,4 +17,5 @@
 - pattern governance
 - micro kernel
     - plugin architecture
-    
+    - butuh registry
+        - ini buat list plugin yg ada
