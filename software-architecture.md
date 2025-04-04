@@ -19,3 +19,6 @@
     - plugin architecture
     - butuh registry
         - ini buat list plugin yg ada
+    - adapter pattern
+        - biar engga banyak perubahan di core
+- lint test, check file, find bugs
