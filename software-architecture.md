@@ -15,3 +15,6 @@
     - persistence layer
     - database layer
 - pattern governance
+- micro kernel
+    - plugin architecture
+    
