@@ -9,3 +9,4 @@
     - kalo delete product, ada customer yg bakalan ilang?
 - RDBMS -> maintain database -> maintains table
 - string data type single quote
+- join on clause
