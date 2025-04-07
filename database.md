@@ -16,3 +16,9 @@
     - right join
     - full outer join
 
+## entity design
+- single name
+- camelCase
+- superkey -> set of column, use as key
+- candidate key --> set of minimum column
+- primary key -->  one of candidate key
