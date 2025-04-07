@@ -10,3 +10,9 @@
 - RDBMS -> maintain database -> maintains table
 - string data type single quote
 - join on clause
+- join:
+    - inner join
+    - left join
+    - right join
+    - full outer join
+
