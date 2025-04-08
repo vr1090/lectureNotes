@@ -22,3 +22,6 @@
 - superkey -> set of column, use as key
 - candidate key --> set of minimum column
 - primary key -->  one of candidate key
+- char --- ini buat yg length stabil
+- varchar ... buat yg variatif
+- Text ... buat string yang lumayan panjang, misal artikel
