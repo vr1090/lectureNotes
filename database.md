@@ -43,3 +43,4 @@
 ## normalization and implementation
 - normalize, breakdown database into smaller table
 - BCNF, semua field cuma ada functional depedencies ke primary key
+- database constraint
