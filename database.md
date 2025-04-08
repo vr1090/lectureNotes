@@ -29,4 +29,5 @@
 - numeric atau decimal ... ini buat yg acurracy penting
 - precision ... jumlah digit
 - scale ... jumlah digit setelah koma
-
+- time related
+    - date, time, datetime, timestamp
