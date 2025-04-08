@@ -33,4 +33,6 @@
     - date, time, datetime, timestamp
 
 ## relationship
-- 
+- dari requirement
+- buat garis ... entitas yg berhubungan
+
