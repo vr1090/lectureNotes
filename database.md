@@ -25,3 +25,5 @@
 - char --- ini buat yg length stabil
 - varchar ... buat yg variatif
 - Text ... buat string yang lumayan panjang, misal artikel
+- jangan pakai float atau double buat accuracy
+- numeric atau decimal ... ini buat yg acurracy penting
