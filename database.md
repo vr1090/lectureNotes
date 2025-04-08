@@ -35,4 +35,7 @@
 ## relationship
 - dari requirement
 - buat garis ... entitas yg berhubungan
-
+- cardinality
+    - dari requirement
+    - min cardinality, max cardinality
+- yg cardinality 0, taruh foreign key
