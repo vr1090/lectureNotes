@@ -31,3 +31,6 @@
 - scale ... jumlah digit setelah koma
 - time related
     - date, time, datetime, timestamp
+
+## relationship
+- 
