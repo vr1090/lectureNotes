@@ -39,3 +39,6 @@
     - dari requirement
     - min cardinality, max cardinality
 - yg cardinality 0, taruh foreign key
+
+## normalization and implementation
+- normalize, breakdown database into smaller table
