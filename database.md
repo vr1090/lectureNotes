@@ -27,3 +27,6 @@
 - Text ... buat string yang lumayan panjang, misal artikel
 - jangan pakai float atau double buat accuracy
 - numeric atau decimal ... ini buat yg acurracy penting
+- precision ... jumlah digit
+- scale ... jumlah digit setelah koma
+
