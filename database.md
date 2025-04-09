@@ -53,3 +53,22 @@ alter table review
  value(restrict,cascade)
 ```
 -  unique , another constraint again
+-  timestamp with time zone, without time zone
+- default value
+
+## security and optimization
+- security
+    - integrity
+    - confidentiality
+    - access control
+        - mandatory access control
+            - strict
+    - RBAC : pake roles
+        - user assign to this role
+    - encryption
+        - one way .. ini hashing
+- indexing
+    - btree
+    - primary_key automatically indexed
+
+        
