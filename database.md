@@ -44,6 +44,11 @@
 - normalize, breakdown database into smaller table
 - BCNF, semua field cuma ada functional depedencies ke primary key
 - database constraint
+    - apply to column, to make sure data integrity
+    - type
+        - NOT NULL
+        - PRIMARY KEY
+    - bisa pakai nama, constraint pk_user primary key(user)
 ```
 constraint fk_user_review foreign key(email) references user(email)
 alter table review
