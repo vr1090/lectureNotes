@@ -44,3 +44,12 @@
 - normalize, breakdown database into smaller table
 - BCNF, semua field cuma ada functional depedencies ke primary key
 - database constraint
+```
+constraint fk_user_review foreign key(email) references user(email)
+alter table review
+ add constraint fk_user_review foreign key(email) references user(email)
+ ON DELETE RESTRICT
+ ON UPDATE RESTRICT
+ value(restrict,cascade)
+
+```
