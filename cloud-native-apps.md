@@ -33,3 +33,20 @@
 - Springapplication
     - configuration
     - componentScan
+
+## cloud native design principle
+- dependability
+    - as expected by the user
+    - failure and error much lower than what is expected by the user
+    - avaliability
+    - MBTF: mean time between failure
+    - maintainability
+- dealing with fault
+    - forecast
+    - prevent
+    - removal
+    - tolerance
+- static analysis
+    - analysis of code, without running the program
+- dynamic analysis
+    - simply testing
