@@ -51,5 +51,5 @@ alter table review
  ON DELETE RESTRICT
  ON UPDATE RESTRICT
  value(restrict,cascade)
-
 ```
+-  unique , another constraint again
