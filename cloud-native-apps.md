@@ -50,3 +50,11 @@
     - analysis of code, without running the program
 - dynamic analysis
     - simply testing
+- twelve factor apps
+    - one code base
+    - explicit declare dependencies
+    - store config in environment
+    - treat backing service as resorces
+    - build, release run
+    - stateless process
+    - data isoloation
