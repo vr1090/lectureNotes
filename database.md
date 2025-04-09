@@ -70,5 +70,8 @@ alter table review
 - indexing
     - btree
     - primary_key automatically indexed
+    ```
+    create index idx_apalh on movie(title)
+    ```
 
         
