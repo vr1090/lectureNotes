@@ -58,3 +58,10 @@
     - build, release run
     - stateless process
     - data isoloation
+
+## managebility
+- bisa ngubah behaviour system,tanpa ubah source code
+- service discovery
+- config 
+    - lepas dari source code
+    - di manage sama version control
