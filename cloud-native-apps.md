@@ -73,3 +73,6 @@
 ## observability
 - monitoring: collecting data
 - obervability: understanding why the system behave based on log, metric, traces
+- traces:
+    - span
+    - traces
