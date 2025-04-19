@@ -65,3 +65,7 @@
 - config 
     - lepas dari source code
     - di manage sama version control
+- command line parser
+    - flags
+    - cobra
+    - viper
