@@ -13,3 +13,8 @@
 - <BOS> beginiing of a sentence
 - <EOS> end of sentence
 - foundational model ... ini bisa nerima beberapa modalities, pict, sound text
+- RAG ... retrieval, augmented , generation
+- AI engineering tools: ollama, autogpt
+- AWS on AI: customer experience, employee productivity
+- MMLU ... massive multitask language understanding
+- 
