@@ -17,4 +17,13 @@
 - AI engineering tools: ollama, autogpt
 - AWS on AI: customer experience, employee productivity
 - MMLU ... massive multitask language understanding
-- 
+- AI stack:
+    - infra
+    - model development
+    - application development
+- training:
+    - pre
+    - finetuning
+    - post training
+- ai developer biasanya pake finetuning
+- training pake promt, itu promt engineering
