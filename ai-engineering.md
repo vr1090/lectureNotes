@@ -8,3 +8,8 @@
         - masked ... fill in the blank
         - autogenerative model .. cuma bisa lanjut ke depan
             - ini yg paling dipake saat ini
+    - prediction, based on probabilities
+- post training ... buat tuning model biar jalan lebih ok
+- <BOS> beginiing of a sentence
+- <EOS> end of sentence
+- foundational model ... ini bisa nerima beberapa modalities, pict, sound text
