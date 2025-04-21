@@ -27,3 +27,6 @@
     - post training
 - ai developer biasanya pake finetuning
 - training pake promt, itu promt engineering
+
+## foundation model
+- transformer architecture, with attention mechanism
