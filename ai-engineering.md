@@ -30,3 +30,5 @@
 
 ## foundation model
 - transformer architecture, with attention mechanism
+- basisnya seq2seq, ini dipake sama google translate
+    - seq2seq terlalu slow
