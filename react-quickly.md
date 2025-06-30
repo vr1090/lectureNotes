@@ -1,4 +1,13 @@
 ### react quickly
 - CRA --> create react app
 - build -> make it production ready
+    - bakalan taruh di build folder
 - eject -> open the inner working
+- structure ->
+    - public
+    - src
+    - package.json
+- public ada html files
+- src ada:
+    - index.js
+    - App.js
