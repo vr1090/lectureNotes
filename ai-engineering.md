@@ -33,3 +33,8 @@
 - basisnya seq2seq, ini dipake sama google translate
     - seq2seq terlalu slow
 - FLOPS floating point operation per second
+- promt and response
+
+## promt engineering
+- guide model behavior without fine tunning
+- 
