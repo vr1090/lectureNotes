@@ -11,3 +11,15 @@
 - src ada:
     - index.js
     - App.js
+- perlu template 
+    - --template namaTemplate
+- ${this.props.framework}
+
+## react brad
+- most javascript framework is different syntax
+- component
+  - reusable
+  - custom html element
+- props itu arguments or attribute
+- hooks --> buat pakai state
+
