@@ -22,4 +22,6 @@
   - custom html element
 - props itu arguments or attribute
 - hooks --> buat pakai state
+- vite ... framework javascript
+
 
