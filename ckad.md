@@ -33,4 +33,10 @@
     - ke base64
 
 
+## limitRange
+- kasih nilai default ke pod atau container
+- kasih nilai minMax ke pod atau container
+
+## requestquota
+- itu buat satu namespace semua
 
