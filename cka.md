@@ -29,3 +29,8 @@
   - x509 client certificate
   - bearer token
   - basic auth
+- bikin user
+  - bikin private key
+  - generate csr
+  - csr di sign sama cluster jadi crt
+  - crt sama key itu yg bakalan dipake
