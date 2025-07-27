@@ -1,0 +1,31 @@
+## intro
+- ini exam paan:
+  - install
+  - networking
+  - storage
+  - troubleshoot
+  - node
+- ujian:
+  - 25% architecture, instaltion, config
+  - 20% service networking
+  - 30% troubleshooting
+  - 10% storage
+- install cluster:
+  - kubeadm tools
+- database:
+  - etcdctl
+
+## cluster management
+- RBAC
+  - subject
+    - service account
+    - user
+    - group
+  - resource
+    - api resource .. pod etc
+  - verb
+    - list, get update delete
+- user
+  - x509 client certificate
+  - bearer token
+  - basic auth
