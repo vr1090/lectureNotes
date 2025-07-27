@@ -34,3 +34,5 @@
   - generate csr
   - csr di sign sama cluster jadi crt
   - crt sama key itu yg bakalan dipake
+- user
+  - kubectl auth can-i --list --as johndoe
