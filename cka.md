@@ -36,3 +36,10 @@
   - crt sama key itu yg bakalan dipake
 - user
   - kubectl auth can-i --list --as johndoe
+
+## catatan latihan soal
+### no 8,12,13
+- scheduling
+- install uninstall
+- etcd, coredns
+
