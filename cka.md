@@ -43,3 +43,5 @@
 - install uninstall
 - etcd, coredns
 
+## soal CKA
+
