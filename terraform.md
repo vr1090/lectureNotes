@@ -57,3 +57,6 @@ variable apalah{
 
 tupple using []
 ```
+
+## resource
+- pake "${}"
