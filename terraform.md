@@ -38,6 +38,9 @@
 - terraform output
     - value
     - description
+- -var options
+- -var key=value
+- keep repeating
 
 ## object
 ```
