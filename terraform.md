@@ -43,6 +43,9 @@
 - keep repeating
 - TF_VAR_name
     - pake export
+- pake file
+    - terraform.tfvars
+    - terraform.tfvars.json
 
 ## object
 ```
