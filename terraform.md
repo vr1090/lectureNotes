@@ -38,4 +38,14 @@
 - terraform output
     - value
     - description
-    
+
+## object
+```
+variable apalah{
+    type = object({
+        name = string
+    })
+}
+
+tupple using []
+```
