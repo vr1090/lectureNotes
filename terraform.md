@@ -41,6 +41,8 @@
 - -var options
 - -var key=value
 - keep repeating
+- TF_VAR_name
+    - pake export
 
 ## object
 ```
