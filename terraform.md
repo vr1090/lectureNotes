@@ -60,3 +60,5 @@ tupple using []
 
 ## resource
 - pake "${}"
+- di dalem:
+    - depends_on=[]
