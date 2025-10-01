@@ -111,6 +111,9 @@
 - ada weak adan strong
 - strong and weak
 
+## oct 1, 2025
+- enschulden ... debt
+
 
 
 
