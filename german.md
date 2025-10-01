@@ -113,6 +113,8 @@
 
 ## oct 1, 2025
 - enschulden ... debt
+- verbrechen ... crime
+
 
 
 
