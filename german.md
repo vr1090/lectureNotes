@@ -114,7 +114,13 @@
 ## oct 1, 2025
 - enschulden ... debt
 - verbrechen ... crime
+- beweise ... evidence
+- verfehlen ... missed
 
+## oct 4
+- zugeben ... admit
+- abgeschlossen ... completed
+- 
 
 
 
