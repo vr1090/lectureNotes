@@ -24,3 +24,6 @@
 - hachi.ji.ni
 - kyu.ji.ni
 - nan.ji.des.ka ... what time is it
+- nin.ji.des.. its 2 o clock
+- go.ji.des ... 5 oclock
+- san.ji.des ... 3 oclock
