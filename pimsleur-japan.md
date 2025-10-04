@@ -14,3 +14,7 @@
 ## chapter 10
 - shitai.desu ... to do something
 - oengai.shima.su ... please
+- eight ... hachi.ji.ni
+- wakarimasta ... understood
+- tabe.masen.ka ... would you like to eat
+  - ini pake masen
