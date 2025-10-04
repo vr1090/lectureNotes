@@ -18,3 +18,9 @@
 - wakarimasta ... understood
 - tabe.masen.ka ... would you like to eat
   - ini pake masen
+- watashi.to ... with me
+- anatano .. dokoro ..de ..
+- nan.ji.ni ... at what time
+- hachi.ji.ni
+- kyu.ji.ni
+- nan.ji.des.ka ... what time is it
