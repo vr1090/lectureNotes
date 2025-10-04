@@ -10,3 +10,7 @@
 - ie .. no, kagak
 - watashi-wa-wakarimasen
 - sen in the end
+
+## chapter 10
+- shitai.desu ... to do something
+- oengai.shima.su ... please
