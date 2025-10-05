@@ -27,3 +27,25 @@
 - nin.ji.des.. its 2 o clock
 - go.ji.des ... 5 oclock
 - san.ji.des ... 3 oclock
+
+## chapter 11
+- shite.imas.ka ... do you know
+- tabe.masen.ka ... pengen makan ga?
+- when ... itsu
+- repeat please ... kuri.kai.kudasai
+- roku.ju.ni ... jam 6
+- shi.chi.ji.ni ... jam 7
+- ja ... then, in that case
+- ha.chi.ni ... jam 8
+- malem ... konban
+- dinner ... ban.go.han
+- 10 o clock ... ju.ji.nu
+- tommorow ... as.ta
+- and ... sos.te
+- this evening ... kon.ban
+- evening meal ... ban.go.han
+- to.ko.ro.de ... my place
+
+
+
+

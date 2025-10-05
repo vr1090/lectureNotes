@@ -524,6 +524,10 @@ volumes:
 - kubectl certificate approve jane
 - kube controller manager .. ini yg handle signing certificate
 
+## kubernetes
+- cloud controller manager
+- 
+
 
 
 
