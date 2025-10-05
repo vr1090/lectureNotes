@@ -32,7 +32,7 @@
 - shite.imas.ka ... do you know
 - tabe.masen.ka ... pengen makan ga?
 - when ... itsu
-- repeat please ... kuri.kai.kudasai
+- repeat please ... kuri.kai.s.te.kudasai
 - roku.ju.ni ... jam 6
 - shi.chi.ji.ni ... jam 7
 - ja ... then, in that case
@@ -45,6 +45,9 @@
 - this evening ... kon.ban
 - evening meal ... ban.go.han
 - to.ko.ro.de ... my place
+- de.mo.ki.te.ku.da.sai ... listen please
+- ja ma.ta.as.ta .. see you tommorow
+
 
 
 
