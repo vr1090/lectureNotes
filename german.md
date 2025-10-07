@@ -120,7 +120,10 @@
 ## oct 4
 - zugeben ... admit
 - abgeschlossen ... completed
-- 
+
+## oct 8
+- erwahnen ... mention
+- verschwenden ... buang
 
 
 
