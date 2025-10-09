@@ -91,5 +91,8 @@
     - tcp sync
         - reply with ack
     - can be used as server
+- nmap
+    - using sudo ... using raw packet
+    - not sudo using berkeley API
 
 
