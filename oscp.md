@@ -80,5 +80,6 @@
     - pelajarin lagi
 
 ## 6. information gathering
+- whois ... domain gthering
 
 
