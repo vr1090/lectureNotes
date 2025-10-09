@@ -125,6 +125,10 @@
 - erwahnen ... mention
 - verschwenden ... buang
 
+## oct 9
+- unter us ... among us
+- 
+
 
 
 
