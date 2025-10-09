@@ -90,5 +90,6 @@
 - netcat 
     - tcp sync
         - reply with ack
+    - can be used as server
 
 
