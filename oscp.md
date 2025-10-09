@@ -84,4 +84,11 @@
 - shodan ... hostname: megacorp
 - host 
     - host -t mx apalah.com
+- dnsrecon 
+    - -d domain
+    - -t the type
+- netcat 
+    - tcp sync
+        - reply with ack
+
 
