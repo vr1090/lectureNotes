@@ -81,5 +81,7 @@
 
 ## 6. information gathering
 - whois ... domain gthering
-
+- shodan ... hostname: megacorp
+- host 
+    - host -t mx apalah.com
 
