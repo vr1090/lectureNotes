@@ -127,6 +127,8 @@
 
 ## oct 9
 - unter us ... among us
+- um den zug erwischen ... get caught
+- abmachung treffen ... make a deal
 - 
 
 
