@@ -95,4 +95,22 @@
     - using sudo ... using raw packet
     - not sudo using berkeley API
 
+## vulnerability scanning
+- tools
+    - nessus
+    - nmap
+- type
+    - web application
+    - network scanner
+- cvss
+    - common vuln scoring system
+    - low, medium, high
+- nessus
+    - basic network scan
+    - advance ... if you want to costumize
+- nmap
+    - /usr/share/nmap/scripts
+    - nmap -sV 
+    - nmap --script "vuln"
+
 
