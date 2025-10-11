@@ -115,4 +115,14 @@
     - nse script, find it in github
     - sudo nmap --script-updatedb
 
+## web app
+- xss
+    - code jalan di user lain
+    - tipe
+        - stored
+            - database, cache
+        - reflected
+            - url
+    - url encoding, as percent encoding
+
 

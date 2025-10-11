@@ -129,7 +129,10 @@
 - unter us ... among us
 - um den zug erwischen ... get caught
 - abmachung treffen ... make a deal
-- 
+
+## oct 11
+- gesturz ... overthrown
+- belegt ... busy
 
 
 
