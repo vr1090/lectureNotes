@@ -112,5 +112,7 @@
     - /usr/share/nmap/scripts
     - nmap -sV 
     - nmap --script "vuln"
+    - nse script, find it in github
+    
 
 
