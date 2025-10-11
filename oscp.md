@@ -113,6 +113,6 @@
     - nmap -sV 
     - nmap --script "vuln"
     - nse script, find it in github
-    
+    - sudo nmap --script-updatedb
 
 
