@@ -8,7 +8,7 @@
 - kafka cluster
   - multiple broker .. ini server
 - broker 
-  - ahndle topic partition
+  - handle topic partition
   - connect satu, connect ke whole cluster
   - partition is like a file
 - replication factor ... between 2 and 3
@@ -17,3 +17,10 @@
   - broker leader of one partition
   - ISR ... in sync replica
 - election leader
+- producers ...
+  - write data to topic
+  - atomatis which broker and partition
+  - can choose ACK or confirmation
+    - ack 0 ... no need to wait
+    - ack 1 ... wait for cluter to ack
+    - 
