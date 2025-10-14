@@ -16,4 +16,4 @@
 - leader of parition
   - broker leader of one partition
   - ISR ... in sync replica
-  
+- election leader
