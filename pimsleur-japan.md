@@ -57,6 +57,8 @@
 - ja.mata.ash.ta ... see you again tommorow
 - ato.de ... later
 - four o clock ... yoji.desu
+- today .. kyo
+- kyo.wa.hiru.gohan.tabe.masen ... hari ini engga makan siang
 
 
 
