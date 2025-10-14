@@ -23,4 +23,12 @@
   - can choose ACK or confirmation
     - ack 0 ... no need to wait
     - ack 1 ... wait for cluter to ack
-    - 
+    - ack=all leader and replicas ok
+  - message key ... string number
+    - key = null send round robin
+    - sent .. always to same partition
+- consumer read data from topic
+  - read in order, in each partition
+  - read on each partition
+- consumer group
+  - consumer group is application 
