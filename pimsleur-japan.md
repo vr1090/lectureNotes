@@ -54,6 +54,11 @@
 - oso.sugi.mas ... it's too late
 - later .. ato.de
 - ma.ta ... again
+- ja.mata.ash.ta ... see you again tommorow
+- ato.de ... later
+- four o clock ... yoji.desu
+
+
 
 
 
