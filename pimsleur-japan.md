@@ -39,7 +39,7 @@
 - ha.chi.ni ... jam 8
 - malem ... konban
 - dinner ... ban.go.han
-- 10 o clock ... ju.ji.nu
+- 10 o clock ... ju.ji.ni
 - tommorow ... as.ta
 - and ... sos.te
 - this evening ... kon.ban
@@ -47,6 +47,13 @@
 - to.ko.ro.de ... my place
 - de.mo.ki.te.ku.da.sai ... listen please
 - ja ma.ta.as.ta .. see you tommorow
+
+## chapter 12
+- moshi moshi
+- asta no ban .. tommorow evening
+- oso.sugi.mas ... it's too late
+- later .. ato.de
+- ma.ta ... again
 
 
 
