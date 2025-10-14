@@ -2,3 +2,18 @@
 - topic ... mirip kayak table
 - partition ... split partition
 - offset ... incremental id
+- data kept for one week
+- immutability ... it can not be changed
+- data assigned randomly to partition
+- kafka cluster
+  - multiple broker .. ini server
+- broker 
+  - ahndle topic partition
+  - connect satu, connect ke whole cluster
+  - partition is like a file
+- replication factor ... between 2 and 3
+  - 3 is gold standard
+- leader of parition
+  - broker leader of one partition
+  - ISR ... in sync replica
+  
