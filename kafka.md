@@ -31,4 +31,14 @@
   - read in order, in each partition
   - read on each partition
 - consumer group
-  - consumer group is application 
+  - consumer group is application
+- delivery semantic
+  - at most one
+    - commited as soon as the message received
+  - at least one
+    - after the message processed
+  - idempotent your system
+  - ecatly once
+    - kafka stream api
+    - kafka to kafka
+    
