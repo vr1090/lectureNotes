@@ -41,4 +41,13 @@
   - ecatly once
     - kafka stream api
     - kafka to kafka
-    
+  - broker discovery
+    - bootstrap server
+      - connect to whole cluster
+- zookeeper
+  - managed broker
+  - leader election
+  - kafka can not work without zookeeper
+  - zooker operates with odd number of server (3,5,7)
+  - zookeper has leader and followers
+
