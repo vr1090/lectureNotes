@@ -5,4 +5,8 @@
 
 ## sharded services
 - stateful service
-- 
+
+## scatter/gatter
+- ada root yg bagi2 kerja
+  - kirim
+  - merge
