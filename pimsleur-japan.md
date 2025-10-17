@@ -78,8 +78,14 @@
 - mo .. too
 - kyo .. today
 - kyo wa ... hari ini adalah
-- 
-
+- sore-to-mo ... atau engga
+  - sore-to-mo ni ji ni
+- ikura ... how much
+  - ikura desho ka
+- desu .. kaya is
+- hachi ... delapan
+- nana-en ... 7 yen
+- seven oclock ... si-ci-ji
 
 
 
