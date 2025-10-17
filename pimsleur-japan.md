@@ -72,7 +72,13 @@
 - ato.de ... later
 - not later .. ato de ja arimasen
 - again ... mata
-
+- ima .. now
+- juu ji desu 
+- yoji .. jam 4
+- mo .. too
+- kyo .. today
+- kyo wa ... hari ini adalah
+- 
 
 
 
