@@ -10,3 +10,5 @@
 - ada root yg bagi2 kerja
   - kirim
   - merge
+- index
+  - hashtable like book
