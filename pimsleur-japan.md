@@ -60,7 +60,7 @@
 - today .. kyo
 - kyo.wa.hiru.gohan.tabe.masen ... hari ini engga makan siang
 
-## chapter 13
+## chapter 12
 - moshi
 - mochi do kite kudasai ... please listen again
 - konban ... evening
