@@ -60,6 +60,18 @@
 - today .. kyo
 - kyo.wa.hiru.gohan.tabe.masen ... hari ini engga makan siang
 
+## chapter 13
+- moshi
+- mochi do kite kudasai ... please listen again
+- konban ... evening
+- asta no ban ... tommorow
+- today ... kyo
+- go ji wa .. how about 5 o clock
+- kite kudasai ... listen
+- oso.sugi.mas ... late
+- ato.de ... later
+- not later .. ato de ja arimasen
+- again ... mata
 
 
 
