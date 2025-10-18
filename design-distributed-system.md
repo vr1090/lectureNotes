@@ -19,4 +19,6 @@
 - highly decoupled
 - small footprint
 - event based
+- decorator pattern
+- kubeless ... framework buat serverless di kubernetes
 
