@@ -25,5 +25,8 @@
 - webhook action
 
 ## ownership pattern
+- leader election
+- one leader, what happen when leader is down?
+
 
 
