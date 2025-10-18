@@ -36,7 +36,10 @@
   - zookeeper
 - etcd
   - distributed lock server
-  
+
+## batch processing pattern
+- mapreduce ... this is industry standard
+
 
 
 
