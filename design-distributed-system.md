@@ -12,3 +12,11 @@
   - merge
 - index
   - hashtable like book
+- overheard
+  - strangler problem
+
+## FAAS
+- highly decoupled
+- small footprint
+- event based
+
