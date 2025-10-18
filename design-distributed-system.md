@@ -30,7 +30,13 @@
 - distributed leader election:
   - PAXOS
   - RAFT
-- 
+- off the rack
+  - etcd
+  - consul
+  - zookeeper
+- etcd
+  - distributed lock server
+  
 
 
 
