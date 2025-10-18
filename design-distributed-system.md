@@ -21,4 +21,9 @@
 - event based
 - decorator pattern
 - kubeless ... framework buat serverless di kubernetes
+- openFaas, iodc security
+- webhook action
+
+## ownership pattern
+
 
