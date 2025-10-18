@@ -27,6 +27,10 @@
 ## ownership pattern
 - leader election
 - one leader, what happen when leader is down?
+- distributed leader election:
+  - PAXOS
+  - RAFT
+- 
 
 
 
