@@ -39,7 +39,8 @@
 
 ## batch processing pattern
 - mapreduce ... this is industry standard
-
+- worker pattern
+- kubernetes keda
 
 
 
