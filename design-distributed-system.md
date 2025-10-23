@@ -42,5 +42,10 @@
 - worker pattern
 - kubernetes keda
 
+## even driven
+- copier
+  - copy dari satu topic, ke topic lain
+
+
 
 
