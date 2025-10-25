@@ -46,6 +46,14 @@
 - copier
   - copy dari satu topic, ke topic lain
 
+## monitoring and observability
+- core:
+  - logging
+  - metric
+  - alert
+  - tracing
+
+
 
 
 
