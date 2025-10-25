@@ -65,6 +65,7 @@
 
 ## AI
 - inference ... the output is unknown
+- SLM ... small language model
 
 
 
