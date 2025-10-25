@@ -52,7 +52,11 @@
   - metric
   - alert
   - tracing
-
+- histogram ... bin of value
+- count ... always increasing
+  - rate ... how fast it increases
+- prometheus push gateway
+- 
 
 
 
