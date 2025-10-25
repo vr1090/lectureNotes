@@ -66,6 +66,8 @@
 ## AI
 - inference ... the output is unknown
 - SLM ... small language model
+- ONNX ... open neural network exchange
+- hugging face .. docker for AI
 
 
 
