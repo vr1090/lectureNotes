@@ -56,7 +56,10 @@
 - count ... always increasing
   - rate ... how fast it increases
 - prometheus push gateway
-- 
+- common metric
+  - request
+  - latency
+  - rate of request
 
 
 
