@@ -60,7 +60,11 @@
   - request
   - latency
   - rate of request
+- alerting
+  - CRI ... customer report incident
 
+## AI
+- inference ... the output is unknown
 
 
 
