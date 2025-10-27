@@ -68,6 +68,8 @@
 - SLM ... small language model
 - ONNX ... open neural network exchange
 - hugging face .. docker for AI
-
+- cache the model?
+  - model stored in NFS
+- 
 
 
