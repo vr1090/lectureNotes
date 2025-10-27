@@ -1,0 +1,15 @@
+## intro
+- consistency
+  - in server
+    - replication
+    - consensus
+    - conflict resolutions
+  - in database
+    - write ahead log
+    - locking
+    - data versioning
+- reliability
+  - MBTF ... mean time between failure
+  - MTTR ... mean time to repair
+  - MBTF higher is a good sign
+  - MTTR higher is a bad sign
