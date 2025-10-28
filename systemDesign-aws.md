@@ -13,3 +13,12 @@
   - MTTR ... mean time to repair
   - MBTF higher is a good sign
   - MTTR higher is a bad sign
+
+## databse
+- EF COdd
+- relational model
+- entity relationship model
+- normalization
+  - reduce redundancy
+- RDMS arch
+  
