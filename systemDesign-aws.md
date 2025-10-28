@@ -21,4 +21,11 @@
 - normalization
   - reduce redundancy
 - RDMS arch
-  
+  - query processor
+  - execution engine
+  - security manager
+  - storage engine
+  - storage structure
+    - index
+    - data 
+    - logs
