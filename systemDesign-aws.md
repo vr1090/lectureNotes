@@ -13,6 +13,7 @@
   - MTTR ... mean time to repair
   - MBTF higher is a good sign
   - MTTR higher is a bad sign
+- response time = latency + processing time
 
 ## databse
 - EF COdd
