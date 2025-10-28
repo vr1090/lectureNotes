@@ -22,6 +22,8 @@
   - reduce redundancy
 - RDMS arch
   - query processor
+    - AST abstract syntax tree
+    - optimizer ... optimize the AST
   - execution engine
   - security manager
   - storage engine
@@ -29,3 +31,15 @@
     - index
     - data 
     - logs
+- scaling
+  - partitioning
+    - this happens in single database
+    - vertical
+    - horisontal
+  - sharding
+    - happen multiple database
+  - coordinator
+  - replication
+    - multi leader
+    - single leader
+
