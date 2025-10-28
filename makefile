@@ -7,3 +7,5 @@ push:
 	git push
 koplak:
 	echo "setan lu ${cupu}"
+pull:
+	git pull --rebase

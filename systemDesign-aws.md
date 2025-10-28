@@ -44,3 +44,11 @@
     - multi leader
     - single leader
 
+## nonrelational
+- type:
+  - document
+  - key value store
+  - graph
+  - column
+
+
