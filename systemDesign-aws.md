@@ -50,5 +50,14 @@
   - key value store
   - graph
   - column
+- key value store
+  - primary key
+  - partition key
+  - sort key
+- consistent hashing
+  - ring like structure
+- optimistic replication
+- sloppy quorum, last write win
+
 
 
