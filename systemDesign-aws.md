@@ -51,13 +51,30 @@
   - graph
   - column
 - key value store
-  - primary key
-  - partition key
-  - sort key
-- consistent hashing
+  - points:
+    - primary key
+    - partition key
+    - sort key
+  - consistent hashing
   - ring like structure
-- optimistic replication
-- sloppy quorum, last write win
+  - optimistic replication
+  - sloppy quorum, last write win
+- key-value database ... dynamo DB
+  - document organize into collections
+  - avalibility
+    - replica set
+    - primary secondary nodes
+    - heartbeat mechanism
+- mongo DB another document centric database
+- column based database
+  - partition key: data ditaruh dimana
+  - cluster key: urutan order
+  - columnar architecture
+    - commit log ... pertama kali write kesini
+    - memtable ... masih dimemory, sebelum di flush
+    - sstable ... ini di hardisk
+    - bloom filter check buat index scan
+- tombstone ... penanda untuk deletion process
 
 
 ## load balancing approach and techniques
