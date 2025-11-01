@@ -60,4 +60,13 @@
 - sloppy quorum, last write win
 
 
+## load balancing approach and techniques
+- reverse proxy ... dari internet ke dalem
+- forward proxy dari dalem ke internet
+- global load balancer ... ini bisa antar data center
+- local load balancer ... internal data center
+
+
+
+
 
