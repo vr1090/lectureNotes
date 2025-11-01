@@ -65,6 +65,19 @@
 - forward proxy dari dalem ke internet
 - global load balancer ... ini bisa antar data center
 - local load balancer ... internal data center
+- types of load balancer:
+  - DNS load balancer ... route 53, axure traffic manager
+  - ECMP routers ... cisco network switches and juniper network routers
+  - network load balancer, L4
+    - DSR ... direct server return  ... load balancer cuma ganti MAC address
+    - NAT ... destination IP diganti ke internal backend
+    - contoh: network load balancer (NLB) azure load balancer, nginx as TCP and UDP load balancer
+- L7 Load balancer ... ini udah main level protocol application
+  - contoh ... application load balancer (ALB)
+- LB based on configuration
+  - hardware LB: cisco catalyst, f5 big IP
+  - software LB
+    
 
 
 
