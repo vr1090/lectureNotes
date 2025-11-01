@@ -77,7 +77,9 @@
 - LB based on configuration
   - hardware LB: cisco catalyst, f5 big IP
   - software LB
-    
+    - bisa di comodity hardware
+    - contoh : HAproxy and nginx
+
 
 
 
