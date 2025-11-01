@@ -80,6 +80,14 @@
     - bisa di comodity hardware
     - contoh : HAproxy and nginx
 
+## communication network and protocol
+- buat belajar pakai osi, buat real world pakai tcp/ip
+- tcp/ip:
+  - app
+  - transport
+  - network
+  - datalink
+  - physical
 
 
 
