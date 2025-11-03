@@ -106,7 +106,42 @@
   - datalink
   - physical
 
-## containerazation and orchestration
+## architectural design pattern
+- CDC change data capture
+  - buat database
+  - ada column created_at and updated_at
+  - log_based cdc .. ambil log dari database
+  - table delta
+- Pub/sub arch
+  - loose coupled
+  - broker and queue
+  - message queue ... temporary holding pen, sebelum dikirim
+- workflow
+  - choreography
+  - orchestration -> example airflow and aws step function
+  - pake yg mana:
+    - choreo -> kalau scale dan resilence
+    - orchestration -> complex business process
+- big data pattern
+  - lambda arcitecture
+    - satu buat batch
+    - satu buat real time
+    - contoh firebase
+  - kappa 
+    - semua jadi stream
+  - dataware house
+    - ingestion ke satu DB
+    - dashboard, reports
+- solution architecture
+  - monolith
+  - nth tier 
+  - microservices
+- EDA ... event driven
+  - state machine ... kayak teori bahasa, regex misalnya
+  - event sourcing ... semua state disimpen, bisa regenerate
+- cloud architecture pattern
+  
+
 
 
 
