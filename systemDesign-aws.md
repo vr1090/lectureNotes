@@ -148,6 +148,10 @@
   - spark --> in memory processing, ada di emr juga
 - kafka in aws
   - MSK and aws kinesis
+- kinesis bukan kafka
+  - kinesis data stream --> masukin data dari luar
+  - kinesis firehose -> buat inject data ke sql, opensearch
+  - kinesis sql -> real time sql analytics
 
 
 
