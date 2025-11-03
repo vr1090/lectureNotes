@@ -140,7 +140,14 @@
   - state machine ... kayak teori bahasa, regex misalnya
   - event sourcing ... semua state disimpen, bisa regenerate
 - cloud architecture pattern
+  - event based : cqrs and saga
+  - resilient : circuit breaker, rate limiting, retry with backoff
+- open source distributed system
+  - HDFS: namenode, datanode, big storage consist of multiple HD
+  - amazon emr --> map reduce
+  - spark --> in memory processing, ada di emr juga
   
+
 
 
 
