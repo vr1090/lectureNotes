@@ -146,7 +146,9 @@
   - HDFS: namenode, datanode, big storage consist of multiple HD
   - amazon emr --> map reduce
   - spark --> in memory processing, ada di emr juga
-  
+- kafka in aws
+  - MSK and aws kinesis
+
 
 
 
