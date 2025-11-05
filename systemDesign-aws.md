@@ -153,6 +153,14 @@
   - kinesis firehose -> buat inject data ke sql, opensearch
   - kinesis sql -> real time sql analytics
 
+## AWS networking
+- cloudfront ... CDN
+- elastic IP ... bisa ke ec2
+- RFC 1918 range
+- dedicated tenacy, shared tenacy
+- cloudformation
+- 
+
 
 
 
