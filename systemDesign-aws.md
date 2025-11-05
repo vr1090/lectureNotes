@@ -159,7 +159,7 @@
 - RFC 1918 range
 - dedicated tenacy, shared tenacy
 - cloudformation
-- 
+- VPC -> subnet -> CIDR block
 
 
 
