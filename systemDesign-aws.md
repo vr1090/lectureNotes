@@ -160,6 +160,9 @@
 - dedicated tenacy, shared tenacy
 - cloudformation
 - VPC -> subnet -> CIDR block
+- tiap subnet ada route table
+- ada route table untuk antar subnet
+- internet gateway bisa dapet inbound, nat gaetway outbound
 
 
 
