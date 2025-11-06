@@ -163,6 +163,10 @@
 - tiap subnet ada route table
 - ada route table untuk antar subnet
 - internet gateway bisa dapet inbound, nat gaetway outbound
+- security group, set di vpc level, dipakai di ec2 instance level
+- security group statefull, kalau bisa inbound, outboud ga perlu
+- NACL itu subnet level
+- 
 
 
 
