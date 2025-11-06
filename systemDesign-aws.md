@@ -166,7 +166,13 @@
 - security group, set di vpc level, dipakai di ec2 instance level
 - security group statefull, kalau bisa inbound, outboud ga perlu
 - NACL itu subnet level
-- 
+- VPC connection, bisa antar account
+- type vpc connection
+  - many to many
+  - hub and spoke
+- vpc peering max 10
+- transit gateway bisa ribuan
+
 
 
 
