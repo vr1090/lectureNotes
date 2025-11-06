@@ -172,6 +172,14 @@
   - hub and spoke
 - vpc peering max 10
 - transit gateway bisa ribuan
+- aws private link
+  - service provider
+  - service consumer
+- vpn connection
+  - costumer gateway
+  - vpn connection
+- direct gateway
+  - koneksi ke data center terdekat
 
 
 
