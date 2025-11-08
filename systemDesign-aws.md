@@ -189,6 +189,11 @@
 - documentDB
   - ini monggoDB intinya
   - document based
+- amazon neptune
+  - ObjectDB, sparql, RDF
+- elasticache
+  - in memory database
+  
 
 
 
