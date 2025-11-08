@@ -180,7 +180,11 @@
   - vpn connection
 - direct gateway
   - koneksi ke data center terdekat
+- aws shield but DDos
 
+## aws storage service
+- block, file, object
+- 
 
 
 
