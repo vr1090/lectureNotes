@@ -184,7 +184,11 @@
 
 ## aws storage service
 - block, file, object
-- 
+- dynamodb
+  - RCU, WCU ... read and write capacity unit
+- documentDB
+  - ini monggoDB intinya
+  - document based
 
 
 
