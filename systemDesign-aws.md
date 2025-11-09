@@ -193,7 +193,14 @@
   - ObjectDB, sparql, RDF
 - elasticache
   - in memory database
-  
+
+## aws compute service
+- AMI ... ini image
+- bisa buat base ami sendiri
+- aws cloudwatch and cloudtrail
+
+## monitoring, access management services, orchestration
+
 
 
 
