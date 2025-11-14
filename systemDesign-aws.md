@@ -201,6 +201,16 @@
 
 ## monitoring, access management services, orchestration
 
+## big data
+- EMR ... elastic map reduce
+- EMRFS ... bikin hdfs diatas s3
+- aws glue ... data integration services
+
+## system design
+- requirement
+- functional and non functional
+- capacity planning
+- approach
 
 
 
