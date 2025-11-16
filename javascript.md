@@ -20,3 +20,5 @@
 - typeoff 
     - bisa pakai ()
     - bisa ga pake ()
+- check value doang ==
+
