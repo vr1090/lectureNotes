@@ -10,3 +10,8 @@
 - docment
     - contenct type
 
+## type
+- let ikutin scope
+- var engga
+- value comparison pakai ===
+
