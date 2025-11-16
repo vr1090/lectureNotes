@@ -14,4 +14,7 @@
 - let ikutin scope
 - var engga
 - value comparison pakai ===
+- undifined itu hasil dari compiler
+- null itu harus di assign manual
+- 
 
