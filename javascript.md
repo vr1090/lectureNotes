@@ -17,4 +17,6 @@
 - undifined itu hasil dari compiler
 - null itu harus di assign manual
 - strict value ===
-
+- typeoff 
+    - bisa pakai ()
+    - bisa ga pake ()
