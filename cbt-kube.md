@@ -33,3 +33,4 @@
 - csr create di kubectl apply -f
 - kubectl certificate approve nama
 - cluster private key and cluster certificate
+- kube config, ambil dari base64
