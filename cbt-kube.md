@@ -21,3 +21,7 @@
 - active directory
 - role, rolebinding
 - association between role and user
+- cluster sendiri
+  - user key and cluster ley
+  - generate, sign the certificate
+- signed public key and private key, baru ini bisa dipake 
