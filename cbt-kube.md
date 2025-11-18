@@ -8,3 +8,16 @@
 - systemd cgroup driver
 - ```kubeadm config images pull```
   - buat pull images yg dibutuhin buat kubeadm
+- 1.14 ... kubeadm detect container runtime mana yg jalan
+- pod-network-cidr
+- ```sudo kubeadm reset```
+  - buat reset lagi server kubeadm
+
+## install cluster CNI
+- calcico container interface
+- CNI
+
+## role based access control
+- active directory
+- role, rolebinding
+- association between role and user
