@@ -24,4 +24,12 @@
 - cluster sendiri
   - user key and cluster ley
   - generate, sign the certificate
-- signed public key and private key, baru ini bisa dipake 
+- signed public key and private key, baru ini bisa dipake
+
+## certificate signing request
+- openssl
+  - genrsa
+  - req -new
+- csr create di kubectl apply -f
+- kubectl certificate approve nama
+- cluster private key and cluster certificate
