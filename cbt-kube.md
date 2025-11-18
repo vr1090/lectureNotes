@@ -3,3 +3,6 @@
 - kind
 - rancher
 
+## prepare amazon vpc and ec2
+- port penting 6551
+- systemd cgroup driver
