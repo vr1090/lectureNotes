@@ -108,6 +108,10 @@
 - hai kite-imas
 - furikaiste kudasai 
 - repeating ... furikaiste
+- itsu ... kyo ... soretemo asta
+- kyon ban ... asta no ban
+- nan ji ni?
+- roku ji k ... sichi ji ka?
 
 
 
