@@ -122,7 +122,9 @@
 - ippong ... one bottle
 - jiu-yo-hon ... fourteen bottle
 - and .. soste 
-- 
+- in dollar ... doru de
+- doru de ... in dollar
+
 
 
 
