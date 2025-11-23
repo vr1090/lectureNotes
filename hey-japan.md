@@ -13,3 +13,8 @@
 - jam awal [kara] jam akhir [made]
 - sanjikan ... lihat yg kan .. butuh 3 jam maksudnya
 - hiru.ya.su.mi ... lunch break
+
+## hari
+- senen ... get-stu-you-bi
+- selesa ... ka-you-bi
+- rabu ... tsu-i-yobi
