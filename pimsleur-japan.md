@@ -121,6 +121,8 @@
 - fout bottle ... yo hong
 - ippong ... one bottle
 - jiu-yo-hon ... fourteen bottle
+- and .. soste 
+- 
 
 
 
