@@ -113,6 +113,15 @@
 - nan ji ni?
 - roku ji k ... sichi ji ka?
 - kyo wa nani o  shimaska?
+- kyo-wa ... genki desu
+- okane ... duit
+- I have ... mote-imas
+- ikura okane mote-imas-ka?
+- one way to say same things
+- fout bottle ... yo hong
+- ippong ... one bottle
+- jiu-yo-hon ... fourteen bottle
+
 
 
 
