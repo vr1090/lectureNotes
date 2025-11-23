@@ -105,6 +105,9 @@
 - nanio nomiaska ... apa yg mau di minum
 - nanio shimasu-ka ... apa yg pengen dilakukan
 - kite udasai ... kite dengerin
+- hai kite-imas
+- furikaiste kudasai 
+- repeating ... furikaiste
 
 
 
