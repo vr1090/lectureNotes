@@ -87,6 +87,25 @@
 - nana-en ... 7 yen
 - seven oclock ... si-ci-ji
 
+## chapter 13
+- doko-de ... naji ni. sischi ji wa? sayonara
+- naj ji desu ka ... what time is it?
+- jiu -ichi 
+- ie, hachi ji desu
+- ikura desho ka? ... how much
+- jiu san eng ... ie, jiu ni eng
+-  nika jiu ni? 
+- wakarimasen 
+- it's too leate ... oso-sugi-masu
+- oso-sugimasu ... it's too late
+- listen please ... kite kudasai
+- kite kudasai ... listen please
+- shimasu .. do .. please do 
+- I do ... shimasu
+- nanio nomiaska ... apa yg mau di minum
+- nanio shimasu-ka ... apa yg pengen dilakukan
+- kite udasai ... kite dengerin
+
 
 
 
