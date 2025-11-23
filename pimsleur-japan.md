@@ -112,6 +112,8 @@
 - kyon ban ... asta no ban
 - nan ji ni?
 - roku ji k ... sichi ji ka?
+- kyo wa nani o  shimaska?
+
 
 
 
