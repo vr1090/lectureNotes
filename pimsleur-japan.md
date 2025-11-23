@@ -124,7 +124,8 @@
 - and .. soste 
 - in dollar ... doru de
 - doru de ... in dollar
-
+- go doru desu
+- 
 
 
 
