@@ -6,3 +6,4 @@
   - code
 - C4 context, container, component, code
 - circling around, make you back to start
+- living in one system software boundary
