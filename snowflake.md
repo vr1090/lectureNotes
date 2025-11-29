@@ -8,3 +8,5 @@
 - micropartition:
   - columnar datastore
   - 50-500 MB
+- snow pipe : buat load data ke snowflake
+- loading data using dbt, fivetran
