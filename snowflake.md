@@ -11,3 +11,11 @@
 - snow pipe : buat load data ke snowflake
 - loading data using dbt, fivetran
 - MPP masive parallel processing
+- micro partition
+- effective large volume database
+- small block of data
+  - bisa paralel
+
+## data engineering snowflake
+- virtual warehouse
+- 
