@@ -18,4 +18,5 @@
 
 ## data engineering snowflake
 - virtual warehouse
-- 
+- snowpipe ... taruh data di snowflake
+- snowflake streams
