@@ -10,3 +10,4 @@
   - 50-500 MB
 - snow pipe : buat load data ke snowflake
 - loading data using dbt, fivetran
+- MPP masive parallel processing
