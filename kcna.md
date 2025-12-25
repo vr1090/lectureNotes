@@ -5,4 +5,5 @@
 - pull based for security
 - cluster version release every four months
 - gitops groups
+- jenkins x, end to end ci/cd
 
