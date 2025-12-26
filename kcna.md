@@ -9,5 +9,5 @@
 - kubectl porxy ... create secure tunnel for api server
 - no execute to evict node immediately
 - container advisor? cAdvisor
-
+- watch open connection, real time update
 
