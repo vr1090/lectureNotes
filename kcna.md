@@ -7,4 +7,7 @@
 - gitops groups
 - jenkins x, end to end ci/cd
 - kubectl porxy ... create secure tunnel for api server
+- no execute to evict node immediately
+- container advisor? cAdvisor
+
 
