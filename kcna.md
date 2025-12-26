@@ -10,4 +10,5 @@
 - no execute to evict node immediately
 - container advisor? cAdvisor
 - watch open connection, real time update
+- stateful set, persistent ID
 
