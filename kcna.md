@@ -13,3 +13,4 @@
 - stateful set, persistent ID
 - git ops, auto sync
 - encryptionConfig auto
+- hpa with costum metric
