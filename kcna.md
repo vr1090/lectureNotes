@@ -12,3 +12,4 @@
 - watch open connection, real time update
 - stateful set, persistent ID
 - git ops, auto sync
+- encryptionConfig auto
