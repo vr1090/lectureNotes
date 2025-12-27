@@ -14,3 +14,4 @@
 - git ops, auto sync
 - encryptionConfig auto
 - hpa with costum metric
+- taint and toleration, pod to node assignment
