@@ -16,4 +16,5 @@
 - hpa with costum metric
 - taint and toleration, pod to node assignment
 - class level and per instance state
+- log rotation policies, biar engga numpuk lognya
 
