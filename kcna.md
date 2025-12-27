@@ -19,3 +19,4 @@
 - log rotation policies, biar engga numpuk lognya
 - agregation layer, biar core and additional jadi satu
 - kube-proxy ---> service routing, pod to pod comm-> cni
+- federation ... scrape metrics from one to another
