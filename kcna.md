@@ -15,3 +15,5 @@
 - encryptionConfig auto
 - hpa with costum metric
 - taint and toleration, pod to node assignment
+- class level and per instance state
+
