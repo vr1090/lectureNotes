@@ -21,3 +21,6 @@
 - kube-proxy ---> service routing, pod to pod comm-> cni
 - federation ... scrape metrics from one to another
 - kubernetes operator, buat statefull services
+
+## section 5
+- kube-proxy antara pod and service
