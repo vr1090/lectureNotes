@@ -24,3 +24,4 @@
 
 ## section 5
 - kube-proxy antara pod and service
+- cluster api, manage antar cluster kube
