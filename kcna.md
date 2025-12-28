@@ -31,3 +31,18 @@
   - pilot -> manage proxy
   - citadel -> certificate related
   - mixer -> policy enforcer using telemetry
+
+## kcna exam test
+- stable api 12 months
+- 5k node, 110pod per node
+- runC, kata, enhanced security
+- splitbrain scenario ... statefulset
+- cloud control manager ... control plane
+
+## kcna no 2
+- telemetry component --> traces
+- immutable ... config map
+- service multi port, unique name
+- etcd --> network and disk I/O
+- service discovery --> env variable and DNS
+- kube selalu ada v di depan. v1alpha1
