@@ -128,6 +128,14 @@
 - ja ... jadi
 - ja jadi doru desu
 
+## chapter 14
+- biiru ga arimaska 
+- san doru 
+- hi dozo
+- o sake ga hoshi desu .... pengen sake
+- ichi-en motte imaska? ... do you have one yen
+- not, ja arimasen
+
 
 
 
