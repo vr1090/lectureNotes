@@ -26,3 +26,8 @@
 - kube-proxy antara pod and service
 - cluster api, manage antar cluster kube
 - afinity ... ada hunbungan sama deployment
+- istio
+  - telemetry --> ambilin telemetry
+  - pilot -> manage proxy
+  - citadel -> certificate related
+  - mixer -> policy enforcer using telemetry
