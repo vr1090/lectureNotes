@@ -135,6 +135,11 @@
 - o sake ga hoshi desu .... pengen sake
 - ichi-en motte imaska? ... do you have one yen
 - not, ja arimasen
+- how many dollar do you have? doru ikura motte imaska?
+- doru motte imasen ... I dont have dollar
+- tak-san ... banyak
+- kai-tai ... mau beli
+
 
 
 
