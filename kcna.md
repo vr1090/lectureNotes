@@ -38,6 +38,10 @@
 - runC, kata, enhanced security
 - splitbrain scenario ... statefulset
 - cloud control manager ... control plane
+- service: loadbalance, clusterIP, nodeport, external name
+- rook: storage management task
+- RAOO ... resilency, agility, observability, operability
+- cluster autoscaler
 
 ## kcna no 2
 - telemetry component --> traces
@@ -46,3 +50,4 @@
 - etcd --> network and disk I/O
 - service discovery --> env variable and DNS
 - kube selalu ada v di depan. v1alpha1
+- control plane: 6, 3 buat api, 3 buat etcd
