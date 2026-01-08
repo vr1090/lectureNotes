@@ -8,3 +8,4 @@
 - task ... lowest level ... anggap aja ini pod
 - task definition ... specify requirements
 - container ... virtual instance that run your task
+- service ... make sure x amount of task are running
