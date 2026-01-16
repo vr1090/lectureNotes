@@ -40,3 +40,5 @@
 ## requestquota
 - itu buat satu namespace semua
 
+## network policy
+- think like this is firewall
