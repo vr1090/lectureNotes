@@ -65,3 +65,6 @@ FOR TABLES IN SCHEMA1, SCHEMA2;```
 - \conninfo
   - buat ambil semua connection value
 - random(1,10) ... inclusive
+
+## common database
+- schema itu kayak package
