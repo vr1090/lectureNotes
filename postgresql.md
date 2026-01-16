@@ -68,3 +68,5 @@ FOR TABLES IN SCHEMA1, SCHEMA2;```
 
 ## common database
 - schema itu kayak package
+- ``` create schema user ```
+- ``` set search_path to schema ```
