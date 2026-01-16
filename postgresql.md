@@ -62,3 +62,6 @@ FOR TABLES IN SCHEMA1, SCHEMA2;```
 - on the fly, use the -c
 - excute shell \!
 - \watch
+- \conninfo
+  - buat ambil semua connection value
+- random(1,10) ... inclusive
