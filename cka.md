@@ -45,3 +45,10 @@
 
 ## soal CKA
 
+## masalah cka
+- kostumize
+- etcd, coredns
+- static pod
+- bash 
+- networkPolicy
+- gateway api
