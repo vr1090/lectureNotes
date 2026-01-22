@@ -70,3 +70,10 @@ FOR TABLES IN SCHEMA1, SCHEMA2;```
 - schema itu kayak package
 - ``` create schema user ```
 - ``` set search_path to schema ```
+
+## modern sql
+- CTE
+```
+with apalah as ()
+main query
+```
