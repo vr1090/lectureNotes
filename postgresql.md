@@ -77,3 +77,14 @@ FOR TABLES IN SCHEMA1, SCHEMA2;```
 with apalah as ()
 main query
 ```
+- explain ... asked for detail running time
+```EXPLAIN(analyze, costs off, timing off) ```
+- recursive query
+  - with recursive apalah as()
+- set di add ||
+- window function
+```
+select sum(A)
+over (partition by B order by C)
+from tableName
+```
