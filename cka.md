@@ -52,3 +52,7 @@
 - bash 
 - networkPolicy
 - gateway api
+
+## install
+- kubeadm
+- 
