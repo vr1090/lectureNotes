@@ -88,3 +88,7 @@ select sum(A)
   over (partition by B order by C) --nempel di column def
 from tableName
 ```
+
+## index
+- m-search
+
