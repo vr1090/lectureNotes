@@ -8,4 +8,6 @@
   - debugging
   - form and validation
 - component based UI
+- single file component (SFC)
+
 
