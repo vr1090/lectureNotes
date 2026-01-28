@@ -6,3 +6,5 @@
   - state management
   - routing
   - debugging
+  - form and validation
+  
