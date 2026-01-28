@@ -7,4 +7,5 @@
   - routing
   - debugging
   - form and validation
-  
+- component based UI
+
