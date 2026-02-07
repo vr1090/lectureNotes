@@ -9,5 +9,7 @@
   - form and validation
 - component based UI
 - single file component (SFC)
+- atomic design
+
 
 

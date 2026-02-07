@@ -56,3 +56,6 @@
 ## install
 - kubeadm
 - 
+
+## kostumize
+- base and overlays
