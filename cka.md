@@ -59,3 +59,6 @@
 
 ## kostumize
 - base and overlays
+- apply ke folder
+- k apply -k namaFolder
+
