@@ -63,3 +63,7 @@
 - k apply -k namaFolder
 
 ## cka exam 2
+- taint
+  - key
+  - value
+  - effects

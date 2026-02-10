@@ -76,5 +76,6 @@
 - PCB .. process control block
     - info about a process
 
-
-    
+## I/O system
+- pci, usb. slow lah
+- 
