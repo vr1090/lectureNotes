@@ -62,3 +62,4 @@
 - apply ke folder
 - k apply -k namaFolder
 
+## cka exam 2
