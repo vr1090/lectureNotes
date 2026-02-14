@@ -78,4 +78,6 @@
 
 ## I/O system
 - pci, usb. slow lah
-- 
+- canonical ... not a real one
+- status, command , data
+- livelock .. checking not not usefull
