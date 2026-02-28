@@ -45,4 +45,8 @@
 
 ## enterprise architecture
 - business and IT alignment
-- 
+- EA as communication medium
+- EA is not a blueprint like in classic architecture
+  - rather a medium for communication
+  - pragmatic evolution of business and IT
+  - for planning not for implementation
