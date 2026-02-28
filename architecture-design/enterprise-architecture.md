@@ -5,4 +5,10 @@
   - business process + IT infra
 - ADM architecture development method
   - preeliminaries
-    
+- digital
+  - customer
+  - competition
+  - data
+  - innovation
+  - value
+
