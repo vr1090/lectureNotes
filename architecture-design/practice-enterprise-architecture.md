@@ -43,10 +43,33 @@
   - better IT planning
   - business and IT alignment
 
-## enterprise architecture
+## what is enterprise architecture
 - business and IT alignment
 - EA as communication medium
 - EA is not a blueprint like in classic architecture
   - rather a medium for communication
   - pragmatic evolution of business and IT
   - for planning not for implementation
+- document
+  - business
+  - apps
+  - data
+  - integration
+  - infrastructure
+  - security
+- EA practice
+  - use docs as communication tools
+  - EA artifacts
+    - Graphical
+    - textual
+    - tabular
+  - type of document
+    - decision
+    - facts
+  - scope
+    - permanent
+    - temporary
+- EA architects are developers of enterprise artifacts
+
+## EA and city planning
+- compare EA just like planning city
