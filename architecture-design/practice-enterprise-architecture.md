@@ -73,3 +73,11 @@
 
 ## EA and city planning
 - compare EA just like planning city
+- CSVLOD
+  - consideration
+  - standard
+  - vision
+  - landscape
+  - outline
+  - design
+
