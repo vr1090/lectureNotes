@@ -80,4 +80,9 @@
   - landscape
   - outline
   - design
-
+- discussion IT
+  - operating model
+  - business capability
+  - specific business needs
+  - business process
+  - business requirements
