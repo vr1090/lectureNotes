@@ -6,3 +6,6 @@
   - eksplorasi
   - estimasi ... tebak populasi gimana
   - hypotesis testing
+- stata ... ini software
+- shape ... buat cek rows and cols
+- columns ... list column names
