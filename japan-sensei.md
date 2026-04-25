@@ -1,0 +1,30 @@
+## meeting 1
+- mo --> juga pengganti wa
+- gakusei --> murid
+- desu:
+    - penanda sopan
+- donata --
+- dare ... siapa
+    - kasual
+- donata ---siapa
+    - sopan
+- kata ... orang
+- nansai desuka
+    - sai .. umur
+- oikutsu desuka
+    - umur berapa
+- kewarganegaraan 
+    - jin
+- bahasa
+    - go
+- eigo ... bahasa ingris
+- renshu .. latihan
+- igirisu
+- no .. kepemilikan
+- shain ... pegwai
+    - pegawai ... mandiri no shain desu
+- kenyusha .. peneliti
+- kobebyoin ... rumah sakit
+- EA ... air
+- burajirano shain desu
+- afiliasi pakai no
