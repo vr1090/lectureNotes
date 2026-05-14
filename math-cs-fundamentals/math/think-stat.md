@@ -9,3 +9,4 @@
 - stata ... ini software
 - shape ... buat cek rows and cols
 - columns ... list column names
+  - column ini series
