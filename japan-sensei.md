@@ -28,3 +28,22 @@
 - EA ... air
 - burajirano shain desu
 - afiliasi pakai no
+
+## kata tunjuk
+- kore
+- sore
+- are
+- jiso ... kamus
+- kasa .. payung
+- sodesu .,.. benar ... betul
+- noto .. notes
+    - techo ... buku agenda
+- meishi ... kartu nama
+- zashi ... majalah
+- kaban ... taban
+- kaji ... kunci
+- no detail penjelasan kata benda
+- kuruma no kagi desu
+- ieno kagi ...
+- hon ... buku 
+- 
