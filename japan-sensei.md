@@ -40,10 +40,36 @@
     - techo ... buku agenda
 - meishi ... kartu nama
 - zashi ... majalah
-- kaban ... taban
+- kaban ... tas
 - kaji ... kunci
 - no detail penjelasan kata benda
 - kuruma no kagi desu
 - ieno kagi ...
 - hon ... buku 
-- 
+
+## satuan hitung:
+- 1 hito tsu
+- 2 fu.ta tsu
+- 3 mit tsu
+- 4 yot tsu
+- 5. it.tsu tsu
+- 6. mut tsu
+- 7  nana tsu
+- 8 yat tsu
+- 9 kokono tsu
+- 10 too
+
+## tanggalan
+- 1日 → ついたち, tsu.i.ta.chi
+- 2日 → ふつか, fu.tsu.ka
+- 3日 → みっか, mi.kka
+- 4日 → よっか , yo.kka
+- 5日 → いつか , it.tsu.ka
+- 6日 → むいか, mu.i.ka
+- 7日 → なのか, na.no.ka
+- 8日 → ようか, yo.u.ka
+- 9日 → ここのか. ko.ko.no.ka
+- 10日 → とおか, to.u.ka
+- 14日 → じゅうよっか, juu.yo.ka
+- 20日 → はつか, ha.tsu.ka
+- 24日 → にじゅうよっか. ni.juu.yo.ka
