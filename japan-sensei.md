@@ -81,3 +81,39 @@
 - gosen -- pagi
 - byou.in ... rumah sakit
 - 
+
+## halaman 32
+- tenses
+    - past
+        - masta ... buat past
+        - masen desta ... did not
+    - presents ...
+        - maiasa, mainichi ... present ... masu ...
+    - future ... future ... akan terjadi
+        - masen ... not , tidak belajar
+- hatara.kimasu
+
+## halaman 34
+- maininichi --- 
+- oto.tou ... 2 hari lalu
+- asta kemaren
+- koto.shi ... tahun ini
+- bangun .. okimasu
+- nemas ... tidur
+- hatarakimasu ... bekerja
+- mimas ... nonton
+- benkyoshimas ... belajar
+- ikimasu ... pergi
+- kairimasu ... pulang
+- kimasu ... datang
+- uchi ... rumah
+- he(tulisan), e, tempat
+- de ... alat, cara pemakaian
+- to ... bersama 
+- dare ... siapa?
+- hitori --> sendiri, de ... dengan sendiri.. 
+
+## pr minggu depan
+- mina no nihongo
+- halaman 46 dan 47, nomor 4 dan 5
+        
