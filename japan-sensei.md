@@ -73,3 +73,11 @@
 - 14日 → じゅうよっか, juu.yo.ka
 - 20日 → はつか, ha.tsu.ka
 - 24日 → にじゅうよっか. ni.juu.yo.ka
+
+
+## PR hal 39, 5 and 6
+- ki.no.u --> kemarin
+- gogo .. malem
+- gosen -- pagi
+- byou.in ... rumah sakit
+- 
