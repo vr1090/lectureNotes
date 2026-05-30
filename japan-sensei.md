@@ -134,4 +134,128 @@
 ## pr minggu depan
 - mina no nihongo
 - halaman 46 dan 47, nomor 4 dan 5
+
+## hiragana dan katakana
+- Jepang punya 3 sistem tulisan:
+    - Hiragana (ひらがな)
+    - Katakana (カタカナ)
+    - Kanji (漢字)
+- Fokus awal: hiragana dan katakana dulu
+
+### hiragana (ひらがな)
+- Dipakai untuk:
+    - kata asli Jepang
+    - partikel (wa, ga, no, ni, de)
+    - akhiran kata kerja/kata sifat
+    - furigana (cara baca kanji)
+- Contoh:
+    - わたしは がくせい です (watashi wa gakusei desu)
+    - これ は ほん です (kore wa hon desu)
+
+### katakana (カタカナ)
+- Dipakai untuk:
+    - kata serapan asing
+    - nama asing
+    - onomatope (bunyi)
+    - penekanan kata (mirip italic)
+- Contoh:
+    - コーヒー (koohii) = kopi
+    - テレビ (terebi) = TV
+    - インドネシア (indoneshia) = Indonesia
+
+### bedanya singkat
+- Hiragana: bentuk lebih melengkung, dipakai untuk kata Jepang asli
+- Katakana: bentuk lebih tegas/kotak, dipakai untuk kata asing
+
+### huruf dasar (a-i-u-e-o)
+- Hiragana: あ い う え お
+- Katakana: ア イ ウ エ オ
+
+### tips belajar cepat
+- Hafal per baris: a-ka-sa-ta-na-ha-ma-ya-ra-wa
+- Latihan tulis tangan + baca keras setiap hari 10-15 menit
+- Mulai dari kata yang sering dipakai di kelas
+- Jangan campur hiragana dan katakana saat latihan awal
+
+### semua huruf hiragana dan katakana (gojuon)
+
+| Bunyi | Hiragana | Katakana |
+|---|---|---|
+| a | あ | ア |
+| i | い | イ |
+| u | う | ウ |
+| e | え | エ |
+| o | お | オ |
+| ka | か | カ |
+| ki | き | キ |
+| ku | く | ク |
+| ke | け | ケ |
+| ko | こ | コ |
+| sa | さ | サ |
+| shi | し | シ |
+| su | す | ス |
+| se | せ | セ |
+| so | そ | ソ |
+| ta | た | タ |
+| chi | ち | チ |
+| tsu | つ | ツ |
+| te | て | テ |
+| to | と | ト |
+| na | な | ナ |
+| ni | に | ニ |
+| nu | ぬ | ヌ |
+| ne | ね | ネ |
+| no | の | ノ |
+| ha | は | ハ |
+| hi | ひ | ヒ |
+| fu | ふ | フ |
+| he | へ | ヘ |
+| ho | ほ | ホ |
+| ma | ま | マ |
+| mi | み | ミ |
+| mu | む | ム |
+| me | め | メ |
+| mo | も | モ |
+| ya | や | ヤ |
+| yu | ゆ | ユ |
+| yo | よ | ヨ |
+| ra | ら | ラ |
+| ri | り | リ |
+| ru | る | ル |
+| re | れ | レ |
+| ro | ろ | ロ |
+| wa | わ | ワ |
+| wo | を | ヲ |
+| n | ん | ン |
+
+### huruf bertanda (dakuten dan handakuten)
+
+| Bunyi | Hiragana | Katakana |
+|---|---|---|
+| ga gi gu ge go | が ぎ ぐ げ ご | ガ ギ グ ゲ ゴ |
+| za ji zu ze zo | ざ じ ず ぜ ぞ | ザ ジ ズ ゼ ゾ |
+| da ji zu de do | だ ぢ づ で ど | ダ ヂ ヅ デ ド |
+| ba bi bu be bo | ば び ぶ べ ぼ | バ ビ ブ ベ ボ |
+| pa pi pu pe po | ぱ ぴ ぷ ぺ ぽ | パ ピ プ ペ ポ |
+
+### kombinasi yoon (bunyi gabungan)
+
+| Bunyi | Hiragana | Katakana |
+|---|---|---|
+| kya kyu kyo | きゃ きゅ きょ | キャ キュ キョ |
+| sha shu sho | しゃ しゅ しょ | シャ シュ ショ |
+| cha chu cho | ちゃ ちゅ ちょ | チャ チュ チョ |
+| nya nyu nyo | にゃ にゅ にょ | ニャ ニュ ニョ |
+| hya hyu hyo | ひゃ ひゅ ひょ | ヒャ ヒュ ヒョ |
+| mya myu myo | みゃ みゅ みょ | ミャ ミュ ミョ |
+| rya ryu ryo | りゃ りゅ りょ | リャ リュ リョ |
+| gya gyu gyo | ぎゃ ぎゅ ぎょ | ギャ ギュ ギョ |
+| ja ju jo | じゃ じゅ じょ | ジャ ジュ ジョ |
+| bya byu byo | びゃ びゅ びょ | ビャ ビュ ビョ |
+| pya pyu pyo | ぴゃ ぴゅ ぴょ | ピャ ピュ ピョ |
+
+### huruf kecil penting
+- Hiragana kecil: ぁ ぃ ぅ ぇ ぉ ゃ ゅ ょ っ
+- Katakana kecil: ァ ィ ゥ ェ ォ ャ ュ ョ ッ
+- Tanda panjang vokal (katakana): ー
       
