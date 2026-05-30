@@ -112,8 +112,26 @@
 - to ... bersama 
 - dare ... siapa?
 - hitori --> sendiri, de ... dengan sendiri.. 
+- nanji ... jam berapa
+- nande ... dengan apa
+- doko ... dimana
+
+## perbulan-an
+- 1日 → ついたち
+- 2日 → ふつか
+- 3日 → みっか
+- 4日 → よっか
+- 5日 → いつか
+- 6日 → むいか
+- 7日 → なのか
+- 8日 → ようか
+- 9日 → ここのか
+- 10日 → とおか
+- 14日 → じゅうよっか
+- 20日 → はつか
+- 24日 → にじゅうよっか
 
 ## pr minggu depan
 - mina no nihongo
 - halaman 46 dan 47, nomor 4 dan 5
-        
+      
