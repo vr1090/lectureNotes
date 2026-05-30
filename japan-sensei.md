@@ -258,4 +258,26 @@
 - Hiragana kecil: ぁ ぃ ぅ ぇ ぉ ゃ ゅ ょ っ
 - Katakana kecil: ァ ィ ゥ ェ ォ ャ ュ ョ ッ
 - Tanda panjang vokal (katakana): ー
-      
+
+
+## nan
+- youbi ... hari
+- itsu
+- itsu
+- doku
+- nan ... satuan hitung
+
+## kanji
+-  imasta .. seharian
+
+## kanji 1〜10
+- 一 — 音: いち (ichi) / 訓: ひと(つ) (hitotsu) — one  
+- 二 — 音: に (ni) / 訓: ふた(つ) (futatsu) — two  
+- 三 — 音: さん (san) / 訓: みっ(つ) (mittsu) — three  
+- 四 — 音: し (shi) / 訓: よ(ん) / よっ(つ) (yon / yottsu) — four  
+- 五 — 音: ご (go) / 訓: いつ(つ) (itsutsu) — five  
+- 六 — 音: ろく (roku) / 訓: むっ(つ) (muttsu) — six  
+- 七 — 音: しち (shichi) / 訓: なな(つ) (nanatsu) — seven  
+- 八 — 音: はち (hachi) / 訓: やっ(つ) (yattsu) — eight  
+- 九 — 音: きゅう (kyuu) / く (ku) / 訓: ここの(つ) (kokonotsu) — nine  
+- 十 — 音: じゅう (juu) / 訓: とお (too) — ten
