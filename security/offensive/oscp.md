@@ -82,6 +82,8 @@
 ## 6. information gathering
 - whois ... domain gthering
 - shodan ... hostname: megacorp
+    - hostname:paan.com port:22
+        - cari server nama x, dan port 22 kebuka
 - host 
     - host -t mx apalah.com
 - dnsrecon 
