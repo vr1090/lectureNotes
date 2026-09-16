@@ -9,3 +9,14 @@
 ## isolation
 - control plane -> api
 - data plane -> worker node
+- control:
+  - control plane:
+    - namespace
+    - access level
+    - quota
+  - data plane:
+    - network
+    - storage
+    - node isolation
+- network isolation
+  - which pod bisa konek ke pod mana
