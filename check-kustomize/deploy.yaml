@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: cupu
+  name: cupu
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cupu
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: cupu
+    spec:
+      containers:
+      - image: nginx
+        name: nginx
+        resources: {}
+status: {}

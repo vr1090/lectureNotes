@@ -29,3 +29,7 @@
 ## patches
 - patches:
   - path: apalah.yaml
+
+## json 6902
+- buat lebih precise
+- 

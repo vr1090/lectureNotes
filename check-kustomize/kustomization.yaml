@@ -1,0 +1,21 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+resources:
+  - deploy.yaml
+
+patches:
+  - patch: |-
+      apiVersion: apps/v1
+      kind: Deployment
+      metadata:
+        name: cupu
+      spec:
+        replicas: 2
+        template:
+          spec:
+            containers:
+            - name: nginx
+              image: babiGila:1.0.1
+
+namespace: "silit"
+nameSuffix: "-${SUFFIX}"
