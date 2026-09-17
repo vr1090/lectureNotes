@@ -21,3 +21,11 @@
 - kustomize.yaml
   - bases ...
     - ini itungannya extends
+
+## settings cross cutting fields
+- namespace
+- labels
+
+## patches
+- patches:
+  - path: apalah.yaml
