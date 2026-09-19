@@ -21,3 +21,4 @@
 ## jsx
 - transpiled as React.createElement('h1')
 - ```npm install vite-plugin-eslint --save-dev```
+- list key as stable identifier
