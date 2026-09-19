@@ -15,3 +15,4 @@
 ## component
 - a function, with capital letter
 - pake variable di ```{}```
+- interpolate javascript
