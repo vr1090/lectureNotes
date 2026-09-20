@@ -295,3 +295,6 @@
 mae -> previous
 ushiro -> after
 
+
+## 20 spet 2026
+- PR di buku N5 listening, hal 57 no 2
