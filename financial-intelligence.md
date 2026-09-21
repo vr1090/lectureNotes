@@ -7,4 +7,6 @@
 - allocation ... appointment of cost
 - depreciation ... cost barang dikurangi selama masa kegunaan
 - valuation of a company
-- 
+- valuation
+  - price per earning valuation
+  - 
