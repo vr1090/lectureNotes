@@ -9,4 +9,7 @@
 - valuation of a company
 - valuation
   - price per earning valuation
-  - 
+- goodwill... difference between value and cost to buy a company
+  - example name, brand
+- balance sheet-> asset, owner capital, liabilities
+- 
