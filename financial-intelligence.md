@@ -20,3 +20,15 @@
 ## income statement
 - projected ... pro forma
 - cek "in"
+- top line:
+  - sales / revenue
+  - cost and expense
+  - profit
+- always in that line
+- comparative data
+  - actual
+  - budget
+  - variance
+- sales and fraud
+- channel stuffing ... send the product to reselleer,then declare as sales
+
