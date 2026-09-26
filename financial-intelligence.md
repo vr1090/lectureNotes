@@ -31,4 +31,13 @@
   - variance
 - sales and fraud
 - channel stuffing ... send the product to reselleer,then declare as sales
+- backlog or booking
+  - order has been signed not yet started
+  - project partialy finished
+- deffered revenue
+  - income has to be earned
+  - buying plane ticket, but 3 weeks later
+  - revenue 3 weeks later
 
+## cost or expense
+- cost of goods sold
