@@ -41,3 +41,5 @@
 
 ## cost or expense
 - cost of goods sold
+- operating expense
+- 
