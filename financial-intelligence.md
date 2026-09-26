@@ -12,4 +12,11 @@
 - goodwill... difference between value and cost to buy a company
   - example name, brand
 - balance sheet-> asset, owner capital, liabilities
-- 
+
+
+## accounting
+- match the cost, with the revenue
+
+## income statement
+- projected ... pro forma
+- cek "in"
