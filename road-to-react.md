@@ -22,3 +22,8 @@
 - transpiled as React.createElement('h1')
 - ```npm install vite-plugin-eslint --save-dev```
 - list key as stable identifier
+
+
+## forms
+- tailwind/vite ... buat tailwind vite
+- ref ... buat akses value when you needed it
