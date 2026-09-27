@@ -27,3 +27,4 @@
 ## forms
 - tailwind/vite ... buat tailwind vite
 - ref ... buat akses value when you needed it
+- [] --> computed property name
