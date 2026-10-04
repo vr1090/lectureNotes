@@ -45,3 +45,9 @@
 - github flow
 - security in depth
 - four eyes principles
+
+## browser vulnerability
+- browser attack ... ini attack ke user, daripada ke server
+- xss .. cross site
+  - misal forum ... di message kasih tag <script/>
+  
