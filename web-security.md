@@ -5,3 +5,33 @@
   - darimana file2 itu datengnya
   - default src
   - script src
+  - values
+    - usafe-inline
+    - unsafe-eval
+  - same origin principle
+    - protocol, port, domain
+  - cross origin
+    - writes ... pas klik
+    - embed ... asal di declare di csp
+    - read ... in yg di block
+      - kecuali di define: access-control-allow-origin 
+    - cors .. cross origin resource sharing
+- cookie
+  - secure;http-only
+  - set-cookie: 
+  - Samesite=strict
+
+## encryption
+- block cipher .. encrypt each block
+- encryption in transit (TLS)
+- cipher suite ... 
+  - key exchange
+  - authentication
+  - bulk encryption
+  - message authentication code (MAC)
+- HSTS .. strict-transport-security
+- hashing
+  - salt ... taruh di database, random
+  - pepper .... application wide
+- integrity
+  - data sudah ditampering?
