@@ -35,3 +35,9 @@
   - pepper .... application wide
 - integrity
   - data sudah ditampering?
+
+## web server
+- input di cek
+- escaping dari input
+- database di parameterize
+
