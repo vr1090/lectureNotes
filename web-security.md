@@ -41,3 +41,7 @@
 - escaping dari input
 - database di parameterize
 
+## process
+- github flow
+- security in depth
+- four eyes principles
