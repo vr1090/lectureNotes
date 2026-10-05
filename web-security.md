@@ -50,4 +50,40 @@
 - browser attack ... ini attack ke user, daripada ke server
 - xss .. cross site
   - misal forum ... di message kasih tag <script/>
+  - yg umum:
+    - steal:
+      - username and password
+      - session id
+      - cookies
+  - stored ... xss dari database
+  - reflected ... xss dari request sendiri
+ ![picture 0](images/e592e38ad4c1e4b725a24ae3c60fdb7925a098b2e42337ca64da6a23e8aa8e0f.png)  
+  - uri fragment ... from DOM based
+- content security: pasang ini engga bisa pake inline javascript
+- CSRF ... cross site request forgery
+  - link tiny url
+  - bikin post
+  - worm
+  - making payment
+![picture 1](images/4126d1b34d34b5f6ef3e4139c175d34c91b37bedd0f8f4894748d8cfe3f6afe4.png)  
+- csrf dicombo dengan samesite=lax
+- iframe ... used as invasive
+- clickjacking ... div with opacity as zero
+  - di csp, set frame-ancestor
+  - older browser x-frame-options
+- XSSI ... cross site script inclusion
+  - adding our script in other websites
+  - token di generate di javascript
+- CORP ... cross origin request policy
+
+## network security
+- ssl predecessor of tls
+- minimal tls, pake yg 1.3
+- cyril alphabet, dibales sama chrome with phunny code.. give the ascii code
+- dns
+  - amass
+  - sublister
+- certificate
+  - certbot
+  - revoke
   
