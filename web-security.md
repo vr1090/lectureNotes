@@ -86,4 +86,12 @@
 - certificate
   - certbot
   - revoke
-  
+  - CRL, OCSP response
+  - certificate transparancy logs
+
+## authentication security
+- oauth ... open authorization
+- saml ... security assertion markup lang
+  - combo sama LDAP
+  - service provider
+  - identity provider
