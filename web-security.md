@@ -107,3 +107,4 @@
 - session store, in memory session store is the default
 - session state, example shopping cart
 - MITM attack, session biasanya yg diambil
+- http only ... javascript can not read this
