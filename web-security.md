@@ -95,3 +95,15 @@
   - combo sama LDAP
   - service provider
   - identity provider
+- zxcvbn lib ... buat nilai password complexity
+- TOTP ... time based one time password
+- storing credentials
+  - hashes, salt, pepper
+- storing outbound password
+  - secret manager
+
+## session security
+- session identifier
+- session store, in memory session store is the default
+- session state, example shopping cart
+- MITM attack, session biasanya yg diambil
