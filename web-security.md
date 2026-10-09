@@ -108,3 +108,6 @@
 - session state, example shopping cart
 - MITM attack, session biasanya yg diambil
 - http only ... javascript can not read this
+- session fixation, attacker create the session id, victim login
+
+## authorization vulnerability
