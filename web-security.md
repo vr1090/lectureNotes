@@ -111,3 +111,5 @@
 - session fixation, attacker create the session id, victim login
 
 ## authorization vulnerability
+- 403 forbidden and 404 not found
+- access control logic , pake unit test
