@@ -113,3 +113,26 @@
 ## authorization vulnerability
 - 403 forbidden and 404 not found
 - access control logic , pake unit test
+
+## payload attack
+- serialization ... from memory to I/O
+- deserization .. from I/O to memory
+- never use eval
+- prototype based ... copy everything to object
+  - modified as you wish
+- inject with code
+- XML
+  - DTD ... backus naur form, document type definition
+  - XML bomb, lolz
+- SSRF ... server side request forgery
+- handle file upload
+  - rename file
+  - check size, type and naming
+  - file upload, give permission to read/write
+
+## injection vuln
+- inject
+  - app
+  - db
+  - OS
+- 
