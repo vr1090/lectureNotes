@@ -25,3 +25,9 @@
   - 600-700 for pressure
 - color
   - use the same color, but little bit light
+- clarifying text, than label
+- semua tentang space, bolder using more space
+- ada hierarchy on the action
+  - primary bold
+  - secondary little bit soft, outline
+  - tertiary action ... use links
