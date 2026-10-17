@@ -11,3 +11,17 @@
     - sanf serif
   - color
   - border radius
+- limit choiches
+- gather all possible, choose one in the middle
+- visual hierarchy
+  - weight
+  - pake color
+- content
+  - dark color for primary content
+  - greay for secondary
+  - more gray for footer etc
+- color:
+  - normal use 400-500
+  - 600-700 for pressure
+- color
+  - use the same color, but little bit light
