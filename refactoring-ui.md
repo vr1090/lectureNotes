@@ -63,3 +63,5 @@
   - grey, panel, text etc
   - primary color, primary action, navigation main
   - accent color
+- choose your shades upfront
+- 
