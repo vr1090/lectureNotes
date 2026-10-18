@@ -31,3 +31,24 @@
   - primary bold
   - secondary little bit soft, outline
   - tertiary action ... use links
+
+
+## layout and spacing
+- start with too much white
+- then remove it one by one
+- shrink the canvas
+- start from mobile first
+- sometimes ... just modify the header
+- 12 column grid
+- speak with the space
+- dont be affraid of the space
+
+## designing text
+- use base 1.6, next size should be that
+- create a story
+- baseline
+- use safe font
+- align left as default
+- dont center long text
+- table, with number ... right allign
+- 
