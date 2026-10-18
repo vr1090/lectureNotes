@@ -51,4 +51,15 @@
 - align left as default
 - dont center long text
 - table, with number ... right allign
-- 
+- word hypenation
+- letter spacing ... can be modified
+
+## working with color
+- mulai pake hsl
+  - hue ... position in color wheel, measured in degree
+  - saturation ... the intensity, 0 -100, 0 is gray
+  - lightness ... how close to black and white, 0 black, 100 white
+- color do you need
+  - grey, panel, text etc
+  - primary color, primary action, navigation main
+  - accent color
