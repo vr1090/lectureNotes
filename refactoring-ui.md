@@ -64,4 +64,16 @@
   - primary color, primary action, navigation main
   - accent color
 - choose your shades upfront
-- 
+
+
+## gestalt principle
+- contract .... make attention
+- repetion ... relax the brain
+- alignment ... 
+- proximity ...
+- CRAB
+- color ... ambil pipa ... ligtness di mainin
+- intentional
+- serif ... luzry
+- sans serif ... no decoration
+- point grid
