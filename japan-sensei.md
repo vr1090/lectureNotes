@@ -298,3 +298,10 @@ ushiro -> after
 
 ## 20 spet 2026
 - PR di buku N5 listening, hal 57 no 2
+
+## 
+latihan
+halaman 93
+## 3 nov
+jin, jikan, 
+## minggu ketemu
